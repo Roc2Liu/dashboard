@@ -11,25 +11,41 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      # 1. 抓取数据并强制写入根目录
       - name: Fetch Bilibili Data
         shell: pwsh
         env:
-          BILIBILI_UID: ${{ secrets.BILIBILI_UID }}
+          BILIBILI_UID: "356742437"
         run: |
           $PSDefaultParameterValues['*:Encoding'] = 'utf8'
-          $animeUrl = "https://api.bilibili.com/x/space/bangumi/follow/list?vmid=$env:BILIBILI_UID&type=1&follow_status=0&pn=1&ps=30"
-          $movieUrl = "https://api.bilibili.com/x/space/bangumi/follow/list?vmid=$env:BILIBILI_UID&type=2&follow_status=0&pn=1&ps=30"
           
-          $animeRes = Invoke-RestMethod -Uri $animeUrl
-          $movieRes = Invoke-RestMethod -Uri $movieUrl
+          # 获取数据
+          $animeRes = Invoke-RestMethod -Uri "https://api.bilibili.com/x/space/bangumi/follow/list?vmid=$env:BILIBILI_UID&type=1&follow_status=0&pn=1&ps=30"
+          $movieRes = Invoke-RestMethod -Uri "https://api.bilibili.com/x/space/bangumi/follow/list?vmid=$env:BILIBILI_UID&type=2&follow_status=0&pn=1&ps=30"
           
-          if ($animeRes.code -eq 0) {
-              $animeRes.data.list | ConvertTo-Json -Depth 10 | Set-Content -Path "bangumi.json" -Encoding UTF8
-          }
-          if ($movieRes.code -eq 0) {
-              $movieRes.data.list | ConvertTo-Json -Depth 10 | Set-Content -Path "movies.json" -Encoding UTF8
+          # 确保数据存在才写入，强制保存在根目录 ./
+          if ($animeRes.code -eq 0 -and $animeRes.data.list) {
+              $animeRes.data.list | ConvertTo-Json -Depth 10 | Set-Content -Path "./bangumi.json" -Encoding UTF8
+              Write-Host "Successfully saved bangumi.json"
+          } else {
+              Write-Error "Failed to fetch bangumi data"
           }
 
+          if ($movieRes.code -eq 0 -and $movieRes.data.list) {
+              $movieRes.data.list | ConvertTo-Json -Depth 10 | Set-Content -Path "./movies.json" -Encoding UTF8
+              Write-Host "Successfully saved movies.json"
+          } else {
+              Write-Error "Failed to fetch movies data"
+          }
+
+      # 2. 检查文件是否存在，防止后续步骤报错
+      - name: Check Files Exist
+        run: |
+          ls -lh
+          if [ ! -f "bangumi.json" ]; then echo "bangumi.json missing"; exit 1; fi
+          if [ ! -f "movies.json" ]; then echo "movies.json missing"; exit 1; fi
+
+      # 3. 设置 Python 并运行分析
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -43,10 +59,12 @@ jobs:
           pip install requests
           python ai_analyze.py
 
+      # 4. 提交所有生成的文件
       - name: Git Push
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add bangumi.json movies.json ai_report.json last_hash.txt
-          git commit -m "Auto update: $(date)" || exit 0
+          # 使用 git add . 包含所有新生成的 json, report 和 hash 文件
+          git add .
+          git commit -m "Auto update footprint: $(date)" || exit 0
           git push
