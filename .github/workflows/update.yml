@@ -1,4 +1,4 @@
-name: Update Footprint Data
+name: Update BiliBili Data
 
 on:
   schedule:
@@ -15,7 +15,7 @@ jobs:
       - name: Fetch Bilibili Data
         shell: pwsh
         env:
-          BILIBILI_UID: "356742437"
+          BILIBILI_UID: ${{ secrets.BILIBILI_UID }}
         run: |
           $PSDefaultParameterValues['*:Encoding'] = 'utf8'
           
