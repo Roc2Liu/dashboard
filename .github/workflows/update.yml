@@ -1,0 +1,55 @@
+name: Update Footprint Data
+
+on:
+  schedule:
+    - cron: '0 */4 * * *' 
+  workflow_dispatch:
+
+jobs:
+  update-process:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      # 1. 抓取 B 站数据
+      - name: Fetch Data from Bilibili
+        shell: pwsh
+        env:
+          BILIBILI_UID: ${{ secrets.BILIBILI_UID }}
+        run: |
+          $PSDefaultParameterValues['*:Encoding'] = 'utf8'
+          $animeUrl = "https://api.bilibili.com/x/space/bangumi/follow/list?vmid=$env:BILIBILI_UID&type=1&follow_status=0&pn=1&ps=30"
+          $movieUrl = "https://api.bilibili.com/x/space/bangumi/follow/list?vmid=$env:BILIBILI_UID&type=2&follow_status=0&pn=1&ps=30"
+          
+          $animeRes = Invoke-RestMethod -Uri $animeUrl
+          $movieRes = Invoke-RestMethod -Uri $movieUrl
+          
+          if ($animeRes.code -eq 0) {
+              $animeRes.data.list | ConvertTo-Json -Depth 10 | Set-Content -Path "bangumi.json" -Encoding UTF8
+          }
+          if ($movieRes.code -eq 0) {
+              $movieRes.data.list | ConvertTo-Json -Depth 10 | Set-Content -Path "movies.json" -Encoding UTF8
+          }
+
+      # 2. 执行 AI 增量分析
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Run AI Analysis
+        env:
+          ARK_API_KEY: ${{ secrets.ARK_API_KEY }}
+          ENDPOINT_ID: ${{ secrets.ENDPOINT_ID }}
+        run: |
+          pip install requests
+          python ai_analyze.py
+
+      # 3. 提交变动
+      - name: Git Push
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add .
+          git commit -m "Auto update footprint: $(date)" || exit 0
+          git push
