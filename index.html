@@ -5,70 +5,131 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>影视足迹 | Dashboard</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* 自定义滚动条，更有科技感 */
+        ::-webkit-scrollbar { width: 5px; }
+        ::-webkit-scrollbar-track { background: #020617; }
+        ::-webkit-scrollbar-thumb { background: #1e293b; border-radius: 10px; }
+        ::-webkit-scrollbar-thumb:hover { background: #334155; }
+    </style>
 </head>
-<body class="bg-slate-950 text-slate-200 min-h-screen">
+<body class="bg-slate-950 text-slate-200 min-h-screen font-sans">
+
     <div class="max-w-6xl mx-auto px-4 py-12">
         <header class="mb-16">
-            <h1 class="text-3xl font-black bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-emerald-400">足迹.rar</h1>
-            <div id="ai-container" class="mt-8 p-6 rounded-2xl bg-white/5 border border-white/10 backdrop-blur-md hidden">
-                <p id="ai-report" class="text-lg italic text-emerald-50"></p>
-                <div id="ai-tag" class="mt-4 inline-block px-2 py-0.5 rounded border border-emerald-500/30 text-emerald-400 text-xs"></div>
+            <div class="flex items-center justify-between">
+                <h1 class="text-3xl font-black bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-emerald-400 tracking-tighter">
+                    足迹.rar
+                </h1>
+                <span class="text-[10px] font-mono text-slate-500 uppercase tracking-widest">Auto-Updated every 4h</span>
+            </div>
+
+            <div id="ai-container" class="mt-8 p-6 rounded-2xl bg-white/5 border border-white/10 backdrop-blur-md hidden border-l-4 border-l-emerald-500">
+                <div class="flex items-start gap-4">
+                    <div class="flex-1">
+                        <p id="ai-report" class="text-lg italic text-emerald-50 leading-relaxed"></p>
+                        <div id="ai-tag" class="mt-4 inline-block px-2 py-0.5 rounded bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-xs"></div>
+                    </div>
+                </div>
             </div>
         </header>
 
         <section class="mb-16">
-            <h2 class="text-xl font-bold mb-8 flex items-center gap-2"><span class="w-1 h-5 bg-blue-500"></span> 电影</h2>
-            <div id="movie-grid" class="grid grid-cols-2 md:grid-cols-5 gap-6"></div>
+            <h2 class="text-xl font-bold mb-8 flex items-center gap-3">
+                <span class="w-1.5 h-6 bg-blue-500 rounded-full"></span> 
+                最近追影
+            </h2>
+            <div id="movie-grid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-6">
+                <div class="animate-pulse bg-white/5 aspect-[3/4] rounded-xl"></div>
+                <div class="animate-pulse bg-white/5 aspect-[3/4] rounded-xl"></div>
+            </div>
         </section>
 
         <section>
-            <h2 class="text-xl font-bold mb-8 flex items-center gap-2"><span class="w-1 h-5 bg-emerald-500"></span> 追番</h2>
-            <div id="bangumi-grid" class="grid grid-cols-2 md:grid-cols-5 gap-6"></div>
+            <h2 class="text-xl font-bold mb-8 flex items-center gap-3">
+                <span class="w-1.5 h-6 bg-emerald-500 rounded-full"></span> 
+                新番放送
+            </h2>
+            <div id="bangumi-grid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-6">
+                <div class="animate-pulse bg-white/5 aspect-[3/4] rounded-xl"></div>
+                <div class="animate-pulse bg-white/5 aspect-[3/4] rounded-xl"></div>
+            </div>
         </section>
+
+        <footer class="mt-24 pt-8 border-t border-white/5 text-center">
+            <p class="text-slate-600 text-xs">Powered by GitHub Actions & Cloudflare Pages</p>
+        </footer>
     </div>
 
     <script>
-        const getProxyImg = (url) => `https://images.weserv.nl/?url=${url.replace(/https?:\/\//, '')}`;
+        // 使用 weserv 代理解决 B 站图片防盗链，并进行裁剪优化速度
+        const getProxyImg = (url) => {
+            if (!url) return '';
+            const cleanUrl = url.replace(/https?:\/\//, '');
+            return `https://images.weserv.nl/?url=${cleanUrl}&w=300&fit=cover&af`;
+        };
+
+        const renderCard = (item, isMovie) => {
+            const score = isMovie ? (typeof item.rating === 'object' ? item.rating.score : item.rating) : null;
+            const info = isMovie ? `评分: ${score || 'N/A'}` : (item.new_ep?.index_show || '已完结');
+            
+            return `
+                <div class="group bg-white/5 rounded-xl overflow-hidden border border-white/5 hover:border-white/20 transition-all duration-300 relative">
+                    <div class="aspect-[3/4] overflow-hidden relative">
+                        <img src="${getProxyImg(item.cover)}" 
+                             alt="${item.title}"
+                             loading="lazy"
+                             class="w-full h-full object-cover group-hover:scale-110 transition duration-700">
+                        <div class="absolute inset-0 bg-slate-950/90 p-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center text-[10px] leading-relaxed text-slate-300 overflow-y-auto">
+                            ${item.evaluate || '暂无作品简介...'}
+                        </div>
+                    </div>
+                    <div class="p-4 bg-gradient-to-b from-transparent to-black/20">
+                        <h3 class="text-xs font-bold truncate w-full" title="${item.title}">${item.title}</h3>
+                        <p class="text-[10px] mt-2 font-medium ${isMovie ? 'text-blue-400' : 'text-emerald-400'}">${info}</p>
+                    </div>
+                </div>
+            `;
+        };
 
         async function init() {
+            // 1. 加载基础番剧和电影数据
             try {
-                // 全部从当前根目录读取
-                const [bData, mData, aiData] = await Promise.all([
+                const [bData, mData] = await Promise.all([
                     fetch('./bangumi.json').then(r => r.json()),
-                    fetch('./movies.json').then(r => r.json()),
-                    fetch('./ai_report.json').then(r => r.json())
+                    fetch('./movies.json').then(r => r.json())
                 ]);
 
-                document.getElementById('ai-container').classList.remove('hidden');
-                document.getElementById('ai-report').innerText = `"${aiData.weekly_report}"`;
-                document.getElementById('ai-tag').innerText = `# ${aiData.preference_summary}`;
+                if (mData && mData.length) {
+                    document.getElementById('movie-grid').innerHTML = mData.slice(0, 10).map(i => renderCard(i, true)).join('');
+                } else {
+                    document.getElementById('movie-grid').innerHTML = '<p class="col-span-full text-slate-600 text-xs italic">暂无电影数据</p>';
+                }
 
-                const renderCard = (item, isMovie) => {
-                    const score = isMovie ? (typeof item.rating === 'object' ? item.rating.score : item.rating) : null;
-                    const info = isMovie ? `评分: ${score || 'N/A'}` : (item.new_ep?.index_show || '已完结');
-                    
-                    return `
-                        <div class="group bg-white/5 rounded-xl overflow-hidden border border-white/5 relative">
-                            <div class="aspect-[3/4] overflow-hidden">
-                                <img src="${getProxyImg(item.cover)}" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
-                                <div class="absolute inset-0 bg-slate-900/90 p-4 opacity-0 group-hover:opacity-100 transition-opacity flex items-center text-[10px] text-slate-300">
-                                    ${item.evaluate || '暂无评价'}
-                                </div>
-                            </div>
-                            <div class="p-4">
-                                <h3 class="text-xs font-bold truncate">${item.title}</h3>
-                                <p class="text-[10px] mt-2 ${isMovie ? 'text-blue-400' : 'text-emerald-400'}">${info}</p>
-                            </div>
-                        </div>
-                    `;
-                };
+                if (bData && bData.length) {
+                    document.getElementById('bangumi-grid').innerHTML = bData.slice(0, 10).map(i => renderCard(i, false)).join('');
+                } else {
+                    document.getElementById('bangumi-grid').innerHTML = '<p class="col-span-full text-slate-600 text-xs italic">暂无番剧数据</p>';
+                }
+            } catch (e) {
+                console.error("基础数据加载失败:", e);
+                document.querySelectorAll('.grid').forEach(el => el.innerHTML = '<p class="col-span-full text-red-400/50 text-xs italic">数据加载失败，请检查配置文件</p>');
+            }
 
-                document.getElementById('movie-grid').innerHTML = mData.slice(0, 10).map(i => renderCard(i, true)).join('');
-                document.getElementById('bangumi-grid').innerHTML = bData.slice(0, 10).map(i => renderCard(i, false)).join('');
-
-            } catch (e) { console.error("加载失败:", e); }
+            // 2. 独立加载 AI 报告 (即使没有报告也不影响页面显示)
+            try {
+                const aiData = await fetch('./ai_report.json').then(r => r.json());
+                if (aiData && aiData.weekly_report) {
+                    document.getElementById('ai-container').classList.remove('hidden');
+                    document.getElementById('ai-report').innerText = `"${aiData.weekly_report}"`;
+                    document.getElementById('ai-tag').innerText = `# ${aiData.preference_summary || '审美分析'}`;
+                }
+            } catch (e) {
+                console.log("AI 报告暂未生成，将在下一次 Action 运行时更新");
+            }
         }
-        init();
+
+        document.addEventListener('DOMContentLoaded', init);
     </script>
 </body>
 </html>
