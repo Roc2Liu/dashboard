@@ -1,0 +1,5141 @@
+[
+  {
+    "season_id": 102779,
+    "media_id": 26702842,
+    "season_type": 3,
+    "season_type_name": "纪录片",
+    "title": "流言终结者 第二季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b21dcf40c99aeb821b6d965fc7bfebfbd51863b9.png",
+    "total_count": 33,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "独家",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 834764,
+      "view": 21566904,
+      "danmaku": 4848,
+      "reply": 5618,
+      "coin": 2754,
+      "series_follow": 991365,
+      "series_view": 287513860,
+      "likes": 94536,
+      "favorite": 15008
+    },
+    "new_ep": {
+      "id": 1990984,
+      "index_show": "全33集",
+      "cover": "http://i0.hdslb.com/bfs/archive/3583bafcf639307905b0442b7d607b7bec934c5d.png",
+      "title": "33",
+      "pub_time": "2025-08-31 18:30:00",
+      "duration": 2971000
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/f2d5f12d8135fe51a605f4e02836c928d6460cdd.png",
+    "season_status": 13,
+    "season_title": "第二季",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1536,
+    "evaluate": "《流言终结者》第二季延续了节目核心模式，由特效专家亚当·萨维奇和杰米·海纳曼领衔主持，并正式引入托瑞·贝勒奇、卡莉·拜伦等团队成员，通过高破坏性科学实验验证都市传奇与网络谣言，每集聚焦2至4个流言，采...",
+    "areas": [
+      {
+        "id": 3,
+        "name": "美国"
+      }
+    ],
+    "subtitle": "验证都市传言",
+    "first_ep": 1863911,
+    "can_watch": 1,
+    "series": {
+      "series_id": 4798,
+      "title": "流言终结者",
+      "season_count": 5,
+      "new_season_id": 109661,
+      "series_ord": 4
+    },
+    "publish": {
+      "pub_time": "2025-07-10 18:30:00",
+      "pub_time_show": "2025年07月10日18:30",
+      "release_date": "2004-01-11",
+      "release_date_show": "2004年1月11日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 203750,
+        "season_id": 102779,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 206795,
+        "season_id": 102779,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "dujia",
+        "title": "预告片",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss102779",
+    "badge_info": {
+      "text": "独家",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+      }
+    },
+    "renewal_time": "每周四、五、六、日18:30更新",
+    "first_ep_info": {
+      "id": 1863911,
+      "cover": "http://i0.hdslb.com/bfs/archive/cb97cf1186441b2495d326ddc8a45b2cb81aaf5e.png",
+      "title": "1",
+      "pub_time": "2025-07-10 18:30:00",
+      "duration": 2971000
+    },
+    "formal_ep_count": 33,
+    "short_url": "https://b23.tv/ss102779",
+    "badge_infos": {
+      "content_attr": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      }
+    },
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/90061966a437954e58faa63e11bc3b611bd13a6c.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/753133d252596a5f7a62c5bfcf7963ada4d989ad.png",
+    "subtitle_14": "硬核实验，验证都市传言",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 7584632,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "《流言终结者》第二季延续了节目核心模式，由特效专家亚当·萨维奇和杰米·海纳曼领衔主持，并正式引入托瑞·贝勒奇、卡莉·拜伦等团队成员，通过高破坏性科学实验验证都市传奇与网络谣言，每集聚焦2至4个流言，采用爆炸、撞击等极端手段还原场景，最终以“证实”（CONFIRMED）、“破解”（BUSTED）或“有此可能”（PLAUSIBLE）三类结论揭示真相。",
+    "styles": [
+      "科技"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_supported": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 91961,
+    "media_id": 25596428,
+    "season_type": 3,
+    "season_type_name": "纪录片",
+    "title": "宇宙",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/6b7e99d10037915109410d645378346ed3e09f01.jpg",
+    "total_count": 5,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 307004,
+      "view": 10810047,
+      "danmaku": 12545,
+      "reply": 5491,
+      "coin": 18854,
+      "series_follow": 358028,
+      "series_view": 35619837,
+      "likes": 116394,
+      "favorite": 36667
+    },
+    "new_ep": {
+      "id": 1533622,
+      "index_show": "全5集",
+      "cover": "http://i0.hdslb.com/bfs/archive/ec06964345317678af779f38aa591a5a2734b55a.jpg",
+      "title": "05中配版",
+      "long_title": "万物伊始",
+      "pub_time": "2025-04-23 19:00:00",
+      "duration": 3505000
+    },
+    "rating": {
+      "score": 9.9,
+      "count": 123
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/8a58f61a88dd4af25e0cbdb6f8a3e78ae2d9a749.jpg",
+    "season_status": 13,
+    "season_title": "宇宙",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1536,
+    "evaluate": "《宇宙》是一部由Ashley Gething执导，布莱恩·考克斯解说的英国BBC纪录片。该片探究广阔的宇宙空间，揭示永恒变化的宇宙的那些纯粹的戏剧性时刻。...",
+    "areas": [
+      {
+        "id": 4,
+        "name": "英国"
+      }
+    ],
+    "subtitle": "探究广阔的宇宙空间",
+    "first_ep": 1533612,
+    "can_watch": 1,
+    "series": {
+      "series_id": 7533,
+      "title": "布莱恩·考克斯行星系列",
+      "season_count": 4,
+      "new_season_id": 111195,
+      "series_ord": 2
+    },
+    "publish": {
+      "pub_time": "2025-03-26 19:00:00",
+      "pub_time_show": "2025年03月26日19:00",
+      "release_date": "2021-10-27",
+      "release_date_show": "2021年10月27日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 182233,
+        "season_id": 91961,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 183197,
+        "season_id": 91961,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "bilibili",
+        "title": "预告片",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 250760,
+        "season_id": 91961,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 4,
+        "copyright": "ugc",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 183198,
+        "season_id": 91961,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "bilibili",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 187489,
+        "season_id": 91961,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "bilibili",
+        "title": "跟up主一起遨游宇宙",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss91961",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "renewal_time": "每周三 19:00更新",
+    "first_ep_info": {
+      "id": 1533612,
+      "cover": "http://i0.hdslb.com/bfs/archive/f12c2af265ed1d49bff1cad885e295686d2dc29a.jpg",
+      "title": "01",
+      "long_title": "太阳源起",
+      "pub_time": "2025-03-26 19:00:01",
+      "duration": 3506600
+    },
+    "formal_ep_count": 10,
+    "short_url": "https://b23.tv/ss91961",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/3ca11e8b76523bfdc177f9ad3b2dc3e95069a094.jpg",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/219fe669d1930c55f79e3e0953ee857bf4d0afb2.png",
+    "subtitle_14": "揭示宇宙永恒变化的戏剧瞬间",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 7584632,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "《宇宙》是一部由Ashley Gething执导，布莱恩·考克斯解说的英国BBC纪录片。该片探究广阔的宇宙空间，揭示永恒变化的宇宙的那些纯粹的戏剧性时刻。",
+    "styles": [
+      "宇宙"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_supported": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 90659,
+    "media_id": 25465120,
+    "season_type": 3,
+    "season_type_name": "纪录片",
+    "title": "行星",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/1a7604a15b492d33ad05ed4c4b26f3050495eee0.png",
+    "total_count": 5,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 276330,
+      "view": 2779130,
+      "danmaku": 5609,
+      "reply": 1167,
+      "coin": 4656,
+      "series_follow": 358028,
+      "series_view": 35619837,
+      "likes": 19216,
+      "favorite": 20056
+    },
+    "new_ep": {
+      "id": 1508546,
+      "index_show": "全5集",
+      "cover": "http://i0.hdslb.com/bfs/archive/52b5d4b2b1ecc8fa4305c8f8e1de14099c66eb0b.jpg",
+      "title": "第5集中配版",
+      "long_title": "黑暗之地：太阳系外缘",
+      "pub_time": "2025-03-16 18:30:01",
+      "duration": 3514000
+    },
+    "rating": {
+      "score": 9.9,
+      "count": 122
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/effb388c513f30891077cd57f927d268f38c9b0e.png",
+    "season_status": 13,
+    "season_title": "行星",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1536,
+    "evaluate": "138亿年前宇宙的故事有了开端，仅银河系就有数千亿颗恒星，而我们生活的太阳系行星渺小如尘埃，不为人知的行星故事在过去40亿年中华丽上演。随着人类观测技术的不断进步，宇宙飞船带领我们探索各个行星，此部纪...",
+    "areas": [
+      {
+        "id": 4,
+        "name": "英国"
+      }
+    ],
+    "subtitle": "讲述八大行星的故事",
+    "first_ep": 1507404,
+    "can_watch": 1,
+    "series": {
+      "series_id": 7533,
+      "title": "布莱恩·考克斯行星系列",
+      "season_count": 4,
+      "new_season_id": 111195,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2025-03-12 17:00:00",
+      "pub_time_show": "2025年03月12日17:00",
+      "release_date": "2019-05-28",
+      "release_date_show": "2019年5月28日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 179671,
+        "season_id": 90659,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 180324,
+        "season_id": 90659,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "bilibili",
+        "title": "预告",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 250758,
+        "season_id": 90659,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 4,
+        "copyright": "ugc",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss90659",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 1507404,
+      "cover": "http://i0.hdslb.com/bfs/archive/cdae93bd76066e4dcb2ab156f736d5cb3ed70da6.jpg",
+      "title": "1",
+      "long_title": "沐浴阳光：类地行星",
+      "pub_time": "2025-03-12 17:00:18",
+      "duration": 3487000
+    },
+    "formal_ep_count": 10,
+    "short_url": "https://b23.tv/ss90659",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/63351920918dc693558be567c94a712e40d2737b.jpg",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/756489e662bf49420e0860146332fdd6cdfa43cb.png",
+    "subtitle_14": "讲述太阳系八大行星的故事",
+    "viewable_crowd_type": 18,
+    "summary": "138亿年前宇宙的故事有了开端，仅银河系就有数千亿颗恒星，而我们生活的太阳系行星渺小如尘埃，不为人知的行星故事在过去40亿年中华丽上演。随着人类观测技术的不断进步，宇宙飞船带领我们探索各个行星，此部纪录片用独特的拟人化手法解构八大行星的故事，并结合最先进的科技视觉化呈现。",
+    "styles": [
+      "宇宙"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 137163,
+    "media_id": 300102649,
+    "season_type": 5,
+    "season_type_name": "电视剧",
+    "title": "九号秘事之黑帷背后",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/394c0c35c623c447cd068cedae8cfa9742734eea.png",
+    "total_count": 7,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "出品",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 1616935,
+      "view": 20698018,
+      "danmaku": 49205,
+      "reply": 13303,
+      "coin": 37515,
+      "series_follow": 1675884,
+      "series_view": 191931374,
+      "likes": 117380,
+      "favorite": 40927
+    },
+    "new_ep": {
+      "id": 3101015,
+      "index_show": "全7集",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/8ff99d650690bde09bee08e1be40e41bf17fe4ee.jpg",
+      "title": "7",
+      "long_title": "唇之舞",
+      "pub_time": "2026-02-15 12:00:00",
+      "duration": 1183000
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/63e0cf97f092a9ea1dd2d57ae4f324e37b0bc440.png",
+    "season_status": 13,
+    "season_title": "黑帷背后",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1057792,
+    "evaluate": "BBC Studios在中国大陆首部与本土公司共研开发，并针对微短剧市场量身打造的单元剧。\n日常生活，平凡人物，每个人都有不可告人的秘事。每一集都会邀请观众进入截然不同的“九号”空间，在有限时长下，体...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "揭开黑帷见人性本相",
+    "first_ep": 3062345,
+    "can_watch": 1,
+    "series": {
+      "series_id": 3956,
+      "title": "九号秘事",
+      "season_count": 10,
+      "new_season_id": 47767,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2026-02-11 12:00:00",
+      "pub_time_show": "02月11日12:00",
+      "release_date": "2026-02-11",
+      "release_date_show": "2026年2月11日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 297109,
+        "season_id": 137163,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 347942,
+        "season_id": 137163,
+        "limit_group": 316,
+        "watch_platform": 27,
+        "type": 5,
+        "copyright": "ugc",
+        "title": "高能预告",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 329817,
+        "season_id": 137163,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "幕后花絮",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 321150,
+        "season_id": 137163,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "dujia",
+        "title": "精彩抢鲜看",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss137163",
+    "badge_info": {
+      "text": "出品",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 3062345,
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/f070295de46156f9b9972631e4e1d82922a89c86.jpg",
+      "title": "1",
+      "long_title": "房间上集",
+      "pub_time": "2026-02-11 12:00:02",
+      "duration": 1103800
+    },
+    "formal_ep_count": 7,
+    "short_url": "https://b23.tv/ss137163",
+    "badge_infos": {
+      "content_attr": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      }
+    },
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/976c808030451f11e5d8fd6fe4a8227ee7b88a38.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/fa390c284d3a6e8ca96b8e3e9aae494ca2e5e9ca.png",
+    "subtitle_25": "揭开黑帷见人性本相，一人千面展现人性万花筒",
+    "viewable_crowd_type": 18,
+    "summary": "BBC Studios在中国大陆首部与本土公司共研开发，并针对微短剧市场量身打造的单元剧。\n日常生活，平凡人物，每个人都有不可告人的秘事。每一集都会邀请观众进入截然不同的“九号”空间，在有限时长下，体验小人物的故事，绽放人性微光，创造意料之外又情理之中的脑力盛宴，构筑并托举起黑色幽默与无限反转的“九号宇宙”。",
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_supported": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 95803,
+    "media_id": 25982580,
+    "season_type": 3,
+    "season_type_name": "纪录片",
+    "title": "流言终结者 第一季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b81cfdedefb20ba3d0334ae3aece16c690ef50cf.png",
+    "total_count": 16,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "独家",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 871933,
+      "view": 90060269,
+      "danmaku": 28683,
+      "reply": 27531,
+      "coin": 27667,
+      "series_follow": 991365,
+      "series_view": 287513860,
+      "likes": 1598285,
+      "favorite": 105207
+    },
+    "new_ep": {
+      "id": 1674493,
+      "index_show": "全16集",
+      "cover": "http://i0.hdslb.com/bfs/archive/301540d702ba12f4cce36c868f05272810076332.png",
+      "title": "16",
+      "pub_time": "2025-07-05 18:30:00",
+      "duration": 2188000
+    },
+    "rating": {
+      "score": 8.8,
+      "count": 416
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/73639443c6604b2aabc2225a2a89ac2a8861d7a1.png",
+    "season_status": 13,
+    "season_title": "第一季",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1536,
+    "evaluate": "《流言终结者》是一档科普系列节目，由特效专家 Adam Savage和 Jamie Hyneman主持，他们利用自身的专业和技巧，针对各种广为流传的谣言和都市传奇进行实验，用科学的方法并融入百分之百的...",
+    "areas": [
+      {
+        "id": 3,
+        "name": "美国"
+      }
+    ],
+    "subtitle": "“梦开始的地方！”",
+    "first_ep": 1626122,
+    "can_watch": 1,
+    "series": {
+      "series_id": 4798,
+      "title": "流言终结者",
+      "season_count": 5,
+      "new_season_id": 109661,
+      "series_ord": 3
+    },
+    "publish": {
+      "pub_time": "2025-04-24 18:00:00",
+      "pub_time_show": "2025年04月24日18:00",
+      "release_date": "2003-01-23",
+      "release_date_show": "2003年1月23日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 188922,
+        "season_id": 95803,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 203035,
+        "season_id": 95803,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "bilibili",
+        "title": "特别企划",
+        "ban_area_show": 1,
+        "attr": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 190579,
+        "season_id": 95803,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "dujia",
+        "title": "预告片",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 191035,
+        "season_id": 95803,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 201716,
+        "season_id": 95803,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "bilibili",
+        "title": "竖屏看点",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss95803",
+    "badge_info": {
+      "text": "独家",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+      }
+    },
+    "renewal_time": "每周四周六更新",
+    "first_ep_info": {
+      "id": 1626122,
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/b3f8a84135d89e5ea21253bd629425363287f41b.png",
+      "title": "1",
+      "pub_time": "2025-04-24 18:00:01",
+      "duration": 2954000
+    },
+    "formal_ep_count": 16,
+    "short_url": "https://b23.tv/ss95803",
+    "badge_infos": {
+      "content_attr": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      }
+    },
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/55cf02420b1b582a8414736e5db8e07cf38bc3fd.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/31f94379fdf24fd18d9ad78d476bb99d057b81f5.png",
+    "subtitle_14": "经典科普，硬核实验爷青回",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 7584632,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "《流言终结者》是一档科普系列节目，由特效专家 Adam Savage和 Jamie Hyneman主持，他们利用自身的专业和技巧，针对各种广为流传的谣言和都市传奇进行实验，用科学的方法并融入百分之百的热情以及朴实无华而不失精巧的实验，为观众揭示了一个又一个广为流传的谣言和都市传奇背后的真相。",
+    "styles": [
+      "科技"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_supported": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 97682,
+    "media_id": 26169867,
+    "season_type": 2,
+    "season_type_name": "电影",
+    "title": "浪浪山小妖怪",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/32e0bf2c5bebbdb274891b1e36b47e5329008763.png",
+    "total_count": 1,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 578885,
+      "view": 43930657,
+      "danmaku": 113936,
+      "reply": 19244,
+      "coin": 173996,
+      "series_follow": 6782983,
+      "series_view": 503785735,
+      "likes": 882138,
+      "favorite": 120818
+    },
+    "new_ep": {
+      "id": 2060436,
+      "index_show": "2025-08-02上映",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/6df3798c703e5b9c01835dd0fdb0d7089ac520ca.png",
+      "title": "正片",
+      "pub_time": "2025-11-21 09:30:00",
+      "duration": 7096000
+    },
+    "rating": {
+      "score": 9.8,
+      "count": 11128
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/1a06606bc39e24bd18a4c4f782c6a60f135fbc8d.png",
+    "season_status": 13,
+    "season_title": "浪浪山小妖怪",
+    "badge_ep": "",
+    "media_attr": 196640,
+    "season_attr": 4197904,
+    "evaluate": "没有通天本领也能踏上取经路？小猪妖决定离开浪浪山，和蛤蟆精、黄鼠狼精、猩猩怪组团取经。西行路上，小妖怪们将遇到怎样的考验？最终他们又能否实现心愿，活成自己喜欢的样子？...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "笑看小妖拼团取经记",
+    "first_ep": 2060436,
+    "can_watch": 1,
+    "series": {
+      "series_id": 5818,
+      "title": "中国奇谭",
+      "season_count": 3,
+      "new_season_id": 97682,
+      "series_ord": 3
+    },
+    "publish": {
+      "pub_time": "2025-11-21 10:00:00",
+      "pub_time_show": "2025年11月21日10:00",
+      "release_date": "2025-08-02",
+      "release_date_show": "2025年8月2日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 192364,
+        "season_id": 97682,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 209746,
+        "season_id": 97682,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "ugc",
+        "title": "预告花絮",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 269793,
+        "season_id": 97682,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "ugc",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss97682?theme=movie",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 2060436,
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/6df3798c703e5b9c01835dd0fdb0d7089ac520ca.png",
+      "title": "正片",
+      "pub_time": "2025-11-21 09:30:00",
+      "duration": 7096000
+    },
+    "formal_ep_count": 1,
+    "short_url": "https://b23.tv/ss97682",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/4c1c1f15295a64db781c668033c8f81740197f16.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/caddc956705460f03f06982292eda6874124ed7b.png",
+    "subtitle_14": "小猪妖组队勇闯取经路",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 15773384,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "没有通天本领也能踏上取经路？小猪妖决定离开浪浪山，和蛤蟆精、黄鼠狼精、猩猩怪组团取经。西行路上，小妖怪们将遇到怎样的考验？最终他们又能否实现心愿，活成自己喜欢的样子？",
+    "styles": [
+      "奇幻",
+      "剧情",
+      "喜剧",
+      "动画"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_supported": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 109661,
+    "media_id": 27396886,
+    "season_type": 3,
+    "season_type_name": "纪录片",
+    "title": "流言终结者 第三季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/e229c7c9d811f28a6b35f3bddcffb32b35e121f7.png",
+    "total_count": 30,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "独家",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 927807,
+      "view": 12450660,
+      "danmaku": 3178,
+      "reply": 4006,
+      "coin": 2828,
+      "series_follow": 991365,
+      "series_view": 287513860,
+      "likes": 194374,
+      "favorite": 13266
+    },
+    "new_ep": {
+      "id": 2183915,
+      "index_show": "全30集",
+      "cover": "http://i0.hdslb.com/bfs/archive/a5767da3c6c459aed87592f519bb3aa63ae92d46.png",
+      "title": "30",
+      "pub_time": "2025-11-08 18:30:00",
+      "duration": 3001000
+    },
+    "rating": {
+      "score": 9.2,
+      "count": 194
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/432aab0fd24cbe624eee32bbe1fbdb90f3481d49.png",
+    "season_status": 13,
+    "season_title": "第三季",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1536,
+    "evaluate": "《流言终结者》第三季延续了节目核心模式，由特效专家亚当·萨维奇和杰米·海纳曼领衔主持，通过高破坏性科学实验验证都市传奇与网络谣言，每集聚焦2至4个流言，采用爆炸、撞击等极端手段还原场景，最终以“证实”...",
+    "areas": [
+      {
+        "id": 3,
+        "name": "美国"
+      }
+    ],
+    "subtitle": "验证经典传言",
+    "first_ep": 2123508,
+    "can_watch": 1,
+    "series": {
+      "series_id": 4798,
+      "title": "流言终结者",
+      "season_count": 5,
+      "new_season_id": 109661,
+      "series_ord": 5
+    },
+    "publish": {
+      "pub_time": "2025-09-04 18:30:00",
+      "pub_time_show": "2025年09月04日18:30",
+      "release_date": "2005-02-02",
+      "release_date_show": "2005年2月2日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 217114,
+        "season_id": 109661,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 255573,
+        "season_id": 109661,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "cooperate",
+        "title": "解说集锦",
+        "ban_area_show": 1,
+        "attr": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss109661",
+    "badge_info": {
+      "text": "独家",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+      }
+    },
+    "renewal_time": "每周四、五、六18:30更新",
+    "first_ep_info": {
+      "id": 2123508,
+      "cover": "http://i0.hdslb.com/bfs/archive/42e27627282a09ce5afa1b4bf01ec9a1317aa41f.png",
+      "title": "1",
+      "pub_time": "2025-09-04 18:30:00",
+      "duration": 2954000
+    },
+    "formal_ep_count": 30,
+    "short_url": "https://b23.tv/ss109661",
+    "badge_infos": {
+      "content_attr": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      }
+    },
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/e9959bde3d9192bd5c2678546f7bfde9756c9558.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/8d62766af8d39a9c9d3b044b38e677cfe92e70c1.png",
+    "subtitle_14": "硬核实验，验证经典传言",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 7584632,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "《流言终结者》第三季延续了节目核心模式，由特效专家亚当·萨维奇和杰米·海纳曼领衔主持，通过高破坏性科学实验验证都市传奇与网络谣言，每集聚焦2至4个流言，采用爆炸、撞击等极端手段还原场景，最终以“证实”（CONFIRMED）、“破解”（BUSTED）或“有此可能”（PLAUSIBLE）三类结论揭示真相。",
+    "styles": [
+      "科技"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_supported": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 33786,
+    "media_id": 28229217,
+    "season_type": 3,
+    "season_type_name": "纪录片",
+    "title": "最远的地方",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/ec1f4d0e1a532d174d4edf079b1a3ca42e8dd885.png",
+    "total_count": 1,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 2,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 64478,
+      "view": 1223860,
+      "danmaku": 3566,
+      "reply": 486,
+      "coin": 4093,
+      "likes": 12213,
+      "favorite": 15635
+    },
+    "new_ep": {
+      "id": 328489,
+      "index_show": "全1集",
+      "cover": "http://i0.hdslb.com/bfs/archive/cb0e5328ae4d4b19f95ee4a2e17f06d1454208fb.jpg",
+      "title": "正片",
+      "pub_time": "2020-06-17 19:00:00",
+      "duration": 6955000
+    },
+    "rating": {
+      "score": 9.2,
+      "count": 259
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/5f39002c5ac7c70db78202b0865d25bc16195098.jpg",
+    "season_status": 13,
+    "season_title": "",
+    "badge_ep": "",
+    "media_attr": 0,
+    "season_attr": 3584,
+    "evaluate": "这是人类最大的成就吗？距我们120亿英里的地方有一艘微小的太空船正在离开我们的太阳系，进入深空。这是有史以来第一个人造物体。在旅行者号上的灯熄灭之前，无线电发生器可能会再打十年。它将持续飞行数百万年，...",
+    "areas": [
+      {
+        "id": 44,
+        "name": "爱尔兰"
+      }
+    ],
+    "subtitle": "当时间不再，唯有它为人类悲悯",
+    "first_ep": 328489,
+    "can_watch": 1,
+    "series": {},
+    "publish": {
+      "pub_time": "2020-06-17 19:00:00",
+      "pub_time_show": "2020年06月17日19:00",
+      "release_date": "2017-02-26",
+      "release_date_show": "2017年2月26日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 48349,
+        "season_id": 33786,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 80061,
+        "season_id": 33786,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "bilibili",
+        "title": "更多精彩",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 474363,
+        "season_id": 33786,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 4,
+        "copyright": "ugc",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss33786",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 328489,
+      "cover": "http://i0.hdslb.com/bfs/archive/cb0e5328ae4d4b19f95ee4a2e17f06d1454208fb.jpg",
+      "title": "正片",
+      "pub_time": "2020-06-17 19:00:00",
+      "duration": 6955000
+    },
+    "formal_ep_count": 1,
+    "short_url": "https://b23.tv/ss33786",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 7584632,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "这是人类最大的成就吗？距我们120亿英里的地方有一艘微小的太空船正在离开我们的太阳系，进入深空。这是有史以来第一个人造物体。在旅行者号上的灯熄灭之前，无线电发生器可能会再打十年。它将持续飞行数百万年，带着记载着地球生命和图像的金唱片一起。这或许是未来唯一证明人类存在过的事物。也许有一天，外星人会发现它并感到奇怪吧。",
+    "styles": [
+      "科技",
+      "宇宙"
+    ],
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 39078,
+    "media_id": 28234770,
+    "season_type": 3,
+    "season_type_name": "纪录片",
+    "title": "伊甸园：最后的秘境",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/7740a887e80a00600953989cd41bd0330718c801.jpg",
+    "total_count": 6,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "出品",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 2,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 347443,
+      "view": 24720319,
+      "danmaku": 66597,
+      "reply": 12278,
+      "coin": 65792,
+      "series_follow": 394534,
+      "series_view": 30104240,
+      "likes": 336350,
+      "favorite": 55277
+    },
+    "new_ep": {
+      "id": 422267,
+      "index_show": "全6集",
+      "cover": "http://i0.hdslb.com/bfs/archive/60bbc67e70be5a6cf0e5aa5c9553640dfd773187.png",
+      "title": "7",
+      "long_title": "制作特辑",
+      "pub_time": "2021-09-09 19:00:00",
+      "duration": 2802000
+    },
+    "rating": {
+      "score": 9.7,
+      "count": 2129
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/289f165c9c128fc65e74e293a8712605300baa27.jpg",
+    "season_status": 13,
+    "season_title": "英配版",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 9728,
+    "evaluate": "《伊甸园：最后的秘境》将带领观众前往地球上的遥远角落，揭示仅存的几片人类未踏足土地的奥秘。这些角落与世隔绝，物种丰富，远离人类的干扰与破坏，自由生长。本片也同时反映了这些稀有、珍贵且独特的环境在现代世...",
+    "areas": [
+      {
+        "id": 4,
+        "name": "英国"
+      }
+    ],
+    "subtitle": "神奇动物的秘密乐园",
+    "first_ep": 413366,
+    "can_watch": 1,
+    "series": {
+      "series_id": 5649,
+      "title": "伊甸园：最后的秘境",
+      "season_count": 2,
+      "new_season_id": 39260,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2021-07-25 12:00:00",
+      "pub_time_show": "2021年07月25日12:00",
+      "release_date": "2021-07-25",
+      "release_date_show": "2021年7月25日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 60774,
+        "season_id": 39078,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 61308,
+        "season_id": 39078,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "dujia",
+        "title": "预告",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 474069,
+        "season_id": 39078,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 4,
+        "copyright": "ugc",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 61388,
+        "season_id": 39078,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "彩蛋",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 61399,
+        "season_id": 39078,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "高能看点",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 79975,
+        "season_id": 39078,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "dujia",
+        "title": "更多精彩",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 86837,
+        "season_id": 39078,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "竖版也精彩",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss39078",
+    "badge_info": {
+      "text": "出品",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+      }
+    },
+    "renewal_time": "每周日 12:00更新",
+    "first_ep_info": {
+      "id": 413366,
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/34b396872b56b8033eefb6467a7b657bdbc4d45f.jpg",
+      "title": "1",
+      "long_title": "加里曼丹岛",
+      "pub_time": "2021-07-25 12:00:00",
+      "duration": 2887000
+    },
+    "formal_ep_count": 7,
+    "short_url": "https://b23.tv/ss39078",
+    "badge_infos": {
+      "content_attr": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      }
+    },
+    "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/e82dcec31bd66dfc678089602af99f95c522148e.png",
+    "horizontal_cover_16_10": "http://i0.hdslb.com/bfs/bangumi/image/2384e6f9d20028c6e722a2a53849860c60a37139.png",
+    "subtitle_14": "前往地球上最后的隐秘角落",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 7584632,
+        "type": 1,
+        "is_contribute": 1,
+        "title": "出品"
+      }
+    ],
+    "summary": "《伊甸园：最后的秘境》将带领观众前往地球上的遥远角落，揭示仅存的几片人类未踏足土地的奥秘。这些角落与世隔绝，物种丰富，远离人类的干扰与破坏，自由生长。本片也同时反映了这些稀有、珍贵且独特的环境在现代世界生存将面临的危险和挑战。微妙的平衡、丰富的物种、独特的生态系统——本片开启了一段令人屏息的旅程，前往地球上最后的伊甸园。",
+    "styles": [
+      "自然",
+      "动物"
+    ],
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 32793,
+    "media_id": 28228138,
+    "season_type": 3,
+    "season_type_name": "纪录片",
+    "title": "宇宙时空之旅：未知世界",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/7fd34722ae5e65086a0ed202db1795cbd85bf1b8.png",
+    "total_count": 12,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "独家",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 2,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 1478322,
+      "view": 50657802,
+      "danmaku": 98509,
+      "reply": 25778,
+      "coin": 136563,
+      "likes": 328358,
+      "favorite": 315966
+    },
+    "new_ep": {
+      "id": 320687,
+      "index_show": "全12集",
+      "cover": "http://i0.hdslb.com/bfs/archive/c1d549348c8cc702b0aa78ef89b8c89df8f0370f.png",
+      "title": "12",
+      "long_title": "新七大奇观",
+      "pub_time": "2020-08-04 19:00:00",
+      "duration": 2634800
+    },
+    "rating": {
+      "score": 9.8,
+      "count": 6378
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/66de99573113363d118f500c4a134ef4cae02681.jpg",
+    "season_status": 13,
+    "season_title": "",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 2560,
+    "evaluate": "在广阔无垠的时空中，有无数个尚待我们探索的世界，和等待我们诉说的故事。本季节目要带我们探索逝去和未来的世界。并带观众认识勇于探索这一切的人。...",
+    "areas": [
+      {
+        "id": 3,
+        "name": "美国"
+      }
+    ],
+    "subtitle": "向着虚空和未来",
+    "first_ep": 320676,
+    "can_watch": 1,
+    "series": {},
+    "publish": {
+      "pub_time": "2020-05-26 19:00:00",
+      "pub_time_show": "2020年05月26日19:00",
+      "release_date": "2020-03-09",
+      "release_date_show": "2020年3月9日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 43074,
+        "season_id": 32793,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 46421,
+        "season_id": 32793,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "dujia",
+        "title": "预告片",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 474361,
+        "season_id": 32793,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 4,
+        "copyright": "ugc",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 48045,
+        "season_id": 32793,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "特别企划",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 69604,
+        "season_id": 32793,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "dujia",
+        "title": "更多精彩",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss32793",
+    "badge_info": {
+      "text": "独家",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+      }
+    },
+    "renewal_time": "每周二 19:00更新",
+    "first_ep_info": {
+      "id": 320676,
+      "cover": "http://i0.hdslb.com/bfs/archive/ae3081b7278273b7e81ba14bc89892ab2ea34005.jpg",
+      "title": "1",
+      "long_title": "星梯",
+      "pub_time": "2020-05-26 19:00:00",
+      "duration": 2635760
+    },
+    "formal_ep_count": 12,
+    "short_url": "https://b23.tv/ss32793",
+    "badge_infos": {
+      "content_attr": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      }
+    },
+    "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/96c14a1ea862c4f2486a51fd7404d92dcab04aea.png",
+    "horizontal_cover_16_10": "http://i0.hdslb.com/bfs/bangumi/image/1e9f8cd8bb8ff1be223027839561b0f513154c51.png",
+    "subtitle_14": "在广阔无垠的时空探索未知世界",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 7584632,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "在广阔无垠的时空中，有无数个尚待我们探索的世界，和等待我们诉说的故事。本季节目要带我们探索逝去和未来的世界。并带观众认识勇于探索这一切的人。",
+    "styles": [
+      "宇宙"
+    ],
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 90209,
+    "media_id": 25417049,
+    "season_type": 2,
+    "season_type_name": "电影",
+    "title": "罗小黑战记2",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/862f7fba3259370d4cd22e7891a58017c8e9c811.png",
+    "total_count": 1,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 783816,
+      "view": 34055728,
+      "danmaku": 395137,
+      "reply": 53836,
+      "coin": 527004,
+      "series_follow": 9452862,
+      "series_view": 1060521472,
+      "likes": 826187,
+      "favorite": 168151
+    },
+    "new_ep": {
+      "id": 2243434,
+      "index_show": "2025-07-18上映",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/0fc6f50948147dcae52337766bbb19b2d4dc0b25.png",
+      "title": "正片",
+      "pub_time": "2025-10-24 09:50:00",
+      "duration": 7130583
+    },
+    "rating": {
+      "score": 9.9,
+      "count": 22600
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/8fa02b8c1647dd620129049ad2c02b7992b6fe15.png",
+    "season_status": 13,
+    "season_title": "罗小黑战记2",
+    "badge_ep": "",
+    "media_attr": 196640,
+    "season_attr": 3600,
+    "evaluate": "　　小黑跟随师父在小镇上过着安宁日子，分会馆遇袭，打破了妖精世界维系多年的和平，来自妖灵会馆的“全新任务”也让两人陷入分离危机，更让师父无限的处境发生翻天覆地的变化。面对环环相扣的谜团，小黑与师姐鹿野...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "看小黑暴打无限！",
+    "first_ep": 2243434,
+    "can_watch": 1,
+    "series": {
+      "series_id": 1157,
+      "title": "罗小黑战记",
+      "season_count": 3,
+      "new_season_id": 28198,
+      "series_ord": 3
+    },
+    "publish": {
+      "pub_time": "2025-10-24 10:00:00",
+      "pub_time_show": "2025年10月24日10:00",
+      "release_date": "2025-07-18",
+      "release_date_show": "2025年7月18日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 178518,
+        "season_id": 90209,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 209751,
+        "season_id": 90209,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "ugc",
+        "title": "预告花絮",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 263127,
+        "season_id": 90209,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "ugc",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss90209?theme=movie",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 2243434,
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/0fc6f50948147dcae52337766bbb19b2d4dc0b25.png",
+      "title": "正片",
+      "pub_time": "2025-10-24 09:50:00",
+      "duration": 7130583
+    },
+    "formal_ep_count": 1,
+    "short_url": "https://b23.tv/ss90209",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/1406b1cb70019c90c9dbb4caebe785e00649e93c.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/0fc6f50948147dcae52337766bbb19b2d4dc0b25.png",
+    "subtitle_14": "时隔六年回归，奔赴重逢！",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 15773384,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "　　小黑跟随师父在小镇上过着安宁日子，分会馆遇袭，打破了妖精世界维系多年的和平，来自妖灵会馆的“全新任务”也让两人陷入分离危机，更让师父无限的处境发生翻天覆地的变化。面对环环相扣的谜团，小黑与师姐鹿野共同开启了寻找真相的新冒险。这一次小黑能否经受住考验，顺利保护师父化险为夷？",
+    "styles": [
+      "奇幻",
+      "冒险",
+      "动画"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_supported": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 111195,
+    "media_id": 27547246,
+    "season_type": 3,
+    "season_type_name": "纪录片",
+    "title": "太阳系（中配版）",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/7a7aa187ec41502ce4ae8f4c1d0c8a06f04e5013.png",
+    "total_count": 5,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 324732,
+      "view": 2999803,
+      "danmaku": 2298,
+      "reply": 831,
+      "coin": 1995,
+      "series_follow": 358028,
+      "series_view": 35619837,
+      "likes": 11861,
+      "favorite": 12789
+    },
+    "new_ep": {
+      "id": 2224723,
+      "index_show": "全5集",
+      "cover": "http://i0.hdslb.com/bfs/archive/14f3ca8aec1101c183c3fd27e02c347a479f99c2.png",
+      "title": "5",
+      "long_title": "奇异世界",
+      "pub_time": "2025-10-03 19:00:57",
+      "duration": 3531000
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/dcf732f882dd678d40cef0b6e460301be494cc02.png",
+    "season_status": 13,
+    "season_title": "太阳系（中配版）",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1536,
+    "evaluate": "该片为2019年红极一时的宇宙题材纪录片《行星》的续集，探索太阳系行星和卫星每天发生的神秘事件，带领观众在太阳系中进行五次史诗般的旅行，目睹最不可思议的现象，探索每一个现象是如何拓展我们的认知极限的。...",
+    "areas": [
+      {
+        "id": 4,
+        "name": "英国"
+      }
+    ],
+    "subtitle": "宇宙中史诗般的旅行",
+    "first_ep": 2215686,
+    "can_watch": 1,
+    "series": {
+      "series_id": 7533,
+      "title": "布莱恩·考克斯行星系列",
+      "season_count": 4,
+      "new_season_id": 111195,
+      "series_ord": 4
+    },
+    "publish": {
+      "pub_time": "2025-10-03 19:00:00",
+      "pub_time_show": "2025年10月03日19:00",
+      "release_date": "2025-01-10",
+      "release_date_show": "2025年1月10日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 220111,
+        "season_id": 111195,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss111195",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 2215686,
+      "cover": "http://i0.hdslb.com/bfs/archive/47e0dfe59454c08fcd3551c1e64b993d7b28a724.jpg",
+      "title": "1",
+      "long_title": "火山世界",
+      "pub_time": "2025-10-03 19:00:00",
+      "duration": 3508000
+    },
+    "formal_ep_count": 5,
+    "short_url": "https://b23.tv/ss111195",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/40c86cfdab1b00607c1e0319237c13af9254395e.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/4a016f94b0e7700c28de3cd86acf0236ad4d6b97.png",
+    "subtitle_14": "开启一段宇宙史诗般的旅行",
+    "viewable_crowd_type": 18,
+    "summary": "该片为2019年红极一时的宇宙题材纪录片《行星》的续集，探索太阳系行星和卫星每天发生的神秘事件，带领观众在太阳系中进行五次史诗般的旅行，目睹最不可思议的现象，探索每一个现象是如何拓展我们的认知极限的。",
+    "styles": [
+      "宇宙"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_supported": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 89982,
+    "media_id": 25394385,
+    "season_type": 3,
+    "season_type_name": "纪录片",
+    "title": "环球钓鱼大冒险",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/7206be8c75b71f51954acd6b10963915804df7ac.jpg",
+    "total_count": 5,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "出品",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 117730,
+      "view": 49015737,
+      "danmaku": 35863,
+      "reply": 14967,
+      "coin": 105459,
+      "likes": 934011,
+      "favorite": 38958
+    },
+    "new_ep": {
+      "id": 1895402,
+      "index_show": "全5集",
+      "cover": "http://i0.hdslb.com/bfs/archive/27718f88afe144f0e49f4d8cb319967dc6d2d8e6.jpg",
+      "title": "5",
+      "long_title": "这里真没鱼",
+      "pub_time": "2025-07-16 19:00:00",
+      "duration": 5461188
+    },
+    "rating": {
+      "score": 8.4,
+      "count": 149
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/4ca5ba6a31e231d83bf369eee85d6e90d5b430c0.jpg",
+    "season_status": 13,
+    "season_title": "",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 9728,
+    "evaluate": "《环球钓鱼大冒险》是B站出品的首部聚焦钓鱼探险的纪录片。三位“钓鱼佬”组队远征世界，追逐每一位钓鱼人心中的终极梦想。为挑战传奇鱼种，他们穿越荒野秘境，踏上孤岛海礁。这不仅是对勇气与耐力的考验，更是一场...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "用鱼竿丈量世界！",
+    "first_ep": 1796840,
+    "can_watch": 1,
+    "series": {},
+    "publish": {
+      "pub_time": "2025-06-18 19:00:00",
+      "pub_time_show": "2025年06月18日19:00",
+      "release_date": "2025-06-18",
+      "release_date_show": "2025年6月18日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 178072,
+        "season_id": 89982,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 200576,
+        "season_id": 89982,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "钓鱼日记",
+        "ban_area_show": 1,
+        "attr": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 250757,
+        "season_id": 89982,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 4,
+        "copyright": "ugc",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 203462,
+        "season_id": 89982,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "cooperate",
+        "title": "特别企划",
+        "ban_area_show": 1,
+        "attr": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 183792,
+        "season_id": 89982,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "dujia",
+        "title": "预告",
+        "ban_area_show": 1,
+        "attr": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 203520,
+        "season_id": 89982,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "bilibili",
+        "title": "竖屏看更多精彩",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss89982",
+    "badge_info": {
+      "text": "出品",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+      }
+    },
+    "renewal_time": "每周三 19:00更新",
+    "first_ep_info": {
+      "id": 1796840,
+      "cover": "http://i0.hdslb.com/bfs/archive/055d8cea6b2d90d603b311cd0f91ff8a0c8cfc63.jpg",
+      "title": "1",
+      "long_title": "从这里开局",
+      "pub_time": "2025-06-18 19:00:00",
+      "duration": 3496000
+    },
+    "formal_ep_count": 5,
+    "short_url": "https://b23.tv/ss89982",
+    "badge_infos": {
+      "content_attr": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      }
+    },
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/50aa1d83a6eeb3e3d9b8af6d7dc8b56fe59daddc.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/8615de4ad6560a5690e82e4f69caa0c2c252548d.jpg",
+    "subtitle_14": "B站出品首部聚焦钓鱼探险纪实",
+    "viewable_crowd_type": 18,
+    "summary": "《环球钓鱼大冒险》是B站出品的首部聚焦钓鱼探险的纪录片。三位“钓鱼佬”组队远征世界，追逐每一位钓鱼人心中的终极梦想。为挑战传奇鱼种，他们穿越荒野秘境，踏上孤岛海礁。这不仅是对勇气与耐力的考验，更是一场通过钓鱼看世界的冒险之旅。跟随他们的鱼竿，探索风土人情与神秘水域，重新认识这个辽阔的星球。",
+    "styles": [
+      "运动",
+      "人文",
+      "探险",
+      "旅行"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_supported": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 38217,
+    "media_id": 28233899,
+    "season_type": 7,
+    "season_type_name": "综艺",
+    "title": "暴走《大事件》第六季",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/a6883695bcb73f2bf41f23ce29d5790828abbecc.png",
+    "total_count": 33,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "is_selection": 1,
+      "selection_style": 2,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 156904,
+      "view": 129302404,
+      "danmaku": 2589821,
+      "reply": 261820,
+      "coin": 4328977,
+      "series_follow": 458727,
+      "series_view": 302211757,
+      "likes": 5151793,
+      "favorite": 48409
+    },
+    "new_ep": {
+      "id": 391301,
+      "index_show": "全33集",
+      "cover": "http://i0.hdslb.com/bfs/archive/910637e1465907b6121cf00906c2d17d65e4ce34.jpg",
+      "title": "第33期",
+      "long_title": "第六季，最终回！",
+      "pub_time": "2021-03-05 19:38:00",
+      "duration": 1583000
+    },
+    "rating": {
+      "score": 9.7,
+      "count": 1404
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/cb66fc176732ba7907ae53cf5f2725fdc2ce4027.png",
+    "season_status": 2,
+    "season_title": "第六季",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1049088,
+    "evaluate": "暴走《大事件》 由暴走漫画出品的一档全方位脱口秀节目，节目的核心始终是坚持弘扬正确的价值观，坚持“快乐至上”，满怀娱乐精神，用清新脱俗的方式向青少年群体们传递“正能量”的快乐！...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "暴走漫画脱口秀",
+    "first_ep": 391262,
+    "can_watch": 1,
+    "series": {
+      "series_id": 5351,
+      "title": "暴走大事件",
+      "season_count": 3,
+      "new_season_id": 38217,
+      "series_ord": 3
+    },
+    "publish": {
+      "pub_time": "2021-03-05 00:00:01",
+      "pub_time_show": "2021年3月5日",
+      "release_date": "2019-01-01",
+      "release_date_show": "2019年1月1日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 57661,
+        "season_id": 38217,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "cooperate",
+        "title": "正片",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 68921,
+        "season_id": 38217,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "cooperate",
+        "title": "更多精彩",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss38217",
+    "badge_info": {
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "multi_img": {
+        "color": "",
+        "medium_remind": ""
+      }
+    },
+    "renewal_time": "暴走《大事件》第六季精华版",
+    "first_ep_info": {
+      "id": 391262,
+      "cover": "http://i0.hdslb.com/bfs/archive/eb45db9cd731691481f617a3158dbdbe6b7f9fb3.jpg",
+      "title": "红鼻子节预热特别版放送",
+      "long_title": "回顾2018那些感动瞬间",
+      "pub_time": "2021-03-05 19:23:00",
+      "duration": 4821000
+    },
+    "formal_ep_count": 30,
+    "short_url": "https://b23.tv/ss38217",
+    "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/e7887e46f29556de17e97ee664a7da081a70de0b.png",
+    "horizontal_cover_16_10": "http://i0.hdslb.com/bfs/bangumi/image/9fc24f8a96fc766e0500981cfa6829bcb5ba5f0d.png",
+    "subtitle_14": "王尼玛带你一起“快乐至上”！",
+    "subtitle_25": "用清新脱俗的方式传递“正能量”的快乐！",
+    "viewable_crowd_type": 18,
+    "summary": "暴走《大事件》 由暴走漫画出品的一档全方位脱口秀节目，节目的核心始终是坚持弘扬正确的价值观，坚持“快乐至上”，满怀娱乐精神，用清新脱俗的方式向青少年群体们传递“正能量”的快乐！",
+    "styles": [
+      "脱口秀"
+    ],
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 93142,
+    "media_id": 25715608,
+    "season_type": 3,
+    "season_type_name": "纪录片",
+    "title": "狂野之河",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/4939b1da63d8a54245cab1875c4a8735e0c8849d.png",
+    "total_count": 6,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 30984,
+      "view": 2873239,
+      "danmaku": 4273,
+      "reply": 1065,
+      "coin": 1762,
+      "series_follow": 38051,
+      "series_view": 5753179,
+      "likes": 10086,
+      "favorite": 5322
+    },
+    "new_ep": {
+      "id": 1598302,
+      "index_show": "全6集",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/f9fd97482946235dc60520c8bc446af4dc0b73e2.png",
+      "title": "6",
+      "long_title": "亚马逊河",
+      "pub_time": "2025-05-06 18:00:00",
+      "duration": 2912000
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/5751d894d985c4182096e1853c5e7e7bd85d5e9b.png",
+    "season_status": 13,
+    "season_title": "狂野之河",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1536,
+    "evaluate": "大自然源源不绝的淡水资源，竟正在以惊人的速度消失。作为极限垂钓爱好者及生物学家的杰里米•韦德，他因调查动物世界中的河中巨怪神秘鱼类而闻名，这一次他将深入世界各地，探寻河流陷入危机的重要证据。他出发至亚...",
+    "areas": [
+      {
+        "id": 3,
+        "name": "美国"
+      }
+    ],
+    "subtitle": "探寻陷入危机的河流",
+    "first_ep": 1549128,
+    "can_watch": 1,
+    "series": {
+      "series_id": 4800,
+      "title": "河中巨怪",
+      "season_count": 3,
+      "new_season_id": 93142,
+      "series_ord": 10
+    },
+    "publish": {
+      "pub_time": "2025-04-01 18:00:00",
+      "pub_time_show": "2025年04月01日18:00",
+      "release_date": "2018-04-08",
+      "release_date_show": "2018年4月8日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 184528,
+        "season_id": 93142,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 184701,
+        "season_id": 93142,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "bilibili",
+        "title": "预告片",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss93142",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "renewal_time": "每周二 18:00更新",
+    "first_ep_info": {
+      "id": 1549128,
+      "cover": "http://i0.hdslb.com/bfs/archive/0a816bef12ba10a9bf283001665a151f4001d3fb.png",
+      "title": "1",
+      "long_title": "恒河",
+      "pub_time": "2025-04-01 18:00:00",
+      "duration": 2907000
+    },
+    "formal_ep_count": 6,
+    "short_url": "https://b23.tv/ss93142",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/faea17da4e08baeb083d0c21f203d45666899a87.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/4a8bdce096963187b17001073226f303eb8b111f.png",
+    "subtitle_14": "探寻河流陷入危机的重要证据",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 7584632,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "大自然源源不绝的淡水资源，竟正在以惊人的速度消失。作为极限垂钓爱好者及生物学家的杰里米•韦德，他因调查动物世界中的河中巨怪神秘鱼类而闻名，这一次他将深入世界各地，探寻河流陷入危机的重要证据。他出发至亚马逊、恒河、密西西比、多瑙河、赞比西亚的江河脉搏，了解开采和污染是如何导致了，人类的命脉及大鱼们的家园遭到破坏。 ",
+    "styles": [
+      "探险",
+      "自然"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 45936,
+    "media_id": 21079598,
+    "season_type": 5,
+    "season_type_name": "电视剧",
+    "title": "片场日记2",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/4bda3d5e37b354946c0a866a20e7fffc495ce627.png",
+    "total_count": 12,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "出品",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 721827,
+      "view": 292083498,
+      "danmaku": 77655,
+      "reply": 39670,
+      "coin": 529375,
+      "series_follow": 841081,
+      "series_view": 516047662,
+      "likes": 9568827,
+      "favorite": 746405
+    },
+    "new_ep": {
+      "id": 775787,
+      "index_show": "全12集",
+      "cover": "http://i0.hdslb.com/bfs/archive/9f5a6dafd2abd62c2a85e84b020c73c1e8c6450f.jpg",
+      "title": "12",
+      "long_title": "这一季叫跑不了路 ",
+      "pub_time": "2023-10-06 12:00:01",
+      "duration": 547000
+    },
+    "rating": {
+      "score": 9.7,
+      "count": 2540
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/dbd0acc2aa8e2d8a97077ac281fb9bdbb1f37004.png",
+    "season_status": 13,
+    "season_title": "第二季",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1057280,
+    "evaluate": "影片讲述导演铁柱、付一毛与审核员王尼玛逐梦演艺圈的爆笑故事。在热情有限、经费不足的实际困境中，在导演们的带领下，一家名不见经传的小型影视公司“一言堂”，脚踹卡梅隆，剑指奥斯卡。力争在天时地利人和，无一...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "高分爆梗喜剧续作",
+    "first_ep": 775776,
+    "can_watch": 1,
+    "series": {
+      "series_id": 6671,
+      "title": "片场日记",
+      "season_count": 2,
+      "new_season_id": 45936,
+      "series_ord": 2
+    },
+    "publish": {
+      "pub_time": "2023-09-29 12:00:00",
+      "pub_time_show": "2023年09月29日12:00",
+      "release_date": "2023-09-29",
+      "release_date_show": "2023年9月29日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 97622,
+        "season_id": 45936,
+        "limit_group": 327,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 97984,
+        "season_id": 45936,
+        "limit_group": 327,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "更多精彩",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 97985,
+        "season_id": 45936,
+        "limit_group": 327,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "好剧速刷",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 98102,
+        "season_id": 45936,
+        "limit_group": 327,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "bilibili",
+        "title": "定档预告",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss45936",
+    "badge_info": {
+      "text": "出品",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+      }
+    },
+    "renewal_time": "首更6集，次周四、五各更新3集",
+    "first_ep_info": {
+      "id": 775776,
+      "cover": "http://i0.hdslb.com/bfs/archive/48ceeb78e99c1f36a83da3a20bd04659a4da78bf.jpg",
+      "title": "1",
+      "long_title": "他这样的能活几集",
+      "pub_time": "2023-09-29 12:00:02",
+      "duration": 734000
+    },
+    "formal_ep_count": 12,
+    "short_url": "https://b23.tv/ss45936",
+    "badge_infos": {
+      "content_attr": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      }
+    },
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/4905d87385a05116713c9956cc6ae8c55d42875c.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/8bbc4a3694349927a1c707581c77cb153953dd21.png",
+    "subtitle_14": "互联网最强吐槽“嘴替”回归！",
+    "viewable_crowd_type": 18,
+    "summary": "影片讲述导演铁柱、付一毛与审核员王尼玛逐梦演艺圈的爆笑故事。在热情有限、经费不足的实际困境中，在导演们的带领下，一家名不见经传的小型影视公司“一言堂”，脚踹卡梅隆，剑指奥斯卡。力争在天时地利人和，无一具备的情况下，用残余的热情生发出旷世的“聪明才智”，用“能躺平绝不站着”的宇宙终极懒惰滋生的消极智慧的集大成，对抗“奇葩客户”“鲜肉明星”“怪诞演职员”等影片拍摄过程中的各种状况，交出极凑合和极不靠谱的作品。",
+    "styles": [
+      "搞笑",
+      "剧情",
+      "短剧"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 41562,
+    "media_id": 28237271,
+    "season_type": 2,
+    "season_type_name": "电影",
+    "title": "11:14",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/e3b8a6bf73bbcbfbb11c60d825b75b793d6b6c6f.png",
+    "total_count": -1,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "独家",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 97789,
+      "view": 22031440,
+      "danmaku": 13845,
+      "reply": 4166,
+      "coin": 9095,
+      "likes": 386592,
+      "favorite": 39274
+    },
+    "new_ep": {
+      "id": 478272,
+      "index_show": "2003-05-16上映",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/48a6bd99c1dda372f4aef15bb6c8f6e0663263bf.jpg",
+      "title": "正片",
+      "pub_time": "2022-04-03 11:00:01",
+      "duration": 5128000
+    },
+    "rating": {
+      "score": 9.2,
+      "count": 458
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/23298f8429f1f9a12a5ef2db5c45ed71d16f66b7.png",
+    "season_status": 13,
+    "season_title": "",
+    "badge_ep": "",
+    "media_attr": 196640,
+    "season_attr": 3088,
+    "evaluate": "杰克夜间酒后驾驶，并用手机打电话聊天，却没曾想在穿过立交天桥时，一具尸体从天而降。便利店员达菲因女友雪莉怀孕打胎一事向同事步兹借钱，假扮便利店被劫。而此前，一群少年…...",
+    "areas": [
+      {
+        "id": 3,
+        "name": "美国"
+      },
+      {
+        "id": 5,
+        "name": "加拿大"
+      }
+    ],
+    "subtitle": "错综离奇烧脑悬疑片",
+    "first_ep": 478272,
+    "can_watch": 1,
+    "series": {},
+    "publish": {
+      "pub_time": "2022-04-03 11:00:00",
+      "pub_time_show": "2022年04月03日11:00",
+      "release_date": "2003-05-16",
+      "release_date_show": "2003年5月16日"
+    },
+    "mode": 1,
+    "section": [
+      {
+        "section_id": 66441,
+        "season_id": 41562,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 84655,
+        "season_id": 41562,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "dujia",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss41562?theme=movie",
+    "badge_info": {
+      "text": "独家",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 478272,
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/48a6bd99c1dda372f4aef15bb6c8f6e0663263bf.jpg",
+      "title": "正片",
+      "pub_time": "2022-04-03 11:00:01",
+      "duration": 5128000
+    },
+    "formal_ep_count": 1,
+    "short_url": "https://b23.tv/ss41562",
+    "badge_infos": {
+      "content_attr": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      }
+    },
+    "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/d229f5ca53368cda96392d8899f97a0df01f7847.png",
+    "horizontal_cover_16_10": "http://i0.hdslb.com/bfs/bangumi/image/48a6bd99c1dda372f4aef15bb6c8f6e0663263bf.jpg",
+    "subtitle_14": "错综离奇烧脑悬疑喜剧",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 15773384,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "杰克夜间酒后驾驶，并用手机打电话聊天，却没曾想在穿过立交天桥时，一具尸体从天而降。便利店员达菲因女友雪莉怀孕打胎一事向同事步兹借钱，假扮便利店被劫。而此前，一群少年…",
+    "styles": [
+      "犯罪",
+      "悬疑"
+    ],
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 75753,
+    "media_id": 23969143,
+    "season_type": 3,
+    "season_type_name": "纪录片",
+    "title": "太阳系",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/6a78b6da3e3757d4cbd14c087eed5b5ebb1189be.png",
+    "total_count": 5,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 275081,
+      "view": 19030857,
+      "danmaku": 17947,
+      "reply": 2672,
+      "coin": 13167,
+      "series_follow": 358028,
+      "series_view": 35619837,
+      "likes": 62658,
+      "favorite": 57151
+    },
+    "new_ep": {
+      "id": 1439376,
+      "index_show": "全5集",
+      "cover": "http://i0.hdslb.com/bfs/archive/14f3ca8aec1101c183c3fd27e02c347a479f99c2.png",
+      "title": "5",
+      "long_title": "奇异世界",
+      "pub_time": "2025-02-08 20:00:00",
+      "duration": 3531000
+    },
+    "rating": {
+      "score": 9.9,
+      "count": 177
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/dcf732f882dd678d40cef0b6e460301be494cc02.png",
+    "season_status": 13,
+    "season_title": "太阳系",
+    "badge_ep": "",
+    "media_attr": 196640,
+    "season_attr": 1536,
+    "evaluate": "该片为2019年红极一时的宇宙题材纪录片《行星》的续集，探索太阳系行星和卫星每天发生的神秘事件，带领观众在太阳系中进行五次史诗般的旅行，目睹最不可思议的现象，探索每一个现象是如何拓展我们的认知极限的。...",
+    "areas": [
+      {
+        "id": 4,
+        "name": "英国"
+      }
+    ],
+    "subtitle": "史诗般的宇宙旅行",
+    "first_ep": 1364834,
+    "can_watch": 1,
+    "series": {
+      "series_id": 7533,
+      "title": "布莱恩·考克斯行星系列",
+      "season_count": 4,
+      "new_season_id": 111195,
+      "series_ord": 3
+    },
+    "publish": {
+      "pub_time": "2025-01-11 20:00:00",
+      "pub_time_show": "2025年01月11日20:00",
+      "release_date": "2025-01-11",
+      "release_date_show": "2025年1月11日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 131614,
+        "season_id": 75753,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 166531,
+        "season_id": 75753,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "bilibili",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 137029,
+        "season_id": 75753,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "bilibili",
+        "title": "预告",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 169340,
+        "season_id": 75753,
+        "limit_group": 316,
+        "watch_platform": 27,
+        "type": 5,
+        "copyright": "ugc",
+        "title": "UP主陪你一起穿越太阳系",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss75753",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "renewal_time": "每周六 20:00更新",
+    "first_ep_info": {
+      "id": 1364834,
+      "cover": "http://i0.hdslb.com/bfs/archive/47e0dfe59454c08fcd3551c1e64b993d7b28a724.jpg",
+      "title": "1",
+      "long_title": "火山世界",
+      "pub_time": "2025-01-11 20:00:00",
+      "duration": 3508000
+    },
+    "formal_ep_count": 5,
+    "short_url": "https://b23.tv/ss75753",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/40c86cfdab1b00607c1e0319237c13af9254395e.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/4a016f94b0e7700c28de3cd86acf0236ad4d6b97.png",
+    "subtitle_14": "一起踏上史诗般的宇宙旅行",
+    "viewable_crowd_type": 18,
+    "summary": "该片为2019年红极一时的宇宙题材纪录片《行星》的续集，探索太阳系行星和卫星每天发生的神秘事件，带领观众在太阳系中进行五次史诗般的旅行，目睹最不可思议的现象，探索每一个现象是如何拓展我们的认知极限的。",
+    "styles": [
+      "宇宙"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_supported": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 80778,
+    "media_id": 24476130,
+    "season_type": 3,
+    "season_type_name": "纪录片",
+    "title": "河中巨怪 第八季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/784b67a8298723c094c3fcc757d6653cf4141850.png",
+    "total_count": 5,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 15483,
+      "view": 1561137,
+      "danmaku": 2485,
+      "reply": 349,
+      "coin": 1738,
+      "series_follow": 38051,
+      "series_view": 5753179,
+      "likes": 8699,
+      "favorite": 2991
+    },
+    "new_ep": {
+      "id": 1364833,
+      "index_show": "全5集",
+      "cover": "http://i0.hdslb.com/bfs/archive/27b04d9f6bc90135a65183ebc02cc3fb260ed7d7.png",
+      "title": "5",
+      "long_title": "海上之谜",
+      "pub_time": "2025-02-04 18:00:00",
+      "duration": 2909000
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/6f43d3edd23deaac02beaab757ae3ae451625fb8.png",
+    "season_status": 13,
+    "season_title": "第八季",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1536,
+    "evaluate": "本季中，生物学家兼极限渔夫杰叔继续环游世界，寻找那些传说中会攻击人类的淡水鱼及神秘生物，致力于探索未知，揭开地球河流中不为大家所熟知的生物秘密！...",
+    "areas": [
+      {
+        "id": 4,
+        "name": "英国"
+      }
+    ],
+    "subtitle": "转战海洋怪物修罗场",
+    "first_ep": 1360742,
+    "can_watch": 1,
+    "series": {
+      "series_id": 4800,
+      "title": "河中巨怪",
+      "season_count": 3,
+      "new_season_id": 93142,
+      "series_ord": 8
+    },
+    "publish": {
+      "pub_time": "2025-01-07 18:00:00",
+      "pub_time_show": "2025年01月07日18:00",
+      "release_date": "2025-01-07",
+      "release_date_show": "2025年1月7日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 136701,
+        "season_id": 80778,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 136703,
+        "season_id": 80778,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "bilibili",
+        "title": "预告",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 250732,
+        "season_id": 80778,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 4,
+        "copyright": "ugc",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss80778",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 1360742,
+      "cover": "http://i0.hdslb.com/bfs/archive/1c97f45d3aa1d790325088cc870fa64c08a6353c.jpg",
+      "title": "1",
+      "long_title": "海中利刃",
+      "pub_time": "2025-01-07 18:00:00",
+      "duration": 2911000
+    },
+    "formal_ep_count": 5,
+    "short_url": "https://b23.tv/ss80778",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/790ef97fdf3afbc0662fcdefb298fcf9a2c28db6.jpg",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/b8f5d2fa82a292a447555ca4eb319ffc1119ebe4.png",
+    "subtitle_14": "海洋才是真正的终极怪物修罗场",
+    "viewable_crowd_type": 18,
+    "summary": "本季中，生物学家兼极限渔夫杰叔继续环游世界，寻找那些传说中会攻击人类的淡水鱼及神秘生物，致力于探索未知，揭开地球河流中不为大家所熟知的生物秘密！",
+    "styles": [
+      "探险"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 39565,
+    "media_id": 28235258,
+    "season_type": 2,
+    "season_type_name": "电影",
+    "title": "恐怖游轮",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/92178150ec2b3f266247b787fc2820f9bf324bdd.png",
+    "total_count": -1,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 388206,
+      "view": 9180525,
+      "danmaku": 62830,
+      "reply": 9836,
+      "coin": 30994,
+      "likes": 102242,
+      "favorite": 31431
+    },
+    "new_ep": {
+      "id": 424738,
+      "index_show": "2009-10-16上映",
+      "cover": "http://i0.hdslb.com/bfs/archive/20ca20e8c7bf9f15819fabaa92860caaef2504b4.jpg",
+      "title": "正片",
+      "pub_time": "2021-10-04 16:00:00",
+      "duration": 5940000
+    },
+    "rating": {
+      "score": 9.5,
+      "count": 5359
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/9365fdb3d04afd9ff9282c4734e96f1d4013fee7.png",
+    "season_status": 13,
+    "season_title": "",
+    "badge_ep": "",
+    "media_attr": 196640,
+    "season_attr": 3600,
+    "evaluate": "单亲母亲杰西和一帮朋友乘游艇出海游玩，但她总有一种有不好的事情发生的感觉。不久，他们便在海上遭遇一场强烈的风暴。游艇翻船，众人落海，几经挣扎他们好不容易爬到游艇残骸上来。正当他们无计可施之时，一艘巨大...",
+    "areas": [
+      {
+        "id": 4,
+        "name": "英国"
+      },
+      {
+        "id": 43,
+        "name": "澳大利亚"
+      }
+    ],
+    "subtitle": "高分烧脑惊悚片",
+    "first_ep": 424738,
+    "can_watch": 1,
+    "series": {},
+    "publish": {
+      "pub_time": "2021-10-04 16:00:00",
+      "pub_time_show": "2021年10月04日16:00",
+      "release_date": "2009-10-16",
+      "release_date_show": "2009年10月16日"
+    },
+    "mode": 1,
+    "section": [
+      {
+        "section_id": 62278,
+        "season_id": 39565,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 87012,
+        "season_id": 39565,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "bilibili",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss39565?theme=movie",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 424738,
+      "cover": "http://i0.hdslb.com/bfs/archive/20ca20e8c7bf9f15819fabaa92860caaef2504b4.jpg",
+      "title": "正片",
+      "pub_time": "2021-10-04 16:00:00",
+      "duration": 5940000
+    },
+    "formal_ep_count": 1,
+    "short_url": "https://b23.tv/ss39565",
+    "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/fa6579ae613051cc5bc18d1d12c5835987b20cd2.png",
+    "horizontal_cover_16_10": "http://i0.hdslb.com/bfs/bangumi/image/6c5275b26b54e2a79a30d9ae0dbc033821ea0be8.png",
+    "subtitle_14": "豆瓣8.5心理悬疑电影",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 15773384,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "单亲母亲杰西和一帮朋友乘游艇出海游玩，但她总有一种有不好的事情发生的感觉。不久，他们便在海上遭遇一场强烈的风暴。游艇翻船，众人落海，几经挣扎他们好不容易爬到游艇残骸上来。正当他们无计可施之时，一艘巨大的游轮向众人缓缓驶来。",
+    "styles": [
+      "剧情",
+      "惊悚",
+      "悬疑"
+    ],
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 35535,
+    "media_id": 28231083,
+    "season_type": 2,
+    "season_type_name": "电影",
+    "title": "源代码",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/9416334e6bfbd4b94278811be21aaa3719bb2423.png",
+    "total_count": -1,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 343043,
+      "view": 7168409,
+      "danmaku": 38279,
+      "reply": 7059,
+      "coin": 33146,
+      "likes": 91697,
+      "favorite": 27373
+    },
+    "new_ep": {
+      "id": 385273,
+      "index_show": "2011-03-11上映",
+      "cover": "http://i0.hdslb.com/bfs/archive/4c119132f8f97cd5e0acb4ac139a86a8c5226275.png",
+      "title": "正片",
+      "pub_time": "2021-02-13 18:00:01",
+      "duration": 5599000
+    },
+    "rating": {
+      "score": 9.8,
+      "count": 6950
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/df4eae1ad7d625bef2126544835e5e9ece0fbebf.png",
+    "season_status": 13,
+    "season_title": "",
+    "badge_ep": "",
+    "media_attr": 196640,
+    "season_attr": 3600,
+    "evaluate": "在阿富汗执行任务的美国空军飞行员科特史蒂文斯上尉突然惊醒，发现自己在一辆高速行驶的列车上，而他的身边坐着一个素不相识的女子克里斯蒂安正在与自己讲话。科尔不知自己为什么会在这辆车上，而且他发现自己居然是...",
+    "areas": [
+      {
+        "id": 3,
+        "name": "美国"
+      },
+      {
+        "id": 5,
+        "name": "加拿大"
+      }
+    ],
+    "subtitle": "8.5分烧脑神作",
+    "first_ep": 385273,
+    "can_watch": 1,
+    "series": {},
+    "publish": {
+      "pub_time": "2021-02-13 18:00:00",
+      "pub_time_show": "2021年02月13日18:00",
+      "release_date": "2011-03-11",
+      "release_date_show": "2011年3月11日"
+    },
+    "mode": 1,
+    "section": [
+      {
+        "section_id": 51685,
+        "season_id": 35535,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 80966,
+        "season_id": 35535,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "bilibili",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss35535?theme=movie",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 385273,
+      "cover": "http://i0.hdslb.com/bfs/archive/4c119132f8f97cd5e0acb4ac139a86a8c5226275.png",
+      "title": "正片",
+      "pub_time": "2021-02-13 18:00:01",
+      "duration": 5599000
+    },
+    "formal_ep_count": 1,
+    "short_url": "https://b23.tv/ss35535",
+    "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/0ba5b8cd9a556b41abaaea0d01d899d0bfcfb58f.png",
+    "horizontal_cover_16_10": "http://i0.hdslb.com/bfs/bangumi/image/0ab487d62266c975b31b889169e37be4eac74116.png",
+    "subtitle_14": "8.5分烧脑神作，欢迎回来！",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 15773384,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "在阿富汗执行任务的美国空军飞行员科特史蒂文斯上尉突然惊醒，发现自己在一辆高速行驶的列车上，而他的身边坐着一个素不相识的女子克里斯蒂安正在与自己讲话。科尔不知自己为什么会在这辆车上，而且他发现自己居然是以另一个人的身份存在，正当他迷惑不解的时候，列车上忽然发生爆炸…",
+    "styles": [
+      "科幻",
+      "惊悚",
+      "悬疑"
+    ],
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 28585,
+    "media_id": 28222680,
+    "season_type": 2,
+    "season_type_name": "电影",
+    "title": "星际穿越",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/3b8acd7a69aa3462297b0b1f206e7093e4961914.jpg",
+    "total_count": 1,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 1684900,
+      "view": 49462210,
+      "danmaku": 301080,
+      "reply": 41484,
+      "coin": 477467,
+      "likes": 652132,
+      "favorite": 206425
+    },
+    "new_ep": {
+      "id": 285026,
+      "index_show": "2014-11-07上映",
+      "cover": "http://i0.hdslb.com/bfs/archive/c0a5b53a438b5e3c2aea79d18ff1b5074823f042.jpg",
+      "title": "正片",
+      "pub_time": "2019-10-10 18:00:00",
+      "duration": 10145000
+    },
+    "rating": {
+      "score": 9.9,
+      "count": 61547
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/f88f83acaed5acac4215d9c4c86e246891e32f8c.jpg",
+    "season_status": 13,
+    "season_title": "",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 2576,
+    "evaluate": "近未来的地球黄沙遍野，小麦、秋葵等基础农作物相继因枯萎病灭绝，人类不再像从前那样仰望星空，放纵想象力和灵感的迸发，而是每日在沙尘暴的肆虐下倒数着所剩不多的光景。在家务农的前NASA宇航员库珀（马修·麦...",
+    "areas": [
+      {
+        "id": 3,
+        "name": "美国"
+      },
+      {
+        "id": 4,
+        "name": "英国"
+      },
+      {
+        "id": 5,
+        "name": "加拿大"
+      },
+      {
+        "id": 23,
+        "name": "冰岛"
+      }
+    ],
+    "subtitle": "不要温和地走进良夜",
+    "first_ep": 285026,
+    "can_watch": 1,
+    "series": {},
+    "publish": {
+      "pub_time": "2019-10-10 18:00:00",
+      "pub_time_show": "2019年10月10日18:00",
+      "release_date": "2014-11-07",
+      "release_date_show": "2014年11月7日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 38398,
+        "season_id": 28585,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 38579,
+        "season_id": 28585,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "ugc",
+        "title": "预告花絮",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 85001,
+        "season_id": 28585,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "ugc",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 87029,
+        "season_id": 28585,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "bilibili",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss28585?theme=movie",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 285026,
+      "cover": "http://i0.hdslb.com/bfs/archive/c0a5b53a438b5e3c2aea79d18ff1b5074823f042.jpg",
+      "title": "正片",
+      "pub_time": "2019-10-10 18:00:00",
+      "duration": 10145000
+    },
+    "formal_ep_count": 1,
+    "short_url": "https://b23.tv/ss28585",
+    "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/f85c2ae58e533c401c1bcaca62913090c6dddebc.png",
+    "horizontal_cover_16_10": "http://i0.hdslb.com/bfs/bangumi/image/5d6d71e9f561ba3ac725c3442568fd57518aa62c.png",
+    "subtitle_14": "抓住，抓住光明的消逝！",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 15773384,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "近未来的地球黄沙遍野，小麦、秋葵等基础农作物相继因枯萎病灭绝，人类不再像从前那样仰望星空，放纵想象力和灵感的迸发，而是每日在沙尘暴的肆虐下倒数着所剩不多的光景。在家务农的前NASA宇航员库珀（马修·麦康纳 饰）接连在女儿墨菲的书房发现奇怪的重力场现象，随即得知在某个未知区域内前NASA成员仍秘密进行一个拯救人类的计划。\n多年以前土星附近出现神秘虫洞，NASA借机将数名宇航员派遣到遥远的星系寻找适合居住的星球。在布兰德教授（迈克尔·凯恩 饰）的劝说下，库珀忍痛告别了女儿，和其他三名专家教授女儿艾米莉亚·布兰德（安妮·海瑟薇 饰）、罗米利、多伊尔搭乘宇宙飞船前往目前已知的最有希望的三颗星球考察。\n他们穿越遥远的星系银河，感受了一小时七年光阴的沧海桑田，窥见了未知星球和黑洞的壮伟与神秘。在浩瀚宇宙的绝望而孤独角落，总有一份超越了时空的笃定情怀将他们紧紧相连……",
+    "styles": [
+      "科幻",
+      "冒险",
+      "剧情"
+    ],
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 44847,
+    "media_id": 28480858,
+    "season_type": 2,
+    "season_type_name": "电影",
+    "title": "流浪地球2",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/4ee5e1cea45fb742c77d17c1b2d115f09508a878.png",
+    "total_count": 1,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 1567823,
+      "view": 79766422,
+      "danmaku": 362711,
+      "reply": 67678,
+      "coin": 505315,
+      "series_follow": 1606359,
+      "series_view": 79766422,
+      "likes": 791159,
+      "favorite": 168145
+    },
+    "new_ep": {
+      "id": 744327,
+      "index_show": "2023-01-22上映",
+      "cover": "http://i0.hdslb.com/bfs/archive/e996312e8d713fbbfe0e065dc6bcf7ddb0d45cab.jpg",
+      "title": "正片",
+      "pub_time": "2023-04-14 15:49:00",
+      "duration": 10392000
+    },
+    "rating": {
+      "score": 9.8,
+      "count": 43295
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/bbceca81b8c4fa61930a42f3a0d2df23337d5103.png",
+    "season_status": 13,
+    "season_title": "流浪地球2",
+    "badge_ep": "",
+    "media_attr": 196640,
+    "season_attr": 3600,
+    "evaluate": "太阳即将毁灭，人类在地球表面建造出巨大的推进器，寻找新的家园。然而宇宙之路危机四伏，为了拯救地球，流浪地球时代的年轻人再次挺身而出，展开争分夺秒的生死之战。...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "国产科幻巨制",
+    "first_ep": 744327,
+    "can_watch": 1,
+    "series": {
+      "series_id": 6578,
+      "title": "流浪地球",
+      "season_count": 1,
+      "new_season_id": 44847,
+      "series_ord": 2
+    },
+    "publish": {
+      "pub_time": "2023-04-14 16:00:00",
+      "pub_time_show": "2023年04月14日16:00",
+      "release_date": "2023-01-22",
+      "release_date_show": "2023年1月22日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 93617,
+        "season_id": 44847,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 93709,
+        "season_id": 44847,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "ugc",
+        "title": "预告花絮",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 94089,
+        "season_id": 44847,
+        "limit_group": 316,
+        "watch_platform": 27,
+        "type": 5,
+        "copyright": "ugc",
+        "title": "up主陪你看",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 94095,
+        "season_id": 44847,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "ugc",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss44847?theme=movie",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 744327,
+      "cover": "http://i0.hdslb.com/bfs/archive/e996312e8d713fbbfe0e065dc6bcf7ddb0d45cab.jpg",
+      "title": "正片",
+      "pub_time": "2023-04-14 15:49:00",
+      "duration": 10392000
+    },
+    "formal_ep_count": 1,
+    "short_url": "https://b23.tv/ss44847",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/d112ceb129006dde682022a32c36f9df38eb6f4d.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/92786b4f312d3b265f2546df0ef8c5ad30928f17.png",
+    "subtitle_14": "视觉震撼！国产科幻巨制",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 15773384,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "太阳即将毁灭，人类在地球表面建造出巨大的推进器，寻找新的家园。然而宇宙之路危机四伏，为了拯救地球，流浪地球时代的年轻人再次挺身而出，展开争分夺秒的生死之战。",
+    "styles": [
+      "科幻",
+      "冒险",
+      "灾难"
+    ],
+    "config_attrs": {
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 39892,
+    "media_id": 28235586,
+    "season_type": 2,
+    "season_type_name": "电影",
+    "title": "扬名立万",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/59d1bd956f1f63dd6fe7da5782da1f158ed192bc.png",
+    "total_count": 1,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "独家",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 1090254,
+      "view": 112554906,
+      "danmaku": 294110,
+      "reply": 32178,
+      "coin": 391888,
+      "likes": 707561,
+      "favorite": 134463
+    },
+    "new_ep": {
+      "id": 469285,
+      "index_show": "2021-11-11上映",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/f70ae86f005ad7eae69afd77c165ba3a4d0c09ac.jpg",
+      "title": "正片",
+      "pub_time": "2022-01-31 10:00:00",
+      "duration": 7396000
+    },
+    "rating": {
+      "score": 9.6,
+      "count": 44387
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/a5450da9d46e804fe0f25ad72da592d9679c0243.png",
+    "season_status": 13,
+    "season_title": "",
+    "badge_ep": "",
+    "media_attr": 196640,
+    "season_attr": 3600,
+    "evaluate": "月黑风高之夜，一群电影人被秘密召集到一起，欲将轰动一时的血案翻拍成电影，借此扬名立万。殊不知他们正身处案发现场，并步步陷入一个巨大迷局之中，而凶手就在他们中间……伴随着利欲熏天的创作风暴，案件背后的故...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "新春独播上线！",
+    "first_ep": 469285,
+    "can_watch": 1,
+    "series": {},
+    "publish": {
+      "pub_time": "2022-01-31 10:00:00",
+      "pub_time_show": "2022年01月31日10:00",
+      "release_date": "2021-11-11",
+      "release_date_show": "2021年11月11日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 62910,
+        "season_id": 39892,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "title": "选集",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 62911,
+        "season_id": 39892,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "ugc",
+        "title": "预告花絮",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 65030,
+        "season_id": 39892,
+        "limit_group": 316,
+        "watch_platform": 27,
+        "type": 5,
+        "copyright": "ugc",
+        "title": "UP主带你扬名立万",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 84573,
+        "season_id": 39892,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "dujia",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss39892?theme=movie",
+    "badge_info": {
+      "text": "独家",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 469285,
+      "cover": "http://i0.hdslb.com/bfs/bangumi/image/f70ae86f005ad7eae69afd77c165ba3a4d0c09ac.jpg",
+      "title": "正片",
+      "pub_time": "2022-01-31 10:00:00",
+      "duration": 7396000
+    },
+    "formal_ep_count": 1,
+    "short_url": "https://b23.tv/ss39892",
+    "badge_infos": {
+      "content_attr": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      }
+    },
+    "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/7dc4c9952ee09a7039d14cd0b0e0b9ce821ef6d4.png",
+    "horizontal_cover_16_10": "http://i0.hdslb.com/bfs/bangumi/image/79b86e98e5ba3880ccf6bfc93e448f7ef963aef5.png",
+    "subtitle_14": "春节必看年度悬疑大戏",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 15773384,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "月黑风高之夜，一群电影人被秘密召集到一起，欲将轰动一时的血案翻拍成电影，借此扬名立万。殊不知他们正身处案发现场，并步步陷入一个巨大迷局之中，而凶手就在他们中间……伴随着利欲熏天的创作风暴，案件背后的故事似乎也更加扑朔迷离，戏中戏、案中案、局中局、人外人，环环相扣，一场野心与良心的较量愈演愈烈。究竟是命悬一线，还是另有惊天逆转？爱与温暖的血色花又能否从快将干涸的血河中终极绽放？一切都有待揭开。",
+    "styles": [
+      "剧情",
+      "喜剧",
+      "悬疑"
+    ],
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 45456,
+    "media_id": 20284946,
+    "season_type": 2,
+    "season_type_name": "电影",
+    "title": "孤注一掷",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/e693001612889c0ee3ad734dfbff0d78c87db1e8.png",
+    "total_count": 1,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 671801,
+      "view": 30478961,
+      "danmaku": 122892,
+      "reply": 14801,
+      "coin": 55432,
+      "likes": 293467,
+      "favorite": 51264
+    },
+    "new_ep": {
+      "id": 832061,
+      "index_show": "2023-08-08上映",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/e4c8c762a4d1c94d09b82c39e934d3386a9a8dbc.png",
+      "title": "正片",
+      "pub_time": "2024-09-14 10:00:00",
+      "duration": 7795000
+    },
+    "rating": {
+      "score": 9,
+      "count": 3651
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/cf39093dc117556ddcd29f7357c13874e6b07fa2.png",
+    "season_status": 13,
+    "season_title": "",
+    "badge_ep": "",
+    "media_attr": 196640,
+    "season_attr": 3600,
+    "evaluate": "　　南亚某国，由于当地政府监管不力以及有意纵容，诈骗产业极其昌盛，炒股、挖币、网游、电商、博彩等，各种手段层出不穷，花样百出。某个科技产业园内，诈骗团伙头目陆经理（王传君 饰）张狂傲慢，用诡计和暴力统...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "揭秘境外高薪地狱",
+    "first_ep": 832061,
+    "can_watch": 1,
+    "series": {},
+    "publish": {
+      "pub_time": "2024-09-14 10:00:00",
+      "pub_time_show": "2024年09月14日10:00",
+      "release_date": "2023-08-08",
+      "release_date_show": "2023年8月8日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 96455,
+        "season_id": 45456,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 102573,
+        "season_id": 45456,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "ugc",
+        "title": "预告",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss45456?theme=movie",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 832061,
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/e4c8c762a4d1c94d09b82c39e934d3386a9a8dbc.png",
+      "title": "正片",
+      "pub_time": "2024-09-14 10:00:00",
+      "duration": 7795000
+    },
+    "formal_ep_count": 1,
+    "short_url": "https://b23.tv/ss45456",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/cdd4b14021a27d4839b5306315eb268dab929072.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/ed07390882e310213f8a4a81cc6862f464c01166.png",
+    "subtitle_14": "张艺兴金晨揭秘境外高薪天堂！",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 15773384,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "　　南亚某国，由于当地政府监管不力以及有意纵容，诈骗产业极其昌盛，炒股、挖币、网游、电商、博彩等，各种手段层出不穷，花样百出。某个科技产业园内，诈骗团伙头目陆经理（王传君 饰）张狂傲慢，用诡计和暴力统治着这个血泪王国。程序员潘生（张艺兴 饰）离开之前的公司，根据高薪招聘启示 走入了陆经理设下的圈套，成为一名利用网络诈骗的狗推。因为羡慕闺蜜的生活，模特梁安娜（金晨 饰）也飞到异国他乡寻找机会，结果护照被没收，成为陆经理手下利用美色诈骗的工具。进入人间炼狱，仿佛再也见不到活着出去的希望……\n　　电影取材自上万起真实诈骗案例。",
+    "styles": [
+      "剧情",
+      "犯罪"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 48590,
+    "media_id": 28340776,
+    "season_type": 2,
+    "season_type_name": "电影",
+    "title": "哈尔的移动城堡",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/156dfe963b71dc62dbf4315f3985a070844d0593.png",
+    "total_count": 1,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 367796,
+      "view": 12363284,
+      "danmaku": 43090,
+      "reply": 8119,
+      "coin": 71365,
+      "likes": 139876,
+      "favorite": 68229
+    },
+    "new_ep": {
+      "id": 835476,
+      "index_show": "2024-04-30上映",
+      "cover": "http://i0.hdslb.com/bfs/archive/0b40f4009e1224e2dfcf9da78351e1113451c3d2.png",
+      "title": "中文版",
+      "pub_time": "2024-09-15 10:00:05",
+      "duration": 7148166
+    },
+    "rating": {
+      "score": 9.8,
+      "count": 3420
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/e0d32ca66e655607a541352b4838b8051f3e75d3.png",
+    "season_status": 13,
+    "season_title": "",
+    "badge_ep": "",
+    "media_attr": 196640,
+    "season_attr": 3088,
+    "evaluate": "继母因无力负担生活，将苏菲和她的两个妹妹都送到了制帽店去当学徒。两个妹妹很快先后就离开了制帽店去追寻各自的梦想，只有苏菲坚持了下来。一天，小镇旁边来了一座移动堡垒，传说堡垒的主人哈尔专吸取年青姑娘的灵...",
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "subtitle": "魔法之下的爱与勇气",
+    "first_ep": 835475,
+    "can_watch": 1,
+    "series": {},
+    "publish": {
+      "pub_time": "2024-09-15 10:00:00",
+      "pub_time_show": "2024年09月15日10:00",
+      "release_date": "2024-04-30",
+      "release_date_show": "2024年4月30日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 103356,
+        "season_id": 48590,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 103367,
+        "season_id": 48590,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "ugc",
+        "title": "其他",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss48590?theme=movie",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 835475,
+      "cover": "http://i0.hdslb.com/bfs/archive/8c9e5bd2687efba88503ef08c0e3e94ea9c210e9.png",
+      "title": "原版",
+      "pub_time": "2024-09-15 10:00:05",
+      "duration": 7155356
+    },
+    "formal_ep_count": 2,
+    "short_url": "https://b23.tv/ss48590",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/397542366e8e6bd93c91d9cf585b143347563662.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/8c9e5bd2687efba88503ef08c0e3e94ea9c210e9.png",
+    "subtitle_14": "浪漫魔法之下，爱与勇气邂逅",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 15773384,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "继母因无力负担生活，将苏菲和她的两个妹妹都送到了制帽店去当学徒。两个妹妹很快先后就离开了制帽店去追寻各自的梦想，只有苏菲坚持了下来。一天，小镇旁边来了一座移动堡垒，传说堡垒的主人哈尔专吸取年青姑娘的灵魂，所以小镇的姑娘都不敢靠近。\n                                    \n一个恶毒的巫婆为了报复苏菲与哈尔见面，用巫术把她变成了一个80岁的老太婆，而且苏菲还不能对别人说出自己身中的巫术。无奈，苏菲决定独自一人逃离小镇。天黑了，虚弱的苏菲没走多远，来到了移动城堡。心想自己已经是老太婆了，苏菲壮着胆子走进了城堡。不想，遇到了和她遭遇相同的火焰魔。两人约定彼此帮助对方打破各自的咒语……",
+    "styles": [
+      "奇幻",
+      "动画",
+      "冒险"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 48013,
+    "media_id": 22071501,
+    "season_type": 2,
+    "season_type_name": "电影",
+    "title": "抓娃娃",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/57f8d498302dddf7b197e3d3c9b0bccde9b80406.png",
+    "total_count": 1,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 301410,
+      "view": 39432538,
+      "danmaku": 140243,
+      "reply": 12154,
+      "coin": 87235,
+      "likes": 302175,
+      "favorite": 58104
+    },
+    "new_ep": {
+      "id": 836282,
+      "index_show": "2024-07-16上映",
+      "cover": "http://i0.hdslb.com/bfs/archive/10b6dc72950f493ffb97975394cea091c5c4e92a.png",
+      "title": "正片",
+      "pub_time": "2024-09-30 10:00:00",
+      "duration": 8006000
+    },
+    "rating": {
+      "score": 9.2,
+      "count": 5360
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/fc3c2ea2961cc67edbec474426321a7c2933f95e.png",
+    "season_status": 13,
+    "season_title": "",
+    "badge_ep": "",
+    "media_attr": 196640,
+    "season_attr": 3600,
+    "evaluate": "困苦的爹，辛劳的妈，破烂的院子，破碎的他。西虹市做大做强的路上怎么把老马家落下了？！\n“汤里没油，兜里没子”的马成钢（沈腾 饰）和春兰（马丽 饰），赶驴打工，家徒四壁，而儿子马继业（肖帛辰 饰）则是他...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "沈马组合爆笑养娃",
+    "first_ep": 836282,
+    "can_watch": 1,
+    "series": {},
+    "publish": {
+      "pub_time": "2024-09-30 10:00:00",
+      "pub_time_show": "2024年09月30日10:00",
+      "release_date": "2024-07-16",
+      "release_date_show": "2024年7月16日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 102024,
+        "season_id": 48013,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 102927,
+        "season_id": 48013,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "ugc",
+        "title": "预告",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 103932,
+        "season_id": 48013,
+        "limit_group": 316,
+        "watch_platform": 27,
+        "type": 5,
+        "copyright": "ugc",
+        "title": "UP主陪你看",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss48013?theme=movie",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 836282,
+      "cover": "http://i0.hdslb.com/bfs/archive/10b6dc72950f493ffb97975394cea091c5c4e92a.png",
+      "title": "正片",
+      "pub_time": "2024-09-30 10:00:00",
+      "duration": 8006000
+    },
+    "formal_ep_count": 1,
+    "short_url": "https://b23.tv/ss48013",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/e541b1ed40da5b5de1f6bd3765e537ef4476964e.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/10b6dc72950f493ffb97975394cea091c5c4e92a.png",
+    "subtitle_14": "沈马组合开辟反向养娃新赛道",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 15773384,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "困苦的爹，辛劳的妈，破烂的院子，破碎的他。西虹市做大做强的路上怎么把老马家落下了？！\n“汤里没油，兜里没子”的马成钢（沈腾 饰）和春兰（马丽 饰），赶驴打工，家徒四壁，而儿子马继业（肖帛辰 饰）则是他们逆天改命的唯一希望。小马很争气，年年好成绩，一点不娇气，意志贼坚毅。但随着小马一天天长大，他却逐渐发现身边的人们都越来越不对劲……",
+    "styles": [
+      "喜剧"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 37922,
+    "media_id": 28233601,
+    "season_type": 2,
+    "season_type_name": "电影",
+    "title": "疯狂原始人2",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/fb81e039426afaa36b48684ae45b73d2b1cc8f69.png",
+    "total_count": 1,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 370392,
+      "view": 44265070,
+      "danmaku": 89640,
+      "reply": 13287,
+      "coin": 73854,
+      "series_follow": 419511,
+      "series_view": 48397489,
+      "likes": 1127968,
+      "favorite": 69657
+    },
+    "new_ep": {
+      "id": 385362,
+      "index_show": "2020-11-27上映",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/da866de7d7e3d91892ea966cbcc9eacec6718aac.jpg",
+      "title": "中文",
+      "pub_time": "2021-02-16 10:00:00",
+      "duration": 5721000
+    },
+    "rating": {
+      "score": 9.7,
+      "count": 11343
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/8bcca2d92d0feb5e69bcc33796979a0e71026d02.png",
+    "season_status": 13,
+    "season_title": "疯狂原始人2",
+    "badge_ep": "",
+    "media_attr": 196640,
+    "season_attr": 3600,
+    "evaluate": "经历了逃离洞穴、挺过末日危机之后的原始人咕噜家族，咕噜一家决定寻找新家园。中途盖已成了咕噜一家中的一员，但让瓜哥头疼的是，盖跟女儿小伊每天你侬我侬，还妄想组成只属于两人的小家庭。就在咕噜一家人饥肠辘辘...",
+    "areas": [
+      {
+        "id": 3,
+        "name": "美国"
+      }
+    ],
+    "subtitle": "高分合家欢动画电影",
+    "first_ep": 385361,
+    "can_watch": 1,
+    "series": {
+      "series_id": 6552,
+      "title": "疯狂原始人",
+      "season_count": 2,
+      "new_season_id": 37922,
+      "series_ord": 2
+    },
+    "publish": {
+      "pub_time": "2021-02-16 10:00:00",
+      "pub_time_show": "2021年02月16日10:00",
+      "release_date": "2020-11-27",
+      "release_date_show": "2020年11月27日"
+    },
+    "mode": 1,
+    "section": [
+      {
+        "section_id": 57085,
+        "season_id": 37922,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 57291,
+        "season_id": 37922,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "ugc",
+        "title": "预告花絮",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 81185,
+        "season_id": 37922,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "bilibili",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss37922?theme=movie",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 385361,
+      "cover": "http://i0.hdslb.com/bfs/archive/d8b8bd5de4abd8c9bb8c3843762ac2d9f3514770.jpg",
+      "title": "原版",
+      "pub_time": "2021-02-16 10:00:00",
+      "duration": 5721000
+    },
+    "formal_ep_count": 2,
+    "short_url": "https://b23.tv/ss37922",
+    "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/7edcd46ad054e72ddbdaedfe898a02f0481dc805.png",
+    "horizontal_cover_16_10": "http://i0.hdslb.com/bfs/bangumi/image/7b18100fae27fc2e69212e249be62358eb9b7add.png",
+    "subtitle_14": "都拿点穴居人的样子出来！",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 15773384,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "经历了逃离洞穴、挺过末日危机之后的原始人咕噜家族，咕噜一家决定寻找新家园。中途盖已成了咕噜一家中的一员，但让瓜哥头疼的是，盖跟女儿小伊每天你侬我侬，还妄想组成只属于两人的小家庭。就在咕噜一家人饥肠辘辘之际，他们发现了一片高墙内隐藏着食物丰饶的沃土，原来开辟这片世外桃源的文明人夫妇霍普和菲尔是已经去世的盖的父母的朋友。在最初的热情款待后，一心想要撮合盖和女儿晓晓的霍普和菲尔，发现咕噜一家成了绊脚石，为了把盖抢过来，他们用上了攻心计。两家人闹得不可开交，盖和小伊也产生了裂痕，却浑然不知危险正慢慢靠近…",
+    "styles": [
+      "喜剧",
+      "动画",
+      "冒险"
+    ],
+    "config_attrs": {
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 33343,
+    "media_id": 28228734,
+    "season_type": 2,
+    "season_type_name": "电影",
+    "title": "天气之子",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/33680a2209c4dba76322b2ffeeaf3dd821db576c.png",
+    "total_count": 1,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 4079220,
+      "view": 80468788,
+      "danmaku": 1216053,
+      "reply": 109658,
+      "coin": 834963,
+      "series_follow": 5139054,
+      "series_view": 80468788,
+      "likes": 972626,
+      "favorite": 243054
+    },
+    "new_ep": {
+      "id": 332658,
+      "index_show": "2019-11-01上映",
+      "cover": "http://i0.hdslb.com/bfs/archive/c7ea12983964ccdd4e44b17ed66aae445892a593.png",
+      "title": "中文",
+      "pub_time": "2020-07-21 16:00:00",
+      "duration": 6732000
+    },
+    "rating": {
+      "score": 9.6,
+      "count": 107809
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/12cc0512a9c339794d7e8b4eaa43cebc19fd9b89.png",
+    "season_status": 13,
+    "season_title": "天气之子",
+    "badge_ep": "",
+    "media_attr": 196640,
+    "season_attr": 3600,
+    "evaluate": "高一那年夏天，帆高（醍醐虎汰朗 配音）离开位在离岛的家乡，独自一人来到东京，拮据的生活迫使他不得不找份工作，最后来到一间专门出版奇怪超自然刊物的出版社担任写手。不久，东京开始下起连日大雨，仿佛暗示着帆...",
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "subtitle": "现在起要放晴了！",
+    "first_ep": 332611,
+    "can_watch": 1,
+    "series": {
+      "series_id": 5005,
+      "title": "你的名字·天气之子",
+      "season_count": 1,
+      "new_season_id": 33343,
+      "series_ord": 2
+    },
+    "publish": {
+      "pub_time": "2020-07-21 16:00:00",
+      "pub_time_show": "2020年07月21日16:00",
+      "release_date": "2019-11-01",
+      "release_date_show": "2019年11月1日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 46378,
+        "season_id": 33343,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 48319,
+        "season_id": 33343,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "ugc",
+        "title": "预告花絮",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 68941,
+        "season_id": 33343,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "bilibili",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss33343?theme=movie",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 332611,
+      "cover": "http://i0.hdslb.com/bfs/archive/f98378aca49f68ef124ae3c710dc3a510a162065.png",
+      "title": "原版",
+      "pub_time": "2020-07-21 15:49:00",
+      "duration": 6741000
+    },
+    "formal_ep_count": 2,
+    "short_url": "https://b23.tv/ss33343",
+    "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/54918e0f84705a315f9cf827a5c91d14efb2b692.png",
+    "horizontal_cover_16_10": "http://i0.hdslb.com/bfs/bangumi/image/17cd59837fc78ff689e83f6f9fe5265ab0d93095.png",
+    "subtitle_14": "呐，现在起要放晴了！",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 15773384,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "高一那年夏天，帆高（醍醐虎汰朗 配音）离开位在离岛的家乡，独自一人来到东京，拮据的生活迫使他不得不找份工作，最后来到一间专门出版奇怪超自然刊物的出版社担任写手。不久，东京开始下起连日大雨，仿佛暗示着帆高不顺遂的未来，在这座繁忙城市里到处取材的帆高邂逅了与弟弟相依为命，不可思议的美少女阳菜（森七菜 配音）。「等等就会放晴了喔。」阳菜这样告诉着帆高，不久，头顶的乌云逐渐散去，耀眼的阳光洒落街道……原来，阳菜拥有「改变天气」的奇妙能力……",
+    "styles": [
+      "爱情",
+      "奇幻",
+      "动画"
+    ],
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 68613,
+    "media_id": 23390835,
+    "season_type": 2,
+    "season_type_name": "电影",
+    "title": "你想活出怎样的人生",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/50d0b78298b663f5711f3741fbbd99cec1b9ce1d.png",
+    "total_count": 1,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 536930,
+      "view": 14576898,
+      "danmaku": 33301,
+      "reply": 10064,
+      "coin": 48009,
+      "likes": 126621,
+      "favorite": 80487
+    },
+    "new_ep": {
+      "id": 1114726,
+      "index_show": "2023-07-14上映",
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/d681970f652c6edb2aea6bc9a183fe2cd9f665a4.png",
+      "title": "中文版",
+      "pub_time": "2024-11-16 10:00:00",
+      "duration": 7428000
+    },
+    "rating": {
+      "score": 9,
+      "count": 2917
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/d92e4a823c69abc208ac0d67ea00b6fc8d0eaa43.png",
+    "season_status": 13,
+    "season_title": "",
+    "badge_ep": "",
+    "media_attr": 196640,
+    "season_attr": 3600,
+    "evaluate": "　　少年牧真人（山时聪真 配音）的母亲葬身火海后，他随父亲牧胜一（木村拓哉 配音）与继母夏子（木村佳乃 配音）组成新家庭。深陷悲伤的真人阴郁孤僻，难以融入新环境。一次意外，他跟随一只会说话的苍鹭（菅田...",
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "subtitle": "宫崎骏告别之作",
+    "first_ep": 1113416,
+    "can_watch": 1,
+    "series": {},
+    "publish": {
+      "pub_time": "2024-11-16 10:00:00",
+      "pub_time_show": "2024年11月16日10:00",
+      "release_date": "2023-07-14",
+      "release_date_show": "2023年7月14日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 123897,
+        "season_id": 68613,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 123899,
+        "season_id": 68613,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "ugc",
+        "title": "其他",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss68613?theme=movie",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 1113416,
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/ea4d966d4e9ff96692089fe36427da48dc41333e.png",
+      "title": "原版",
+      "pub_time": "2024-11-16 10:00:00",
+      "duration": 7437638
+    },
+    "formal_ep_count": 2,
+    "short_url": "https://b23.tv/ss68613",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/13ec5969a189505986897ae4829377857cc74d9c.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/ea4d966d4e9ff96692089fe36427da48dc41333e.png",
+    "subtitle_14": "见证少年与苍鹭异界寻母之旅～",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 15773384,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "　　少年牧真人（山时聪真 配音）的母亲葬身火海后，他随父亲牧胜一（木村拓哉 配音）与继母夏子（木村佳乃 配音）组成新家庭。深陷悲伤的真人阴郁孤僻，难以融入新环境。一次意外，他跟随一只会说话的苍鹭（菅田将晖 配音）闯入废弃的神秘塔楼，却不料进入了奇幻的“亡灵世界”，开始了一场不可思议的冒险……\n　　影片片名致敬了小说家吉野源三郎在1937年发表的同名小说，但电影故事由宫崎骏原创。",
+    "styles": [
+      "奇幻",
+      "动画",
+      "冒险"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  }
+]

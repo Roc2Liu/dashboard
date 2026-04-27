@@ -1,0 +1,4600 @@
+[
+  {
+    "season_id": 48518,
+    "media_id": 22730760,
+    "season_type": 4,
+    "season_type_name": "国创",
+    "title": "宗门里除了我都是卧底",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/bd811e5ecbd18301a47925016d1a9a08f8be3f8c.png",
+    "total_count": 152,
+    "is_finish": 0,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "出品",
+    "badge_type": 1,
+    "rights": {
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 1241075,
+      "view": 441110372,
+      "danmaku": 254180,
+      "reply": 49357,
+      "coin": 404676,
+      "series_follow": 1241064,
+      "series_view": 441110372,
+      "likes": 2708863,
+      "favorite": 357623
+    },
+    "new_ep": {
+      "id": 3626640,
+      "index_show": "更新至第147话",
+      "cover": "http://i0.hdslb.com/bfs/archive/3ec00b38bd48ec7f2e0fcfae565b2b9751727b9d.jpg",
+      "title": "147",
+      "long_title": "段天行的牺牲",
+      "pub_time": "2026-04-27 09:00:01",
+      "duration": 430000
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/9f20c6213fdf11cb8cbdc57cb8cb79b5e2de6231.png",
+    "season_status": 13,
+    "season_title": "动画",
+    "badge_ep": "",
+    "media_attr": 196612,
+    "season_attr": 9728,
+    "evaluate": "传奇黑客为拯救人类被系统AI追杀身死，意外成为异界第一宗门的宗主，但为了应对宗内全是卧底的局面和随身而来的系统危机，陈宁只想低调的再观望看看。但如锥处囊中，纵使他冷面无双心系世人，也是万花丛中过，朵朵...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "宗门游戏，坐等开玩",
+    "first_ep": 833657,
+    "can_watch": 1,
+    "series": {
+      "series_id": 7244,
+      "title": "宗门里除了我都是卧底",
+      "season_count": 1,
+      "new_season_id": 48518,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2024-10-14 09:00:00",
+      "pub_time_show": "2024年10月14日09:00",
+      "release_date": "2024-10-14",
+      "release_date_show": "2024年10月14日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 103116,
+        "season_id": 48518,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "title": "正片",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 103117,
+        "season_id": 48518,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "dujia",
+        "title": "PV花絮",
+        "ban_area_show": 1,
+        "attr": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 103118,
+        "season_id": 48518,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "爽燃速看",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss48518",
+    "badge_info": {
+      "text": "出品",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+      }
+    },
+    "renewal_time": "每周一、六 9:00更新",
+    "first_ep_info": {
+      "id": 833657,
+      "cover": "http://i0.hdslb.com/bfs/archive/74ffab99e84c7ebbabc5d7da40005941fe225e1a.jpg",
+      "title": "1",
+      "long_title": "痛快来一场",
+      "pub_time": "2024-10-14 09:00:00",
+      "duration": 619000
+    },
+    "formal_ep_count": 147,
+    "short_url": "https://b23.tv/ss48518",
+    "badge_infos": {
+      "content_attr": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      }
+    },
+    "season_version": "tv",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/bcdf2c8ebe659465679d566739a56d04cd8f07b8.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/84498c69e1f9e19d5ff70e38c7e3cff8e9da41af.png",
+    "subtitle_14": "逆袭爽！最强黑客魂穿菜鸟宗主",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 98627270,
+        "type": 1,
+        "is_contribute": 1,
+        "title": "出品"
+      }
+    ],
+    "summary": "传奇黑客为拯救人类被系统AI追杀身死，意外成为异界第一宗门的宗主，但为了应对宗内全是卧底的局面和随身而来的系统危机，陈宁只想低调的再观望看看。但如锥处囊中，纵使他冷面无双心系世人，也是万花丛中过，朵朵都沾身，最后在系统代理人姜雀的帮助下，陈宁王霸之躯一抖，敌我双方纳头便拜！世界隐秘争先恐后对他打开，最终破解灭世危机。",
+    "styles": [
+      "小说改",
+      "玄幻",
+      "战斗"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_supported": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 45969,
+    "media_id": 21082961,
+    "season_type": 4,
+    "season_type_name": "国创",
+    "title": "牧神记",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/1a321192dd267265573b6f198d025d2da9e75ae1.png",
+    "total_count": 0,
+    "is_finish": 0,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "出品",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 6427036,
+      "view": 1724152569,
+      "danmaku": 3386924,
+      "reply": 320468,
+      "coin": 6193557,
+      "series_follow": 6426983,
+      "series_view": 1724152569,
+      "likes": 11240115,
+      "favorite": 1395726
+    },
+    "new_ep": {
+      "id": 3537926,
+      "index_show": "更新至第80话",
+      "cover": "http://i0.hdslb.com/bfs/archive/d5c3ea86734c0215bf41245a2db34995da014d80.png",
+      "title": "80",
+      "long_title": "雪夜杀人",
+      "pub_time": "2026-04-26 11:00:01",
+      "duration": 1228000
+    },
+    "rating": {
+      "score": 9.6,
+      "count": 18661
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/eb6054ae7d37283a484019152197c69b2950da2e.png",
+    "season_status": 13,
+    "season_title": "动画",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 11776,
+    "evaluate": "主角秦牧，幼时被一女尸托举至涌江边并被司婆婆捡到，村长根据玉佩上的字为其取名为“秦牧”。被一只母牛哺乳长大，是天生凡体，但被村长骗为霸体，修炼霸体三丹功。后走出大墟闯荡，进入京城，拜入太学院。历经考验...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "放牛少年，放牧诸神",
+    "first_ep": 836727,
+    "can_watch": 1,
+    "series": {
+      "series_id": 6707,
+      "title": "牧神记",
+      "season_count": 1,
+      "new_season_id": 45969,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2024-10-27 11:00:00",
+      "pub_time_show": "2024年10月27日11:00",
+      "release_date": "2024-10-27",
+      "release_date_show": "2024年10月27日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 97682,
+        "season_id": 45969,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 98025,
+        "season_id": 45969,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "dujia",
+        "title": "PV花絮",
+        "ban_area_show": 1,
+        "attr": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 261116,
+        "season_id": 45969,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "歌单",
+        "ban_area_show": 1,
+        "attr": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 103771,
+        "season_id": 45969,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 5,
+        "copyright": "ugc",
+        "title": "UP聊牧神",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 103763,
+        "season_id": 45969,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "大墟秘闻",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss45969",
+    "badge_info": {
+      "text": "出品",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+      }
+    },
+    "renewal_time": "每周日 11:00更新",
+    "first_ep_info": {
+      "id": 836727,
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/0d074ff70b4ead90556ad9e08686238f835f1bea.png",
+      "title": "1",
+      "long_title": "天黑别出门",
+      "pub_time": "2024-10-27 11:00:00",
+      "duration": 1147833
+    },
+    "formal_ep_count": 80,
+    "short_url": "https://b23.tv/ss45969",
+    "badge_infos": {
+      "content_attr": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      }
+    },
+    "season_version": "tv",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/ab42c7cf7bc8efebc8de889653d1424a4eb8ebe6.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/29056393455fc622a82dde6891a5a5eabbe05471.png",
+    "subtitle_14": "且看秦牧为芸芸众生而战",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 98627270,
+        "type": 1,
+        "is_contribute": 1,
+        "title": "出品"
+      },
+      {
+        "mid": 1538121878,
+        "type": 11,
+        "title": "策划"
+      }
+    ],
+    "summary": "主角秦牧，幼时被一女尸托举至涌江边并被司婆婆捡到，村长根据玉佩上的字为其取名为“秦牧”。被一只母牛哺乳长大，是天生凡体，但被村长骗为霸体，修炼霸体三丹功。后走出大墟闯荡，进入京城，拜入太学院。历经考验成为天魔教教主，并被延康国封为第一任太学博士。秦牧随武可汗入楼兰黄金宫，一个人打遍圣宫无敌手，麻翻无数大巫，盗走无数珍宝。后返回延康，助国师平叛、入京城斩杀太子、造射日神炮。秦牧得人皇传承成为新一代人皇。机缘巧合下遇到了亲生父亲，揭开了自己的身世，借助道门小玉京等人的帮助，开启了道法神通改革的大世。一步步逐渐成长，作为延康变法三杰之一，为芸芸众生而战。",
+    "styles": [
+      "小说改",
+      "热血",
+      "玄幻",
+      "战斗"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 35213,
+    "media_id": 28230735,
+    "season_type": 4,
+    "season_type_name": "国创",
+    "title": "永生",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/a46386716b5e194b49484b80ae657235d7ff33a2.jpg",
+    "total_count": 82,
+    "is_finish": 0,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "出品",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 4853311,
+      "view": 797456769,
+      "danmaku": 2188020,
+      "reply": 191113,
+      "coin": 1492506,
+      "series_follow": 4970052,
+      "series_view": 797456769,
+      "likes": 2911098,
+      "favorite": 457851
+    },
+    "new_ep": {
+      "id": 2508249,
+      "index_show": "更新至第77话",
+      "cover": "http://i0.hdslb.com/bfs/archive/bc9291ae5cbb4ec3300a8e1c199805372b328c17.png",
+      "title": "77",
+      "long_title": "大道归一03黄泉鬼帝",
+      "pub_time": "2026-04-24 20:00:02",
+      "duration": 1192000
+    },
+    "rating": {
+      "score": 8.6,
+      "count": 36654
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/e8b5c06f6f11c5cd982823bd6d1c7be61ac194f3.png",
+    "season_status": 13,
+    "season_title": "动画",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 9728,
+    "evaluate": "【每周五20:00超大会员抢先看，每周六10:00大会员更新】在大气磅礴的奇幻世界里，主角方寒如何凭借一己之力纵横天地之间。靠着一股不服输的倔强突破神通的奥秘，将肉身锻成永生之躯。无穷无尽的新奇法宝，...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "仙魔双修，唯我独尊",
+    "first_ep": 458588,
+    "can_watch": 1,
+    "series": {
+      "series_id": 5202,
+      "title": "永生",
+      "season_count": 1,
+      "new_season_id": 35213,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2022-01-29 11:00:00",
+      "pub_time_show": "2022年01月29日11:00",
+      "release_date": "2022-01-29",
+      "release_date_show": "2022年1月29日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 51249,
+        "season_id": 35213,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 51894,
+        "season_id": 35213,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "dujia",
+        "title": "预告&花絮",
+        "ban_area_show": 1,
+        "attr": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 219538,
+        "season_id": 35213,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "歌单",
+        "ban_area_show": 1,
+        "attr": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 93620,
+        "season_id": 35213,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "无尽仙途",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 84502,
+        "season_id": 35213,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "dujia",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "attr": 4,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss35213",
+    "badge_info": {
+      "text": "出品",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+      }
+    },
+    "renewal_time": "每周六10点更新，周五超大抢先看",
+    "first_ep_info": {
+      "id": 458588,
+      "cover": "http://i0.hdslb.com/bfs/archive/79b9143073f1057a7d3a5107a50d42a1df625eeb.jpg",
+      "title": "1",
+      "long_title": "无尽仙途01 偷师学艺",
+      "pub_time": "2022-01-29 11:00:00",
+      "duration": 1456000
+    },
+    "formal_ep_count": 77,
+    "short_url": "https://b23.tv/ss35213",
+    "badge_infos": {
+      "content_attr": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      }
+    },
+    "season_version": "tv",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/ed2d3c5054e352da2dd0c24c4d755e150a14ebcb.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/91edf5bc8241f8b9893fb594b3e3a10d522249b4.jpg",
+    "subtitle_14": "卑微家奴踏入仙道，终成巅峰王",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 98627270,
+        "type": 1,
+        "is_contribute": 1,
+        "title": "出品"
+      }
+    ],
+    "summary": "【每周五20:00超大会员抢先看，每周六10:00大会员更新】在大气磅礴的奇幻世界里，主角方寒如何凭借一己之力纵横天地之间。靠着一股不服输的倔强突破神通的奥秘，将肉身锻成永生之躯。无穷无尽的新奇法宝，崭新的仙魔凡三界盛世将由主角依次开启。将带你感受仙教魔门，人魔妖神，王皇帝君的奇幻风采。主角也将经历人间的爱恨情仇、恩怨纠葛，以及仙魔的斗法争端。最终带领你一起走上巅峰王者之路。",
+    "styles": [
+      "小说改",
+      "奇幻",
+      "玄幻",
+      "战斗"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_strategy": {
+        "type_url": "type.googleapis.com/google.protobuf.Int32Value",
+        "value": "CAE="
+      },
+      "drm_supported": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "max_resolution_without_drm": {
+        "type_url": "type.googleapis.com/google.protobuf.Int32Value",
+        "value": "CFA="
+      }
+    },
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 28747,
+    "media_id": 28223043,
+    "season_type": 4,
+    "season_type_name": "国创",
+    "title": "凡人修仙传",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/0af10a0c3258186e96fde4406b384c13dd643d8f.png",
+    "total_count": 0,
+    "is_finish": 0,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "出品",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 16460664,
+      "view": 6345014085,
+      "danmaku": 35686274,
+      "reply": 2810247,
+      "coin": 58105019,
+      "series_follow": 16460483,
+      "series_view": 6345014085,
+      "likes": 56559347,
+      "favorite": 7261076
+    },
+    "new_ep": {
+      "id": 1231584,
+      "index_show": "更新至第176话",
+      "cover": "http://i0.hdslb.com/bfs/archive/8d0d3d4bf1740f7239339911915f24f3ac1c82a7.jpg",
+      "title": "176",
+      "long_title": "重返天南24",
+      "pub_time": "2026-01-03 11:00:00",
+      "duration": 1277280
+    },
+    "rating": {
+      "score": 9.7,
+      "count": 380354
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/e498647cae38ac05efb4f1119b36e8e911b22b34.png",
+    "season_status": 13,
+    "season_title": "动画",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 11776,
+    "evaluate": "看机智的凡人小子韩立如何稳健发展、步步为营，战魔道、夺至宝、驰骋星海、快意恩仇，成为纵横三界的强者。他日仙界重相逢，一声道友尽沧桑。...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "韩立重返天南风云起",
+    "first_ep": 733316,
+    "can_watch": 1,
+    "series": {
+      "series_id": 4727,
+      "title": "凡人修仙传",
+      "season_count": 1,
+      "new_season_id": 28747,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2020-07-25 20:00:00",
+      "pub_time_show": "2020年07月25日20:00",
+      "release_date": "2020-07-25",
+      "release_date_show": "2020年7月25日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 38618,
+        "season_id": 28747,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 214158,
+        "season_id": 28747,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "特别花絮",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 38936,
+        "season_id": 28747,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "dujia",
+        "title": "预告",
+        "ban_area_show": 1,
+        "attr": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 78974,
+        "season_id": 28747,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 5,
+        "copyright": "ugc",
+        "title": "UP论道",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 168253,
+        "season_id": 28747,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "虚天战纪",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 92617,
+        "season_id": 28747,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "2020版",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 79361,
+        "season_id": 28747,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "修仙之旅",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss28747",
+    "badge_info": {
+      "text": "出品",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+      }
+    },
+    "renewal_time": "6月13日起 每周六11:00",
+    "first_ep_info": {
+      "id": 733316,
+      "cover": "http://i0.hdslb.com/bfs/archive/5ac571880f996eead5af559de2509228e20164cf.jpg",
+      "title": "1",
+      "long_title": "凡人风起天南1重制版",
+      "pub_time": "2023-02-05 11:00:01",
+      "duration": 1203160
+    },
+    "formal_ep_count": 176,
+    "short_url": "https://b23.tv/ss28747",
+    "badge_infos": {
+      "content_attr": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      }
+    },
+    "season_version": "tv",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/9f5d572c0be3eab619acd75593777a08b8b1bb8d.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/bc03200f54f03633a55b0c87335ab7839eb0a8f3.png",
+    "subtitle_14": "外海风云变，且看韩立扭转乾坤",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 98627270,
+        "type": 1,
+        "is_contribute": 1,
+        "title": "出品"
+      },
+      {
+        "mid": 557818222,
+        "type": 11,
+        "title": "策划"
+      }
+    ],
+    "summary": "看机智的凡人小子韩立如何稳健发展、步步为营，战魔道、夺至宝、驰骋星海、快意恩仇，成为纵横三界的强者。他日仙界重相逢，一声道友尽沧桑。",
+    "styles": [
+      "小说改",
+      "热血",
+      "玄幻",
+      "战斗",
+      "励志",
+      "古风",
+      "武侠"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_supported": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 73973,
+    "media_id": 23775774,
+    "season_type": 4,
+    "season_type_name": "国创",
+    "title": "玄界之门",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/e55fa99e5b4c47ecb472a66268117d19042c78c0.jpg",
+    "total_count": 26,
+    "is_finish": 0,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "出品",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 927933,
+      "view": 76289979,
+      "danmaku": 144821,
+      "reply": 29914,
+      "coin": 223310,
+      "series_follow": 927933,
+      "series_view": 76289979,
+      "likes": 409211,
+      "favorite": 98387
+    },
+    "new_ep": {
+      "id": 2401922,
+      "index_show": "更新至第24话",
+      "cover": "http://i0.hdslb.com/bfs/archive/bcd5f97066c6d4ce79955f455783f86e3932a3ec.jpg",
+      "title": "24",
+      "long_title": "亡灵烟罗",
+      "pub_time": "2026-04-22 10:00:01",
+      "duration": 1285000
+    },
+    "rating": {
+      "score": 8.4,
+      "count": 5732
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/a690a40931ef73364a6bb4ea78e063c34795c750.png",
+    "season_status": 13,
+    "season_title": "动画",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 9728,
+    "evaluate": "在武者为尊的世界，石牧的命运似乎注定要与众不同。作为世家养子，他被迫踏上寻找真相和自我救赎的武者之路。从丰城四馆较技到宗门之争，利益牵扯，强敌环伺，每一次挑战都让石牧更坚定。最终，石牧领悟了自己的血脉...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "异血附体，大闹三界",
+    "first_ep": 2401899,
+    "can_watch": 1,
+    "series": {
+      "series_id": 7444,
+      "title": "玄界之门",
+      "season_count": 1,
+      "new_season_id": 73973,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2025-11-26 10:00:00",
+      "pub_time_show": "2025年11月26日10:00",
+      "release_date": "2025-11-26",
+      "release_date_show": "2025年11月26日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 129552,
+        "season_id": 73973,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 129701,
+        "season_id": 73973,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "dujia",
+        "title": "预告花絮",
+        "ban_area_show": 1,
+        "attr": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 269538,
+        "season_id": 73973,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "ugc",
+        "title": "高能速看",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss73973",
+    "badge_info": {
+      "text": "出品",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+      }
+    },
+    "renewal_time": "每周三10:00更新",
+    "first_ep_info": {
+      "id": 2401899,
+      "cover": "http://i0.hdslb.com/bfs/archive/7efa14901f6eaaa6ff4d41c59d625bbbc5bfe0d1.jpg",
+      "title": "1",
+      "long_title": "石猴觉醒",
+      "pub_time": "2025-11-26 10:00:03",
+      "duration": 1264458
+    },
+    "formal_ep_count": 24,
+    "short_url": "https://b23.tv/ss73973",
+    "badge_infos": {
+      "content_attr": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      }
+    },
+    "season_version": "tv",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/4998580062697851eefbba34e6bc06cac615c23a.jpg",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/ec0b5f4a2b76bd6ecb13b14d86370b35c15563ee.jpg",
+    "subtitle_14": "入玄界之门，淬真仙之体！",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 98627270,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "在武者为尊的世界，石牧的命运似乎注定要与众不同。作为世家养子，他被迫踏上寻找真相和自我救赎的武者之路。从丰城四馆较技到宗门之争，利益牵扯，强敌环伺，每一次挑战都让石牧更坚定。最终，石牧领悟了自己的血脉力量，不仅改变了自己的命运，也影响了许多人的未来。",
+    "styles": [
+      "小说改",
+      "热血",
+      "玄幻"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_supported": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 127870,
+    "media_id": 290812694,
+    "season_type": 1,
+    "season_type_name": "番剧",
+    "title": "判处勇者刑",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/468f36b158d19139d237fc5411ab091994558605.png",
+    "total_count": 12,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "限时免费",
+    "badge_type": 3,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 768938,
+      "view": 36526016,
+      "danmaku": 89564,
+      "reply": 22540,
+      "coin": 87740,
+      "series_follow": 768938,
+      "series_view": 36526016,
+      "likes": 296880,
+      "favorite": 107843
+    },
+    "new_ep": {
+      "id": 3473678,
+      "index_show": "全12话",
+      "cover": "http://i0.hdslb.com/bfs/archive/f852a9756d9a6303fef8dcaae2f920679b787fc6.png",
+      "title": "12",
+      "long_title": "刑罚：约夫·切格港湾避难救助 3",
+      "pub_time": "2026-04-16 21:30:01",
+      "duration": 1761000
+    },
+    "rating": {
+      "score": 9.6,
+      "count": 5315
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/b0b55be5adf66b1343b8d8cd69c8702b9a036f29.png",
+    "season_status": 13,
+    "season_title": "TV",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1536,
+    "evaluate": "所谓勇者，是世间最为残酷的刑罚。\n犯下大罪之人被制造为“勇者”，其刑罚便是和魔王战斗。\n哪怕死了也会被复活起来，无法享受死亡的安宁。\n被判处勇者刑的前圣骑士团团长赛罗·弗巴茨，率领着由各种性格古怪之人...",
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "subtitle": "惩罚勇者拯救世界",
+    "first_ep": 2612898,
+    "can_watch": 1,
+    "series": {
+      "series_id": 7921,
+      "title": "判处勇者刑",
+      "season_count": 1,
+      "new_season_id": 127870,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2026-01-03 21:00:00",
+      "pub_time_show": "1月3日21:00",
+      "release_date": "2026-01-03",
+      "release_date_show": "2026年1月3日",
+      "pub_time_show_db": "1月3日21:00"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 278880,
+        "season_id": 127870,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 279333,
+        "season_id": 127870,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "PV",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 283148,
+        "season_id": 127870,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "特别企划",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 318903,
+        "season_id": 127870,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "bilibili",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "attr": 4,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss127870",
+    "badge_info": {
+      "text": "限时免费",
+      "bg_color": "#FF7F24",
+      "bg_color_night": "#D66011",
+      "img": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
+      "multi_img": {
+        "color": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/609b1a1f23dce03fe5d0d54363dd2e4db7a4d8ca.png"
+      }
+    },
+    "renewal_time": "每周四 21:30更新",
+    "first_ep_info": {
+      "id": 2612898,
+      "cover": "http://i0.hdslb.com/bfs/archive/5bce75f8cc12348ea3be50e1dfea10916f64e86b.png",
+      "title": "1",
+      "long_title": "刑罚：克温基森林撤退掩护",
+      "pub_time": "2026-01-03 21:00:00",
+      "duration": 3475000
+    },
+    "formal_ep_count": 12,
+    "short_url": "https://b23.tv/ss127870",
+    "season_version": "tv",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/bf0330a80f7721ef29913a252674bab96b1a786d.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/ddf8758954a888cfbabd3040caaa95a08b80fb5f.png",
+    "subtitle_14": "成为勇者才是刑罚的开始",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 928123,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "所谓勇者，是世间最为残酷的刑罚。\n犯下大罪之人被制造为“勇者”，其刑罚便是和魔王战斗。\n哪怕死了也会被复活起来，无法享受死亡的安宁。\n被判处勇者刑的前圣骑士团团长赛罗·弗巴茨，率领着由各种性格古怪之人构成的刑罚勇者部队，奔走于战斗的最前线。\n在残酷的战场上，赛罗与最强的生物兵器之一，剑之“女神”缇欧丽塔相遇了。\n“在将敌人歼灭之后，要为我献上赞赏……以及抚摸我的头。”\n为了活下来，以及报复陷害自己的人——\n赛罗与“女神”订下契约，在这令人绝望的世界中，投身于炽烈的斗争与阴谋的漩涡。",
+    "styles": [
+      "小说改",
+      "奇幻",
+      "战斗"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_supported": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 38157,
+    "media_id": 28233839,
+    "season_type": 1,
+    "season_type_name": "番剧",
+    "title": "银魂",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/087b862b772ee4e644478a36c757a26db476193d.png",
+    "total_count": 200,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 4927830,
+      "view": 759071229,
+      "danmaku": 3260470,
+      "reply": 201927,
+      "coin": 2180212,
+      "series_follow": 5387663,
+      "series_view": 1181224149,
+      "likes": 10025646,
+      "favorite": 779729
+    },
+    "new_ep": {
+      "id": 394945,
+      "index_show": "全200话",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/3b1040b733cb099150ea3ef99f5853af83969fdc.jpg",
+      "title": "201",
+      "long_title": "人类都是圣诞老人",
+      "pub_time": "2021-03-19 18:00:00",
+      "duration": 1465922
+    },
+    "rating": {
+      "score": 9.9,
+      "count": 75372
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/3b71bac8a6179e3bdbcad7171e7a57a58a3d490c.png",
+    "season_status": 13,
+    "season_title": "第一季",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1536,
+    "evaluate": "江户时代末期， 被称为“天人”的谜之异星人来袭。于是地球人与天人之间的战争瞬即爆发，为数众多的武士和攘夷派志士都参与与天人的战斗，幕府见识到天人强大的实力后，最终向天人低头，放弃武士不管，擅自与天人签...",
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "subtitle": "最无厘头的热血动画",
+    "first_ep": 393434,
+    "can_watch": 1,
+    "series": {
+      "series_id": 2419,
+      "title": "银魂",
+      "season_count": 5,
+      "new_season_id": 112480,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2021-03-19 18:00:00",
+      "pub_time_show": "2021年03月19日18:00",
+      "release_date": "2006-04-06",
+      "release_date_show": "2006年4月6日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 57587,
+        "season_id": 38157,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 58092,
+        "season_id": 38157,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "bilibili",
+        "title": "经典回顾",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 58093,
+        "season_id": 38157,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "bilibili",
+        "title": "名场面",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 58094,
+        "season_id": 38157,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "ugc",
+        "title": "其他",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 58095,
+        "season_id": 38157,
+        "limit_group": 316,
+        "watch_platform": 27,
+        "type": 2,
+        "copyright": "ugc",
+        "title": "其他",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 66893,
+        "season_id": 38157,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "bilibili",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "attr": 4,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss38157",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 393434,
+      "cover": "http://i0.hdslb.com/bfs/bangumi/1e47fe925cb543c09250a142c31c8e42ab4bcbbd.jpg",
+      "title": "01-02",
+      "long_title": "混蛋们！！你们这也算带银魂的吗！",
+      "pub_time": "2021-03-19 18:00:00",
+      "duration": 2867000
+    },
+    "formal_ep_count": 200,
+    "short_url": "https://b23.tv/ss38157",
+    "season_version": "tv",
+    "subtitle_14": "最无厘头的热血动画！",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 928123,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "江户时代末期， 被称为“天人”的谜之异星人来袭。于是地球人与天人之间的战争瞬即爆发，为数众多的武士和攘夷派志士都参与与天人的战斗，幕府见识到天人强大的实力后，最终向天人低头，放弃武士不管，擅自与天人签订不平等条约，准许他们入国。其后更颁布了“废刀令”，夺走了武士的刀，使他们无力反抗。自此，天人横行霸道，幕府为天人所影响，甚至被控制，成为了“傀儡政权”。在这样的时代，有一个武士与同伴愉快地过著异想天开的生活。",
+    "styles": [
+      "漫画改",
+      "热血",
+      "战斗",
+      "搞笑"
+    ],
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 102261,
+    "media_id": 26650111,
+    "season_type": 1,
+    "season_type_name": "番剧",
+    "title": "葬送的芙莉莲 中配版",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/faf410ab7dd2fbf811dbacfbca9003da0a3903d0.png",
+    "total_count": 28,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 4480508,
+      "view": 17490789,
+      "danmaku": 48727,
+      "reply": 8164,
+      "coin": 24792,
+      "series_follow": 5567477,
+      "series_view": 442645351,
+      "likes": 224311,
+      "favorite": 27931
+    },
+    "new_ep": {
+      "id": 1809215,
+      "index_show": "全28话",
+      "cover": "http://i0.hdslb.com/bfs/archive/26e33625761ab5c63e32614d44136ea30fcc28d0.png",
+      "title": "28",
+      "long_title": "因为再见面时会很难为情",
+      "pub_time": "2025-12-20 18:00:01",
+      "duration": 1464000
+    },
+    "rating": {
+      "score": 9,
+      "count": 963
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/20ce6c4e6a582997961b9872b1665ef90e626fca.png",
+    "season_status": 13,
+    "season_title": "TV(中配)",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1536,
+    "evaluate": "寿命逾千年的魔法使芙莉莲，以曾经共同战胜魔王的勇者辛美尔之死为契机，踏上了了解人类的旅途。\n\n邂逅了同属勇者小队的僧侣海塔与战士艾泽分别培养出的菲伦与休塔尔克，芙莉莲与二人一同前往灵魂安眠之地。去往此...",
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "subtitle": "花海盛开，故人归来",
+    "first_ep": 1809188,
+    "can_watch": 1,
+    "series": {
+      "series_id": 6722,
+      "title": "葬送的芙莉莲",
+      "season_count": 2,
+      "new_season_id": 102261,
+      "series_ord": 2
+    },
+    "publish": {
+      "pub_time": "2025-07-05 18:00:00",
+      "pub_time_show": "2025年07月05日18:00",
+      "release_date": "2025-07-05",
+      "release_date_show": "2025年7月5日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 202699,
+        "season_id": 102261,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 202703,
+        "season_id": 102261,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "bilibili",
+        "title": "PV",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss102261",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "renewal_time": "每周六 18:00播出",
+    "first_ep_info": {
+      "id": 1809188,
+      "cover": "http://i0.hdslb.com/bfs/archive/88be006c569bf5dddf7357f361ec2c80b5d728ee.png",
+      "title": "1",
+      "long_title": "冒险的结束",
+      "pub_time": "2025-07-05 18:00:00",
+      "duration": 1560000
+    },
+    "formal_ep_count": 28,
+    "short_url": "https://b23.tv/ss102261",
+    "season_version": "tv",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/106472965ea4749748fc32a9469450f2402fc4fd.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/3c727f4d2040c3a4e32ae27d30ffb3251f039d56.png",
+    "subtitle_14": "故事总在结束之后开始...",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 928123,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "寿命逾千年的魔法使芙莉莲，以曾经共同战胜魔王的勇者辛美尔之死为契机，踏上了了解人类的旅途。\n\n邂逅了同属勇者小队的僧侣海塔与战士艾泽分别培养出的菲伦与休塔尔克，芙莉莲与二人一同前往灵魂安眠之地。去往此地需要【一级魔法使】资格，因此芙莉莲与菲伦前往魔法都市维萨斯特，参加一级魔法使选拔测验。在那里有着形形色色的卓越魔法使…此刻，最顶尖的魔法将在维萨斯特展开激烈碰撞！\n",
+    "styles": [
+      "漫画改",
+      "奇幻",
+      "治愈",
+      "冒险",
+      "催泪"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_supported": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 118958,
+    "media_id": 281748493,
+    "season_type": 4,
+    "season_type_name": "国创",
+    "title": "第一序列 第二季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/fe0d93b9b9bc94182dd7fffdd98c16f89db13dec.jpg",
+    "total_count": 0,
+    "is_finish": 0,
+    "is_started": 0,
+    "is_play": 1,
+    "badge": "出品",
+    "badge_type": 1,
+    "rights": {
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 2365461,
+      "view": 3005631,
+      "danmaku": 2224,
+      "reply": 3783,
+      "coin": 8327,
+      "series_follow": 2450998,
+      "series_view": 202771574,
+      "likes": 22527,
+      "favorite": 6669
+    },
+    "new_ep": {
+      "index_show": "即将开播"
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/f788eb226263b736d0870ae1678acdf3134f928f.png",
+    "season_status": 13,
+    "season_title": "第二季",
+    "badge_ep": "",
+    "media_attr": 196677,
+    "season_attr": 9216,
+    "evaluate": "核冬天降临，文明崩塌，人类不再是世界的主宰。物种变异、生存资源稀缺，面对无法预测的未来和环境，危机迭出。人类为了保护自己建造了一座座壁垒，而壁垒之外，只能靠血与火活下去。主人公任小粟和弟弟颜六元就是其...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "流民少年觉醒异能",
+    "first_ep": 2374420,
+    "can_watch": 1,
+    "release_date_show": "敬请期待",
+    "series": {
+      "series_id": 5804,
+      "title": "第一序列",
+      "season_count": 2,
+      "new_season_id": 118958,
+      "series_ord": 2
+    },
+    "publish": {
+      "pub_time": "2026-12-31 00:00:01",
+      "pub_time_show": "敬请期待",
+      "release_date": "2026-12-31",
+      "release_date_show": "敬请期待",
+      "pub_time_show_db": "敬请期待"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 260441,
+        "season_id": 118958,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 264363,
+        "season_id": 118958,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "dujia",
+        "title": "PV花絮",
+        "ban_area_show": 1,
+        "attr": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss118958",
+    "badge_info": {
+      "text": "出品",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+      }
+    },
+    "first_ep_info": {
+      "id": 2374420,
+      "cover": "http://i0.hdslb.com/bfs/archive/7195b116c2e4b34c9b7f8b7d7dea1b6bda2e136a.png",
+      "title": "PV",
+      "long_title": "废土少年守护人类文明",
+      "pub_time": "2025-11-15 00:00:00",
+      "duration": 89000
+    },
+    "short_url": "https://b23.tv/ss118958",
+    "badge_infos": {
+      "content_attr": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      }
+    },
+    "season_version": "tv",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/0b4b67effe0d6df970d03a40e5b8b2d0027e47fc.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/7e3132ae51833d31f5b464aca3e7e593cfcca72c.png",
+    "subtitle_14": "废土少年守护人类文明",
+    "viewable_crowd_type": 18,
+    "summary": "核冬天降临，文明崩塌，人类不再是世界的主宰。物种变异、生存资源稀缺，面对无法预测的未来和环境，危机迭出。人类为了保护自己建造了一座座壁垒，而壁垒之外，只能靠血与火活下去。主人公任小粟和弟弟颜六元就是其中之一。他们本是荒野上最普通的少年，没有庇护，没有退路，他们唯一能依靠的，只有彼此。可命运却在绝境中赐予他们觉醒的力量。\n\n境山大地震，113号壁垒轰然坍塌，末世乱局彻底揭开。逃亡途中，任小粟带着家人救下军方首脑罗岚，从此踏入109号壁垒，新的生活即将开启，然而真正的考验才刚刚开始…… ",
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_supported": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 42105,
+    "media_id": 28338491,
+    "season_type": 1,
+    "season_type_name": "番剧",
+    "title": "奇幻世界舅舅",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/7edad1244ad72416dd576866e0513665f2fc9f40.png",
+    "total_count": 13,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "独家",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 2394453,
+      "view": 141847093,
+      "danmaku": 326841,
+      "reply": 38981,
+      "coin": 451211,
+      "series_follow": 2394438,
+      "series_view": 141847093,
+      "likes": 3180166,
+      "favorite": 198833
+    },
+    "new_ep": {
+      "id": 736323,
+      "index_show": "全13话",
+      "cover": "http://i0.hdslb.com/bfs/archive/d96ed39701cf941f3301fc7ea2adf2954bb4db44.png",
+      "title": "13",
+      "long_title": "多亏了大家，谢谢你们",
+      "pub_time": "2023-03-15 21:00:01",
+      "duration": 1441000
+    },
+    "rating": {
+      "score": 9.8,
+      "count": 24771
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/da1bbabc6368e059318f9b01024e79e130dc3fec.png",
+    "season_status": 13,
+    "season_title": "TV",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1536,
+    "evaluate": "2017年秋天――\n\n17岁时被卡车撞到，\n并在此后17年间昏睡不醒的舅舅醒了。\n前往病房探望的外甥敬文看到的是，口中嘟囔着莫名其妙的话语，\n从奇幻世界「格兰巴哈马尔」回到现实世界的舅舅。\n\n……舅舅...",
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "subtitle": "异世界归来的舅舅",
+    "first_ep": 674238,
+    "can_watch": 1,
+    "series": {
+      "series_id": 6179,
+      "title": "奇幻世界舅舅",
+      "season_count": 1,
+      "new_season_id": 42105,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2022-08-31 21:00:00",
+      "pub_time_show": "2022年08月31日21:00",
+      "release_date": "2022-07-06",
+      "release_date_show": "2022年7月6日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 79695,
+        "season_id": 42105,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 82382,
+        "season_id": 42105,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "dujia",
+        "title": "PV",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 85993,
+        "season_id": 42105,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "dujia",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "attr": 4,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss42105",
+    "badge_info": {
+      "text": "独家",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+      }
+    },
+    "renewal_time": "每周三 21:00更新",
+    "first_ep_info": {
+      "id": 674238,
+      "cover": "http://i0.hdslb.com/bfs/archive/c8e95cc06a187e74d2043eb38674df8e12be6e2b.png",
+      "title": "1",
+      "long_title": "在异世界格朗巴哈马尔过了17年总算回来，咯",
+      "pub_time": "2022-08-31 21:00:01",
+      "duration": 1417540
+    },
+    "formal_ep_count": 13,
+    "short_url": "https://b23.tv/ss42105",
+    "badge_infos": {
+      "content_attr": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      }
+    },
+    "season_version": "tv",
+    "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/c77e57ba105bf3d63da3fcc5d0b509bacefbf489.png",
+    "horizontal_cover_16_10": "http://i0.hdslb.com/bfs/bangumi/image/2719084adaed21fd49d9fd9ecd2fc7b304a06b3a.png",
+    "subtitle_14": "这个舅舅会魔法超酷的好嘛",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 928123,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "2017年秋天――\n\n17岁时被卡车撞到，\n并在此后17年间昏睡不醒的舅舅醒了。\n前往病房探望的外甥敬文看到的是，口中嘟囔着莫名其妙的话语，\n从奇幻世界「格兰巴哈马尔」回到现实世界的舅舅。\n\n……舅舅的脑子不太对劲。\n\n见到此状敬文无言以对，但舅舅说要展示去过奇幻世界的证据并用出了魔法。\n敬文打算靠舅舅的力量换取钱财来过日子，\n便收留了无家可归的舅舅开始了合租生活。\n在与舅舅共度的生活中，舅舅不断说着在奇幻世界的冒险故事和对世嘉满溢而出的热爱。\n舅舅这半辈子充满了孤独和残酷，听得敬文时而开心时而痛心。\n这是努力做视频的两个年龄相差悬殊的男人，在廉租房区的一角展开的，\n崭新异世界喜剧！\n",
+    "styles": [
+      "奇幻",
+      "搞笑",
+      "魔法",
+      "漫画改",
+      "穿越"
+    ],
+    "config_attrs": {
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 6402,
+    "media_id": 6402,
+    "season_type": 4,
+    "season_type_name": "国创",
+    "title": "一人之下 第二季",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/f4e355ac82b4508e26f1883e92320879151453a7.jpg",
+    "total_count": 24,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 4971404,
+      "view": 510833232,
+      "danmaku": 6134311,
+      "reply": 336539,
+      "coin": 1128965,
+      "series_follow": 7253726,
+      "series_view": 821376330,
+      "likes": 2271140,
+      "favorite": 90515
+    },
+    "new_ep": {
+      "id": 267946,
+      "index_show": "全24话",
+      "cover": "http://i0.hdslb.com/bfs/archive/a9d2e9fa082f7d5ec6c41167a2959c59f0f33d53.jpg",
+      "title": "番外篇",
+      "long_title": "天师下山",
+      "pub_time": "2019-04-14 10:00:00",
+      "duration": 1976937
+    },
+    "rating": {
+      "score": 9.5,
+      "count": 50499
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/953ccee262338a61da8c880734dc3c7af6fd2c7a.jpg",
+    "season_status": 13,
+    "season_title": "第二季",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 3072,
+    "evaluate": "这个世界是存在异人的。张楚岚为了解开爷爷和自身的秘密，和冯宝宝一起前往龙虎山天师府参加异人界的盛会——罗天大醮，并与众多异人高手对战。\n...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "开启异人之旅",
+    "first_ep": 115735,
+    "can_watch": 1,
+    "series": {
+      "series_id": 2990,
+      "title": "一人之下",
+      "season_count": 4,
+      "new_season_id": 22082,
+      "series_ord": 3
+    },
+    "publish": {
+      "pub_time": "2017-10-27 10:00:00",
+      "pub_time_show": "2017年10月27日10:00",
+      "release_date": "2017-10-27",
+      "release_date_show": "2017年10月27日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 23389,
+        "season_id": 6402,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 36455,
+        "season_id": 6402,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "ugc",
+        "title": "其他",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 67618,
+        "season_id": 6402,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "bilibili",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "attr": 4,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss6402",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "renewal_time": "每周五更新",
+    "first_ep_info": {
+      "id": 115735,
+      "cover": "http://i2.hdslb.com/bfs/archive/3ea6582d6a1b3d310f9c4aa7c68c648c48ff2bac.jpg",
+      "title": "1",
+      "long_title": "风起云涌，罗天大醮！",
+      "pub_time": "2017-10-27 09:57:00",
+      "duration": 1613000
+    },
+    "formal_ep_count": 25,
+    "short_url": "https://b23.tv/ss6402",
+    "season_version": "tv",
+    "subtitle_14": "你发现自己和别人不一样",
+    "subtitle_25": "张楚岚和没有任何记忆的冯宝宝开启了异人之旅",
+    "viewable_crowd_type": 18,
+    "summary": "这个世界是存在异人的。张楚岚为了解开爷爷和自身的秘密，和冯宝宝一起前往龙虎山天师府参加异人界的盛会——罗天大醮，并与众多异人高手对战。\n",
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 5050,
+    "media_id": 5050,
+    "season_type": 4,
+    "season_type_name": "国创",
+    "title": "一人之下",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/af334241d73ff092c5d78d0c9ee9ad893592f9c4.jpg",
+    "total_count": 12,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 4709170,
+      "view": 270421933,
+      "danmaku": 2292715,
+      "reply": 128782,
+      "coin": 552882,
+      "series_follow": 7253726,
+      "series_view": 821376330,
+      "likes": 1518092,
+      "favorite": 110833
+    },
+    "new_ep": {
+      "id": 96006,
+      "index_show": "全12话",
+      "cover": "http://i1.hdslb.com/bfs/archive/bc0d1430181a9fb7950e1ca2ac7300a059c13504.jpg",
+      "title": "12",
+      "long_title": "欲求无上道，大众念天尊",
+      "pub_time": "2016-09-25 11:04:06",
+      "duration": 2629077
+    },
+    "rating": {
+      "score": 9.3,
+      "count": 21044
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/124fb203b258f9b62d38f40a114ced216b5cdcf0.jpg",
+    "season_status": 13,
+    "season_title": "第一季",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 3584,
+    "evaluate": "这个世界是存在异人的。 张楚岚就是一个隐藏在普通人中的异人。在生命的前19年中，他一直小心隐藏着自己和别人的不同。直到有一天，神秘少女冯宝宝找上了他。从此他被活尸追，被怪人砍，被卷入了前所未见的麻烦之...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "开启异人之旅",
+    "first_ep": 91588,
+    "can_watch": 1,
+    "series": {
+      "series_id": 2990,
+      "title": "一人之下",
+      "season_count": 4,
+      "new_season_id": 22082,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2016-07-08 00:00:01",
+      "pub_time_show": "2016年7月8日",
+      "release_date": "2016-07-08",
+      "release_date_show": "2016年7月8日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 21970,
+        "season_id": 5050,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 67598,
+        "season_id": 5050,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "bilibili",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "attr": 4,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss5050",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "renewal_time": "每周五更新",
+    "first_ep_info": {
+      "id": 91588,
+      "cover": "http://i1.hdslb.com/bfs/archive/daf5db5b29a81142f31fcbb060aad31f356a2230.jpg",
+      "title": "1",
+      "long_title": "异人刀兵起，道炁携阴阳",
+      "pub_time": "2016-07-08 10:16:04",
+      "duration": 1308040
+    },
+    "formal_ep_count": 12,
+    "short_url": "https://b23.tv/ss5050",
+    "season_version": "tv",
+    "subtitle_14": "你发现自己和别人不一样",
+    "subtitle_25": "张楚岚和没有任何记忆的冯宝宝开启了异人之旅",
+    "viewable_crowd_type": 18,
+    "summary": "这个世界是存在异人的。 张楚岚就是一个隐藏在普通人中的异人。在生命的前19年中，他一直小心隐藏着自己和别人的不同。直到有一天，神秘少女冯宝宝找上了他。从此他被活尸追，被怪人砍，被卷入了前所未见的麻烦之中……",
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 39659,
+    "media_id": 28235353,
+    "season_type": 4,
+    "season_type_name": "国创",
+    "title": "第一序列",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/5188f5b8a775b2d72581a6f83d1228db79d2d63e.png",
+    "total_count": 16,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "出品",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 2390889,
+      "view": 199765960,
+      "danmaku": 412975,
+      "reply": 53824,
+      "coin": 544384,
+      "series_follow": 2450998,
+      "series_view": 202771574,
+      "likes": 1191045,
+      "favorite": 182853
+    },
+    "new_ep": {
+      "id": 756204,
+      "index_show": "全16话",
+      "cover": "http://i0.hdslb.com/bfs/archive/80873645b122bd4a3e65a520828b1b9eda834a78.jpg",
+      "title": "16",
+      "long_title": "回家",
+      "pub_time": "2023-10-25 12:00:01",
+      "duration": 1097000
+    },
+    "rating": {
+      "score": 9.6,
+      "count": 6094
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/c716401ce187be4eacf04e951e0b6105aca344c6.png",
+    "season_status": 13,
+    "season_title": "第一季",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 9728,
+    "evaluate": "因经历过核冬天，在这里人类不再是世界的主宰，物种变异、生存资源稀缺，面对无法预测的未来和环境，危机迭出。人类为了保护自己建造了一座座壁垒，但也有很多人没有进入壁垒生活，在荒野打猎为生。主人公任小粟和弟...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "人类文明依然屹立",
+    "first_ep": 756189,
+    "can_watch": 1,
+    "series": {
+      "series_id": 5804,
+      "title": "第一序列",
+      "season_count": 2,
+      "new_season_id": 118958,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2023-07-19 12:00:00",
+      "pub_time_show": "2023年07月19日12:00",
+      "release_date": "2023-07-19",
+      "release_date_show": "2023年7月19日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 62473,
+        "season_id": 39659,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 62498,
+        "season_id": 39659,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "dujia",
+        "title": "PV花絮",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 96462,
+        "season_id": 39659,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "生存指南",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss39659",
+    "badge_info": {
+      "text": "出品",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+      }
+    },
+    "renewal_time": "每周三12:00更新",
+    "first_ep_info": {
+      "id": 756189,
+      "cover": "http://i0.hdslb.com/bfs/archive/755cac122ca1aa1600611c91f72bd810cdcf33d4.jpg",
+      "title": "1",
+      "long_title": "脑子有病",
+      "pub_time": "2023-07-19 12:00:01",
+      "duration": 1512000
+    },
+    "formal_ep_count": 16,
+    "short_url": "https://b23.tv/ss39659",
+    "badge_infos": {
+      "content_attr": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      }
+    },
+    "season_version": "tv",
+    "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/66861ceb5c14d0c9eb331211a9c4553368da1208.png",
+    "horizontal_cover_16_10": "http://i0.hdslb.com/bfs/bangumi/image/092006a2ce1999d1f23f7162572a285096b261a2.png",
+    "subtitle_14": "他们从未被真正打败过",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 98627270,
+        "type": 1,
+        "is_contribute": 1,
+        "title": "出品"
+      }
+    ],
+    "summary": "因经历过核冬天，在这里人类不再是世界的主宰，物种变异、生存资源稀缺，面对无法预测的未来和环境，危机迭出。人类为了保护自己建造了一座座壁垒，但也有很多人没有进入壁垒生活，在荒野打猎为生。主人公任小粟和弟弟颜六元就是其中之一。并无血缘关系但却相依为命的兄弟二人凭借着他们顽强的意志力不断成长，并在偶然的机会下觉醒了超能力。任小粟为生计和保护家人，离开自己生活的集镇前往境山，一路遭遇狼群、人面虫、变异生物的袭击，觉醒超能力，任小粟能否在危机中逃生...",
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 102173,
+    "media_id": 26641346,
+    "season_type": 1,
+    "season_type_name": "番剧",
+    "title": "薰香花朵凛然绽放",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/433fceda3574bb232ab7091cf9aacc049678e96a.png",
+    "total_count": 13,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "独家",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 1960154,
+      "view": 60833545,
+      "danmaku": 338139,
+      "reply": 25848,
+      "coin": 393644,
+      "series_follow": 1960136,
+      "series_view": 60833545,
+      "likes": 770450,
+      "favorite": 243662
+    },
+    "new_ep": {
+      "id": 2218657,
+      "index_show": "全13话",
+      "cover": "http://i0.hdslb.com/bfs/archive/f58f7c2f160d4cedb4979274efe0a3f891575783.png",
+      "title": "13",
+      "long_title": "薰子和凛太郎",
+      "pub_time": "2025-10-22 20:00:00",
+      "duration": 1446000
+    },
+    "rating": {
+      "score": 9.6,
+      "count": 7983
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/4228481d53f5b44275b4e12a94661cf2bac3476b.png",
+    "season_status": 13,
+    "season_title": "TV",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1024,
+    "evaluate": "窗帘的另一头，是和我永远没有交集的世界——\n\n差生云集的底层男校千鸟高中，一直被历史悠久的贵族女校桔梗女校所鄙视。尽管两校的校舍相邻，但桔梗女校从来都是将窗帘拉得严严实实，不让千鸟高中的人看到人影。在...",
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "subtitle": "邻校冤家的甜蜜信号",
+    "first_ep": 2009785,
+    "can_watch": 1,
+    "series": {
+      "series_id": 7606,
+      "title": "薰香花朵凛然绽放",
+      "season_count": 1,
+      "new_season_id": 102173,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2025-08-06 20:00:00",
+      "pub_time_show": "2025年08月06日20:00",
+      "release_date": "2025-07-05",
+      "release_date_show": "2025年7月5日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 202526,
+        "season_id": 102173,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 202751,
+        "season_id": 102173,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "dujia",
+        "title": "PV",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 217148,
+        "season_id": 102173,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "dujia",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "attr": 4,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss102173",
+    "badge_info": {
+      "text": "独家",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+      }
+    },
+    "renewal_time": "每周三20:00播出",
+    "first_ep_info": {
+      "id": 2009785,
+      "cover": "http://i0.hdslb.com/bfs/archive/13109c7f15f6a531c4fc86ab1b9b46f97994ea5c.png",
+      "title": "1",
+      "long_title": "凛太郎和薰子",
+      "pub_time": "2025-08-06 20:00:00",
+      "duration": 1444943
+    },
+    "formal_ep_count": 13,
+    "short_url": "https://b23.tv/ss102173",
+    "badge_infos": {
+      "content_attr": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      }
+    },
+    "season_version": "tv",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/a93d569ff53bb0b809c9bca1ff893892bc2b7d51.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/273b6996ab5a9f760758df6691f50ef2d67f2f5e.png",
+    "subtitle_14": "笨蛋凶脸暖男x甜品系萌妹",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 928123,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "窗帘的另一头，是和我永远没有交集的世界——\n\n差生云集的底层男校千鸟高中，一直被历史悠久的贵族女校桔梗女校所鄙视。尽管两校的校舍相邻，但桔梗女校从来都是将窗帘拉得严严实实，不让千鸟高中的人看到人影。在千鸟上学的䌷凛太郎，因为长相问题，经常被人误以为是一个可怕的人不敢接近，因此也习惯了和他人保持距离。而在某一天，在给家里的蛋糕店帮忙时，一个名叫薰子的顾客对他说：“我从来不觉得凛太郎很可怕啊？”\n薰子对凛太郎没有半点偏见，和她一起度过的时光既让凛太郎感到困惑，也感到惬意。但他很快就发现，薰子是桔梗女校的学生……",
+    "styles": [
+      "漫画改",
+      "日常",
+      "校园",
+      "恋爱"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_supported": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 36170,
+    "media_id": 28231812,
+    "season_type": 1,
+    "season_type_name": "番剧",
+    "title": "关于我转生变成史莱姆这档事 第二季",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/fd492888df64bbc3b821dac5d516dbc1c2fe5f08.png",
+    "total_count": 26,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 9202151,
+      "view": 489580362,
+      "danmaku": 2943339,
+      "reply": 414329,
+      "coin": 2447876,
+      "series_follow": 10927329,
+      "series_view": 1221328166,
+      "likes": 5918503,
+      "favorite": 172900
+    },
+    "new_ep": {
+      "id": 409826,
+      "index_show": "全26话",
+      "cover": "http://i0.hdslb.com/bfs/archive/41f6c69130a3159cb17df861e41d92b1a82e6186.png",
+      "title": "48",
+      "long_title": "八星魔王",
+      "pub_time": "2021-09-21 23:00:00",
+      "duration": 1418000
+    },
+    "rating": {
+      "score": 8.9,
+      "count": 227464
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/309651136aa074246e76a00d437519434520f1a6.png",
+    "season_status": 13,
+    "season_title": "第二季",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1051136,
+    "evaluate": "主人公利姆鲁与仰慕他而聚集的众多魔物们所建立的国家「鸠拉·特恩佩斯特国」，经由与邻国的协议及交易，让「人类与魔物共同漫步的国家」这一温柔的理想逐步成形。\n\n利姆鲁作为曾是人类的史莱姆当然拥有「对人类的...",
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "subtitle": "史莱姆黑化",
+    "first_ep": 374000,
+    "can_watch": 1,
+    "series": {
+      "series_id": 4188,
+      "title": "关于我转生变成史莱姆这档事",
+      "season_count": 4,
+      "new_season_id": 38221,
+      "series_ord": 2
+    },
+    "publish": {
+      "pub_time": "2021-01-05 23:30:00",
+      "pub_time_show": "2021年01月05日23:30",
+      "release_date": "2021-01-05",
+      "release_date_show": "2021年1月5日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 53076,
+        "season_id": 36170,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 53689,
+        "season_id": 36170,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "bilibili",
+        "title": "PV&其他",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 59913,
+        "season_id": 36170,
+        "limit_group": 316,
+        "watch_platform": 27,
+        "type": 5,
+        "copyright": "ugc",
+        "title": "次元发电机采访",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 86252,
+        "season_id": 36170,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "bilibili",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "attr": 4,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss36170",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "renewal_time": "每周二 23:00更新",
+    "first_ep_info": {
+      "id": 374000,
+      "cover": "http://i0.hdslb.com/bfs/archive/3ed124f2f952828f83f4580b9123989a05b180a4.jpg",
+      "title": "24.9",
+      "long_title": "闲话：日向·坂口",
+      "pub_time": "2021-01-05 23:30:00",
+      "duration": 1421000
+    },
+    "formal_ep_count": 26,
+    "short_url": "https://b23.tv/ss36170",
+    "season_version": "tv",
+    "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/a8976272debc705bce52d1d9433e983ef4e18e50.png",
+    "horizontal_cover_16_10": "http://i0.hdslb.com/bfs/bangumi/image/45a7d0290b40bf5c1554472b95d426123e881f44.png",
+    "subtitle_14": "新的危机已经出现，萌王速归",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 928123,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "主人公利姆鲁与仰慕他而聚集的众多魔物们所建立的国家「鸠拉·特恩佩斯特国」，经由与邻国的协议及交易，让「人类与魔物共同漫步的国家」这一温柔的理想逐步成形。\n\n利姆鲁作为曾是人类的史莱姆当然拥有「对人类的好意」……但这个世界中却存在着明确的「对魔物的敌意」。\n\n当这不合理的现实摆在眼前时，利姆鲁将做出选择。为了「什么都不想失去」——\n万众期待的转生喜剧突入暴风的新章！",
+    "styles": [
+      "小说改",
+      "奇幻",
+      "战斗",
+      "魔法",
+      "架空"
+    ],
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 25739,
+    "media_id": 139252,
+    "season_type": 1,
+    "season_type_name": "番剧",
+    "title": "关于我转生变成史莱姆这档事",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/a4c0e0ccc44fe3949a734f546cf5bb07da925bad.png",
+    "total_count": 28,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 7970033,
+      "view": 522071277,
+      "danmaku": 5174228,
+      "reply": 470945,
+      "coin": 2169843,
+      "series_follow": 10927329,
+      "series_view": 1221328166,
+      "likes": 2731005,
+      "favorite": 112690
+    },
+    "new_ep": {
+      "id": 366494,
+      "index_show": "全28话",
+      "cover": "http://i0.hdslb.com/bfs/archive/88211e0d1618b8aa5b48267e77d91c1f25279d4c.jpg",
+      "title": "OAD05",
+      "long_title": "外传：利姆鲁的华丽教师生活 其三",
+      "pub_time": "2020-11-27 00:00:00",
+      "duration": 1391000
+    },
+    "rating": {
+      "score": 9.4,
+      "count": 121566
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/8d9f5b4a566d0547bc2e3f6f733b732a09c0d3d4.jpg",
+    "season_status": 13,
+    "season_title": "第一季",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 2560,
+    "evaluate": "史莱姆生活，开始了。\n上班族的三上悟在道路上被歹徒给刺杀身亡后，回过神来发现自己转生到了异世界。\n不过，自己居然是“史莱姆”！\n他在得到利姆鲁这个名字后开始了自己的史莱姆人生，随着与各个种族相处交流的...",
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "subtitle": "参见萌王！",
+    "first_ep": 250460,
+    "can_watch": 1,
+    "series": {
+      "series_id": 4188,
+      "title": "关于我转生变成史莱姆这档事",
+      "season_count": 4,
+      "new_season_id": 38221,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2018-10-02 00:30:00",
+      "pub_time_show": "2018年10月02日00:30",
+      "release_date": "2018-10-02",
+      "release_date_show": "2018年10月2日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 34988,
+        "season_id": 25739,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 48271,
+        "season_id": 25739,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 5,
+        "copyright": "ugc",
+        "title": "次元发电机专访",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 66926,
+        "season_id": 25739,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "bilibili",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "attr": 4,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss25739",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "renewal_time": "OAD05 11月27日上线！",
+    "first_ep_info": {
+      "id": 250460,
+      "cover": "http://i0.hdslb.com/bfs/archive/4994e631fef939e7f606c012682a96ce2d3bf7b8.jpg",
+      "title": "1",
+      "long_title": "暴风龙维鲁德拉",
+      "pub_time": "2018-10-02 00:30:00",
+      "duration": 1421000
+    },
+    "formal_ep_count": 28,
+    "short_url": "https://b23.tv/ss25739",
+    "season_version": "tv",
+    "subtitle_14": "开局一只史莱姆，技能全靠吞",
+    "viewable_crowd_type": 18,
+    "summary": "史莱姆生活，开始了。\n上班族的三上悟在道路上被歹徒给刺杀身亡后，回过神来发现自己转生到了异世界。\n不过，自己居然是“史莱姆”！\n他在得到利姆鲁这个名字后开始了自己的史莱姆人生，随着与各个种族相处交流的过程中，他定下了一个目标——那就是“建立一个任何种族都能愉快地一起生活的国家”！",
+    "styles": [
+      "小说改",
+      "穿越",
+      "奇幻",
+      "战斗",
+      "魔法",
+      "冒险",
+      "架空"
+    ],
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 2556,
+    "media_id": 2556,
+    "season_type": 1,
+    "season_type_name": "番剧",
+    "title": "哆啦A梦 大雄的平行西游记",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/d41c40dfec72f24a72081e4a4e1223bab4f5a9c0.jpg",
+    "total_count": 1,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_bp": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 113562,
+      "view": 4783795,
+      "danmaku": 45977,
+      "reply": 2494,
+      "coin": 8417,
+      "series_follow": 2464427,
+      "series_view": 371397865,
+      "likes": 25520,
+      "favorite": 10459
+    },
+    "new_ep": {
+      "id": 63679,
+      "index_show": "全1话",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/cd0b1f2ee1b1244f1edeba4c3a2b195661280a99.jpg",
+      "title": "1",
+      "long_title": "【剧场版】哆啦A梦 大雄的平行西游记【bilibili正版】",
+      "pub_time": "2015-02-14 17:22:00",
+      "duration": 5400000
+    },
+    "rating": {
+      "score": 9.1,
+      "count": 813
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/c7a7e17899af0df303652b797afadddac7ac56f7.jpg",
+    "season_status": 2,
+    "season_title": "大雄的平行西游记",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 2576,
+    "evaluate": "为了在新生欢迎会上表演话剧“西游记”，大雄班级举行的话剧的排练。大雄想当孙悟空，可是却只是村人甲。为了证明自己最像孙悟空，大雄用航时机来到中国唐朝，想见孙悟空，而且真的见到了（实际为大雄假扮）。后来大...",
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "subtitle": "五人组的修行之徒",
+    "first_ep": 63679,
+    "can_watch": 1,
+    "series": {
+      "series_id": 1604,
+      "title": "哆啦A梦",
+      "season_count": 42,
+      "new_season_id": 44689,
+      "series_ord": 18
+    },
+    "publish": {
+      "pub_time": "1988-03-12 00:00:00",
+      "pub_time_show": "1988年03月12日00:00",
+      "release_date": "1988-03-12",
+      "release_date_show": "1988年3月12日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 19506,
+        "season_id": 2556,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 84050,
+        "season_id": 2556,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "bilibili",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "attr": 4,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss2556?theme=movie",
+    "badge_info": {
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "multi_img": {
+        "color": "",
+        "medium_remind": ""
+      }
+    },
+    "renewal_time": "每周日更新",
+    "first_ep_info": {
+      "id": 63679,
+      "cover": "http://i0.hdslb.com/bfs/bangumi/cd0b1f2ee1b1244f1edeba4c3a2b195661280a99.jpg",
+      "title": "1",
+      "long_title": "【剧场版】哆啦A梦 大雄的平行西游记【bilibili正版】",
+      "pub_time": "2015-02-14 17:22:00",
+      "duration": 5400000
+    },
+    "formal_ep_count": 1,
+    "short_url": "https://b23.tv/ss2556",
+    "season_version": "movie",
+    "subtitle_14": "大雄竟然穿越当了一把孙悟空？",
+    "viewable_crowd_type": 3,
+    "summary": "为了在新生欢迎会上表演话剧“西游记”，大雄班级举行的话剧的排练。大雄想当孙悟空，可是却只是村人甲。为了证明自己最像孙悟空，大雄用航时机来到中国唐朝，想见孙悟空，而且真的见到了（实际为大雄假扮）。后来大雄以哆啦A梦的道具为赌注，证明孙悟空很像大雄。大雄与他的朋友来到唐朝，却没有见到孙悟空。因此大雄用哆啦A梦的模拟游戏机假扮孙悟空，最后被识破。由于没有关好机器，游戏里的妖怪从游戏机里跑了出来。妖怪最后统治了世界，大雄他们也面临危险。\n\n为了恢复历史，拯救玄奘法师，大雄与他的朋友假扮孙悟空等角色来保护玄奘法师。在穿越火焰山时，被玄奘法师的随从小杨（其实是红孩儿）带入牛魔王和铁扇公主的老巢，面临被煮的命运。这时哆啦美来到的火焰山，加上小杨的协助，最后大雄击败了妖怪。历史得到了恢复，玄奘法师与小杨继续到天竺取经，而大雄的回到了20世纪的日本。",
+    "styles": [
+      "少儿",
+      "奇幻",
+      "科幻",
+      "萌系",
+      "穿越",
+      "冒险"
+    ],
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 28541,
+    "media_id": 28222617,
+    "season_type": 4,
+    "season_type_name": "国创",
+    "title": "那年那兔那些事儿 第五季",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/80c412b59a818336685eafca6829f2b40cf3cf7c.jpg",
+    "total_count": 11,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 2933538,
+      "view": 131902040,
+      "danmaku": 543533,
+      "reply": 77739,
+      "coin": 727944,
+      "series_follow": 5477490,
+      "series_view": 996049272,
+      "likes": 2284507,
+      "favorite": 192947
+    },
+    "new_ep": {
+      "id": 312273,
+      "index_show": "全11话",
+      "cover": "http://i0.hdslb.com/bfs/archive/fcec507cc5f587540a97d8eaeaaa4ccf14921471.jpg",
+      "title": "11",
+      "long_title": "忠爱（2）",
+      "pub_time": "2020-02-18 18:30:00",
+      "duration": 337000
+    },
+    "rating": {
+      "score": 9.6,
+      "count": 22760
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/5a84e8ff39d21752427425772651fa10dff20715.jpg",
+    "season_status": 2,
+    "season_title": "第五季",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 2560,
+    "evaluate": "讲述了勤劳的兔子们为了建立一个吃得饱穿得暖不被人看不起的种花家，辛勤奋斗的故事。...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "此生无悔入华夏",
+    "first_ep": 285053,
+    "can_watch": 1,
+    "series": {
+      "series_id": 1135,
+      "title": "那年那兔那些事儿",
+      "season_count": 7,
+      "new_season_id": 80930,
+      "series_ord": 6
+    },
+    "publish": {
+      "pub_time": "2019-10-01 00:00:01",
+      "pub_time_show": "2019年10月1日",
+      "release_date": "2019-10-01",
+      "release_date_show": "2019年10月1日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 38344,
+        "season_id": 28541,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 38504,
+        "season_id": 28541,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "bilibili",
+        "title": "预告",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss28541",
+    "badge_info": {
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "multi_img": {
+        "color": "",
+        "medium_remind": ""
+      }
+    },
+    "renewal_time": "双周二更新",
+    "first_ep_info": {
+      "id": 285053,
+      "cover": "http://i0.hdslb.com/bfs/archive/00645bc41e532257eaa9eff7e4ef22628370c25a.jpg",
+      "title": "1",
+      "long_title": "初心涌动",
+      "pub_time": "2019-10-01 18:30:00",
+      "duration": 533000
+    },
+    "formal_ep_count": 11,
+    "short_url": "https://b23.tv/ss28541",
+    "season_version": "tv",
+    "subtitle_14": "来生还在种花家！",
+    "subtitle_25": "那兔第五季！此生无悔入华夏，来生还在种花家！",
+    "viewable_crowd_type": 16,
+    "producers": [
+      {
+        "mid": 8580411,
+        "type": 1,
+        "is_contribute": 1,
+        "title": "出品"
+      }
+    ],
+    "summary": "讲述了勤劳的兔子们为了建立一个吃得饱穿得暖不被人看不起的种花家，辛勤奋斗的故事。",
+    "styles": [
+      "漫画改",
+      "热血",
+      "泡面",
+      "历史",
+      "催泪"
+    ],
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 6018,
+    "media_id": 6018,
+    "season_type": 4,
+    "season_type_name": "国创",
+    "title": "那年那兔那些事儿 第四季",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/c8458f588c49f42578f5d6bd48785b0573d85a9b.jpg",
+    "total_count": 12,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 1342590,
+      "view": 110108333,
+      "danmaku": 456299,
+      "reply": 83374,
+      "coin": 384876,
+      "series_follow": 5477490,
+      "series_view": 996049272,
+      "likes": 1167422,
+      "favorite": 97273
+    },
+    "new_ep": {
+      "id": 122863,
+      "index_show": "全12话",
+      "cover": "http://i1.hdslb.com/bfs/archive/8b6b76f481208acda49450b4f7d8bff86c4c2482.jpg",
+      "title": "12",
+      "long_title": "厉兵秣马朱日和",
+      "pub_time": "2017-11-29 19:42:00",
+      "duration": 504000
+    },
+    "rating": {
+      "score": 9.4,
+      "count": 12475
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/19b90aecb3ae9868982dcb862e145ed2e563955f.jpg",
+    "season_status": 2,
+    "season_title": "第四季",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 2560,
+    "evaluate": "我们也曾彷徨，我们也曾迷茫，但是我们从来不曾退缩，兔子永远走在挑战强者的路上。那年那兔那些事儿第四季，全方位展现“地面最强”的童年！...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "兔子从来不曾退缩",
+    "first_ep": 113181,
+    "can_watch": 1,
+    "series": {
+      "series_id": 1135,
+      "title": "那年那兔那些事儿",
+      "season_count": 7,
+      "new_season_id": 80930,
+      "series_ord": 5
+    },
+    "publish": {
+      "pub_time": "2017-06-30 00:00:01",
+      "pub_time_show": "2017年6月30日",
+      "release_date": "2017-06-30",
+      "release_date_show": "2017年6月30日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 23001,
+        "season_id": 6018,
+        "limit_group": 317,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss6018",
+    "badge_info": {
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "multi_img": {
+        "color": "",
+        "medium_remind": ""
+      }
+    },
+    "first_ep_info": {
+      "id": 113181,
+      "cover": "http://i1.hdslb.com/bfs/archive/d5db2cbd4aae35e97c76d7a2ac4019370f7591a5.jpg",
+      "title": "1",
+      "long_title": "最好交情见面初",
+      "pub_time": "2017-06-30 16:00:00",
+      "duration": 461000
+    },
+    "formal_ep_count": 12,
+    "short_url": "https://b23.tv/ss6018",
+    "season_version": "tv",
+    "subtitle_14": "兔子从来不曾退缩",
+    "subtitle_25": "兔子从来不曾退缩，我们永远走在挑战强者的路上",
+    "viewable_crowd_type": 16,
+    "producers": [
+      {
+        "mid": 8580411,
+        "type": 1,
+        "is_contribute": 1,
+        "title": "出品"
+      }
+    ],
+    "summary": "我们也曾彷徨，我们也曾迷茫，但是我们从来不曾退缩，兔子永远走在挑战强者的路上。那年那兔那些事儿第四季，全方位展现“地面最强”的童年！",
+    "styles": [
+      "漫画改",
+      "热血",
+      "萌系",
+      "历史"
+    ],
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 5559,
+    "media_id": 5559,
+    "season_type": 4,
+    "season_type_name": "国创",
+    "title": "那年那兔那些事儿 第三季",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/e3366e021abb45f74bf99c1e140eee45605ec52a.jpg",
+    "total_count": 12,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 1467356,
+      "view": 193247880,
+      "danmaku": 474933,
+      "reply": 69153,
+      "coin": 516277,
+      "series_follow": 5477490,
+      "series_view": 996049272,
+      "likes": 2366294,
+      "favorite": 175050
+    },
+    "new_ep": {
+      "id": 102200,
+      "index_show": "全12话",
+      "cover": "http://i2.hdslb.com/bfs/archive/160a680ab5f9abc63eb0d81e75980d96569109b1.jpg",
+      "title": "12",
+      "long_title": "北南相望又一年",
+      "pub_time": "2017-03-08 17:48:00",
+      "duration": 595000
+    },
+    "rating": {
+      "score": 9.6,
+      "count": 10971
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/b5b9649cce4336c63cbfa73150f991685dd27696.jpg",
+    "season_status": 2,
+    "season_title": "第三季",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 2560,
+    "evaluate": "那年，兔子的种花家没有了大规模的威胁，和蓝星的小伙伴们的关系也在日渐和谐。但笑与泪的生活还在继续，之后还会发生什么有趣的事情呢？我也不知道啊！作者我压根就没想过这我兔居然能出到第三季！...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "蓝星日益和谐",
+    "first_ep": 96743,
+    "can_watch": 1,
+    "series": {
+      "series_id": 1135,
+      "title": "那年那兔那些事儿",
+      "season_count": 7,
+      "new_season_id": 80930,
+      "series_ord": 4
+    },
+    "publish": {
+      "pub_time": "2016-09-30 00:00:01",
+      "pub_time_show": "2016年9月30日",
+      "release_date": "2016-09-30",
+      "release_date_show": "2016年9月30日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 22568,
+        "season_id": 5559,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss5559",
+    "badge_info": {
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "multi_img": {
+        "color": "",
+        "medium_remind": ""
+      }
+    },
+    "first_ep_info": {
+      "id": 96743,
+      "cover": "http://i2.hdslb.com/bfs/archive/e8e5c54aeebe380a365e3f65a04a6971b7a43746.jpg",
+      "title": "1",
+      "long_title": "两驼战争",
+      "pub_time": "2016-10-08 13:18:00",
+      "duration": 501000
+    },
+    "formal_ep_count": 12,
+    "short_url": "https://b23.tv/ss5559",
+    "season_version": "tv",
+    "subtitle_14": "笑与泪的生活还在继续",
+    "subtitle_25": "和蓝星的小伙伴们的关系也在日渐和谐",
+    "viewable_crowd_type": 16,
+    "producers": [
+      {
+        "mid": 8580411,
+        "type": 1,
+        "is_contribute": 1,
+        "title": "出品"
+      }
+    ],
+    "summary": "那年，兔子的种花家没有了大规模的威胁，和蓝星的小伙伴们的关系也在日渐和谐。但笑与泪的生活还在继续，之后还会发生什么有趣的事情呢？我也不知道啊！作者我压根就没想过这我兔居然能出到第三季！",
+    "styles": [
+      "漫画改",
+      "萌系",
+      "历史"
+    ],
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 5451,
+    "media_id": 5451,
+    "season_type": 4,
+    "season_type_name": "国创",
+    "title": "那年那兔那些事儿 番外篇",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/46da7d61ddacf92f051fcaa8725409350f2a00d7.jpg",
+    "total_count": 5,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 868607,
+      "view": 54389576,
+      "danmaku": 238376,
+      "reply": 21610,
+      "coin": 349609,
+      "series_follow": 5477490,
+      "series_view": 996049272,
+      "likes": 738146,
+      "favorite": 68462
+    },
+    "new_ep": {
+      "id": 95913,
+      "index_show": "全5话",
+      "cover": "http://i0.hdslb.com/bfs/archive/865ee19ba31310224db0e131511530c6492abf0f.jpg",
+      "title": "5",
+      "long_title": "英雄不朽",
+      "pub_time": "2016-09-18 10:35:15",
+      "duration": 854000
+    },
+    "rating": {
+      "score": 9.6,
+      "count": 8048
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/b97f3b05206a5f65523da18c74b280e018e191c2.jpg",
+    "season_status": 2,
+    "season_title": "番外篇",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 2560,
+    "evaluate": "第一季未出现的朝鲜篇的完整版，作者的怨念在此得到了解脱，并带着幸福并感激着的心，再一次带各位重温那些最可爱的人。...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "朝鲜篇的完整版",
+    "first_ep": 95199,
+    "can_watch": 1,
+    "series": {
+      "series_id": 1135,
+      "title": "那年那兔那些事儿",
+      "season_count": 7,
+      "new_season_id": 80930,
+      "series_ord": 3
+    },
+    "publish": {
+      "pub_time": "2016-07-20 00:00:01",
+      "pub_time_show": "2016年7月20日",
+      "release_date": "2016-07-21",
+      "release_date_show": "2016年7月21日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 22444,
+        "season_id": 5451,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss5451",
+    "badge_info": {
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "multi_img": {
+        "color": "",
+        "medium_remind": ""
+      }
+    },
+    "first_ep_info": {
+      "id": 95199,
+      "cover": "http://i2.hdslb.com/bfs/archive/477af1928d44f87e1a4c01419fe3df15a0d2f10f.jpg",
+      "title": "1",
+      "long_title": "隐身跨过鸭绿江",
+      "pub_time": "2016-08-17 16:23:00",
+      "duration": 623000
+    },
+    "formal_ep_count": 5,
+    "short_url": "https://b23.tv/ss5451",
+    "season_version": "other",
+    "subtitle_14": "第一季未出现的朝鲜篇的完整版",
+    "subtitle_25": "第一季的朝鲜篇完整版，再一次带各位重温最可爱的人",
+    "viewable_crowd_type": 16,
+    "producers": [
+      {
+        "mid": 8580411,
+        "type": 1,
+        "is_contribute": 1,
+        "title": "出品"
+      }
+    ],
+    "summary": "第一季未出现的朝鲜篇的完整版，作者的怨念在此得到了解脱，并带着幸福并感激着的心，再一次带各位重温那些最可爱的人。",
+    "styles": [
+      "热血",
+      "历史"
+    ],
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 2967,
+    "media_id": 2967,
+    "season_type": 4,
+    "season_type_name": "国创",
+    "title": "那年那兔那些事儿 第二季",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/7ef28bab7b15bf86c21b1ecfae50816e35ac8090.jpg",
+    "total_count": 12,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 1660979,
+      "view": 210693487,
+      "danmaku": 1760210,
+      "reply": 54558,
+      "coin": 700477,
+      "series_follow": 5477490,
+      "series_view": 996049272,
+      "likes": 2378570,
+      "favorite": 189875
+    },
+    "new_ep": {
+      "id": 86193,
+      "index_show": "全12话",
+      "cover": "http://i1.hdslb.com/bfs/archive/677f9c903062052710980e5e8a056df2185c7716.jpg",
+      "title": "12",
+      "long_title": "第二次握手",
+      "pub_time": "2016-04-15 16:31:00",
+      "duration": 599000
+    },
+    "rating": {
+      "score": 9.6,
+      "count": 14386
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/139e97fcb71d68daf7def253ac8822de4adef4c5.jpg",
+    "season_status": 2,
+    "season_title": "第二季",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 2560,
+    "evaluate": "本片讲述了一群兔子由于被封锁而与很多第三世界的河马作伴，在基乐永生与喧哗上等的冷战中，夹缝中求生存。并重新回到世界舞台，与鹰酱毛熊重修旧好的故事。...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "夹缝中求生存",
+    "first_ep": 76675,
+    "can_watch": 1,
+    "series": {
+      "series_id": 1135,
+      "title": "那年那兔那些事儿",
+      "season_count": 7,
+      "new_season_id": 80930,
+      "series_ord": 2
+    },
+    "publish": {
+      "pub_time": "2015-10-09 00:00:00",
+      "pub_time_show": "2015年10月09日00:00",
+      "release_date": "2015-10-09",
+      "release_date_show": "2015年10月9日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 19934,
+        "season_id": 2967,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss2967",
+    "badge_info": {
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "multi_img": {
+        "color": "",
+        "medium_remind": ""
+      }
+    },
+    "renewal_time": "每周五更新",
+    "first_ep_info": {
+      "id": 76675,
+      "cover": "http://i0.hdslb.com/bfs/bangumi/d61851a6c195d504221313b2b69f246ba4f5ce63.jpg",
+      "title": "1",
+      "long_title": "第一个朋友",
+      "pub_time": "2015-11-06 12:16:00",
+      "duration": 356000
+    },
+    "formal_ep_count": 12,
+    "short_url": "https://b23.tv/ss2967",
+    "season_version": "tv",
+    "subtitle_14": "与鹰酱毛熊重修旧好",
+    "subtitle_25": "在基乐永生与喧哗上等的冷战中，夹缝中求生存",
+    "viewable_crowd_type": 16,
+    "producers": [
+      {
+        "mid": 8580411,
+        "type": 1,
+        "is_contribute": 1,
+        "title": "出品"
+      }
+    ],
+    "summary": "本片讲述了一群兔子由于被封锁而与很多第三世界的河马作伴，在基乐永生与喧哗上等的冷战中，夹缝中求生存。并重新回到世界舞台，与鹰酱毛熊重修旧好的故事。",
+    "styles": [
+      "漫画改",
+      "萌系",
+      "历史"
+    ],
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 1689,
+    "media_id": 1689,
+    "season_type": 4,
+    "season_type_name": "国创",
+    "title": "那年那兔那些事儿 第一季",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/ddb029703d0838000c3b7e2e39718a36dbbdcb77.jpg",
+    "total_count": 12,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 3388788,
+      "view": 275673102,
+      "danmaku": 3452421,
+      "reply": 138738,
+      "coin": 1834751,
+      "series_follow": 5477490,
+      "series_view": 996049272,
+      "likes": 3301862,
+      "favorite": 374313
+    },
+    "new_ep": {
+      "id": 64435,
+      "index_show": "全12话",
+      "cover": "http://i0.hdslb.com/bfs/bangumi/abd5704911a6af64e04c0840a618ba0ade0e3b6a.jpg",
+      "title": "12",
+      "long_title": "相爱相杀",
+      "pub_time": "2015-08-06 11:58:00",
+      "duration": 684000
+    },
+    "rating": {
+      "score": 9.7,
+      "count": 39478
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/5b6045406d6cb7f1606524e9548c5b39167785c8.jpg",
+    "season_status": 2,
+    "season_title": "第一季",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 512,
+    "evaluate": "本片讲述了一群兔子是怎么从种花家一穷二白的时候，通过自身的努力与奋斗，蹬了鹰酱一脸血，并且养殖出了自己的大蘑菇，发展成为蓝星最强五流氓之一的故事。本片故事纯属虚构，如有雷同，纯属巧合。本片漫画更新频繁...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "用兔看历史",
+    "first_ep": 30478,
+    "can_watch": 1,
+    "series": {
+      "series_id": 1135,
+      "title": "那年那兔那些事儿",
+      "season_count": 7,
+      "new_season_id": 80930,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2015-03-05 00:00:00",
+      "pub_time_show": "2015年03月05日00:00",
+      "release_date": "2015-03-05",
+      "release_date_show": "2015年3月5日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 18649,
+        "season_id": 1689,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss1689",
+    "badge_info": {
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "multi_img": {
+        "color": "",
+        "medium_remind": ""
+      }
+    },
+    "renewal_time": "每周日更新",
+    "first_ep_info": {
+      "id": 30478,
+      "cover": "http://i0.hdslb.com/bfs/bangumi/ab84694855837566e32cda41bd9602d61dd5ac1b.jpg",
+      "title": "1",
+      "long_title": "种花家的崛起",
+      "pub_time": "2015-03-05 11:05:00",
+      "duration": 452000
+    },
+    "formal_ep_count": 12,
+    "short_url": "https://b23.tv/ss1689",
+    "season_version": "tv",
+    "subtitle_14": "世界历史和中国历史的重要事件",
+    "subtitle_25": "一群兔子和其他生物们在蓝星上发生的故事",
+    "viewable_crowd_type": 16,
+    "producers": [
+      {
+        "mid": 8580411,
+        "type": 1,
+        "is_contribute": 1,
+        "title": "出品"
+      }
+    ],
+    "summary": "本片讲述了一群兔子是怎么从种花家一穷二白的时候，通过自身的努力与奋斗，蹬了鹰酱一脸血，并且养殖出了自己的大蘑菇，发展成为蓝星最强五流氓之一的故事。本片故事纯属虚构，如有雷同，纯属巧合。本片漫画更新频繁，对于喜欢作者拖更的观众可能会稍感不适。",
+    "styles": [
+      "漫画改",
+      "萌系",
+      "历史"
+    ],
+    "follow_status": 3,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 39462,
+    "media_id": 28235154,
+    "season_type": 1,
+    "season_type_name": "番剧",
+    "title": "国王排名",
+    "cover": "http://i0.hdslb.com/bfs/bangumi/image/8aead7650fb3ded88f24654b7b66823169cb9a8c.png",
+    "total_count": 23,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "独家",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 8864857,
+      "view": 512143288,
+      "danmaku": 2582351,
+      "reply": 219975,
+      "coin": 2645922,
+      "series_follow": 9004978,
+      "series_view": 548769360,
+      "likes": 5791653,
+      "favorite": 463926
+    },
+    "new_ep": {
+      "id": 473805,
+      "index_show": "全23话",
+      "cover": "http://i0.hdslb.com/bfs/archive/330040a514148d89f8ae0a233edb3ad5f62921f6.jpg",
+      "title": "23",
+      "long_title": "国王与太阳",
+      "pub_time": "2022-03-25 01:45:01",
+      "duration": 1370000
+    },
+    "rating": {
+      "score": 7,
+      "count": 242863
+    },
+    "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/940314a9af07bde22cb4d767a894ebbddf2714c2.png",
+    "season_status": 13,
+    "season_title": "TV",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 512,
+    "evaluate": "国家的丰饶、麾下勇者的数量、\n以及国王本人如何像勇者一般强大，\n这些要素的综合排名，便是所谓的“国王排名”。\n主人公波吉是国王排名第七名的伯斯王治下王国的第一王子。\n但是波吉却生来又聋又哑，贫弱到挥不...",
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "subtitle": "要成为最伟大的国王",
+    "first_ep": 424605,
+    "can_watch": 1,
+    "series": {
+      "series_id": 5698,
+      "title": "国王排名",
+      "season_count": 2,
+      "new_season_id": 44863,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2021-10-15 01:25:00",
+      "pub_time_show": "2021年10月15日01:25",
+      "release_date": "2021-10-15",
+      "release_date_show": "2021年10月15日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 62126,
+        "season_id": 39462,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 62176,
+        "season_id": 39462,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "dujia",
+        "title": "PV&其他",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 62872,
+        "season_id": 39462,
+        "limit_group": 316,
+        "watch_platform": 26,
+        "type": 5,
+        "copyright": "ugc",
+        "title": "UP眼中的国王排名",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 67646,
+        "season_id": 39462,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "dujia",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "attr": 4,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss39462",
+    "badge_info": {
+      "text": "独家",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+      }
+    },
+    "renewal_time": "每周五 01:25更新",
+    "first_ep_info": {
+      "id": 424605,
+      "cover": "http://i0.hdslb.com/bfs/archive/67b1837f5c10d8d611a6dc8e57a12570452f18d1.jpg",
+      "title": "1",
+      "long_title": "光溜溜的王子",
+      "pub_time": "2021-10-15 01:25:01",
+      "duration": 1370000
+    },
+    "formal_ep_count": 23,
+    "short_url": "https://b23.tv/ss39462",
+    "badge_infos": {
+      "content_attr": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      }
+    },
+    "season_version": "tv",
+    "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/c6587693e29a6264041f58539961929c02585ef4.png",
+    "horizontal_cover_16_10": "http://i0.hdslb.com/bfs/bangumi/image/81afc9199fe42961c2af2a3faeadc3fc97e9f457.png",
+    "subtitle_14": "我一定要成为最伟大的国王",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 928123,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "国家的丰饶、麾下勇者的数量、\n以及国王本人如何像勇者一般强大，\n这些要素的综合排名，便是所谓的“国王排名”。\n主人公波吉是国王排名第七名的伯斯王治下王国的第一王子。\n但是波吉却生来又聋又哑，贫弱到挥不动剑。\n不止家臣甚至连民众都轻蔑地说「他实在不是当国王的料」。\n这样的波吉人生中第一位交到的朋友，卡克。\n与卡克的邂逅，以及那些微小的勇气中诞生的，\n波吉人生的巨变将要开始——",
+    "styles": [
+      "奇幻",
+      "漫画改",
+      "励志",
+      "冒险"
+    ],
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 47083,
+    "media_id": 21174614,
+    "season_type": 1,
+    "season_type_name": "番剧",
+    "title": "迷宫饭",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/8cf02211c3fefa4eccc7307ca4fab404707d0cf7.png",
+    "total_count": 24,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "独家",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 3230879,
+      "view": 278013682,
+      "danmaku": 910525,
+      "reply": 95923,
+      "coin": 644080,
+      "series_follow": 3230824,
+      "series_view": 278013682,
+      "likes": 4096867,
+      "favorite": 322934
+    },
+    "new_ep": {
+      "id": 823842,
+      "index_show": "全24话",
+      "cover": "http://i0.hdslb.com/bfs/archive/3e07d9404c39180cc3c184b1a4b4057cd59f33d6.png",
+      "title": "24",
+      "long_title": "饺子2 | 培根煎蛋",
+      "pub_time": "2024-06-13 21:30:00",
+      "duration": 1484941
+    },
+    "rating": {
+      "score": 9.8,
+      "count": 18646
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/79fd2bace6b10ea863a2d3d702bbc8e8a448f539.png",
+    "season_status": 13,
+    "season_title": "TV",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1536,
+    "evaluate": "迷宫饭。是“吃”，还是“被吃”，这是一个问题。\n在迷宫深处，莱欧斯眼看着红龙吃掉了妹妹，自己在将死之际回到了地面。\n尽管他想要马上再次挑战迷宫，但是钱和粮食都被留在了最深处。\n面对妹妹可能会被消化掉的...",
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "subtitle": "我在地下城里做吃播",
+    "first_ep": 806232,
+    "can_watch": 1,
+    "series": {
+      "series_id": 6916,
+      "title": "迷宫饭",
+      "season_count": 1,
+      "new_season_id": 47083,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2024-01-04 21:30:00",
+      "pub_time_show": "2024年01月04日21:30",
+      "release_date": "2024-01-04",
+      "release_date_show": "2024年1月4日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 100047,
+        "season_id": 47083,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 100049,
+        "season_id": 47083,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "PV",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 100778,
+        "season_id": 47083,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "MV",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 100229,
+        "season_id": 47083,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "bilibili",
+        "title": "特别企划",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 100450,
+        "season_id": 47083,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "bilibili",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "attr": 4,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss47083",
+    "badge_info": {
+      "text": "独家",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+      }
+    },
+    "renewal_time": "每周四 21:30更新",
+    "first_ep_info": {
+      "id": 806232,
+      "cover": "http://i0.hdslb.com/bfs/archive/828c00862056072cd0d3447caa2fd074db54cdc6.png",
+      "title": "1",
+      "long_title": "清汤锅与挞",
+      "pub_time": "2024-01-04 21:30:00",
+      "duration": 1530028
+    },
+    "formal_ep_count": 24,
+    "short_url": "https://b23.tv/ss47083",
+    "badge_infos": {
+      "content_attr": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      }
+    },
+    "season_version": "tv",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/1c850568820ae23b627d96434eac9d5303e17457.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/47372c3fa648d32a6e47836560cffacd3ef03657.png",
+    "subtitle_14": "吃还是被吃，这是一个问题",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 928123,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "迷宫饭。是“吃”，还是“被吃”，这是一个问题。\n在迷宫深处，莱欧斯眼看着红龙吃掉了妹妹，自己在将死之际回到了地面。\n尽管他想要马上再次挑战迷宫，但是钱和粮食都被留在了最深处。\n面对妹妹可能会被消化掉的危机，莱欧斯下定了决心。\n“食物就在迷宫中自给自足吧！”\n史莱姆，蛇尾鸡，宝箱怪，还有龙！\n吃着来袭的魔物们，打通迷宫吧，冒险者！",
+    "styles": [
+      "搞笑",
+      "美食",
+      "漫画改",
+      "冒险"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
+    "season_id": 46089,
+    "media_id": 21087073,
+    "season_type": 1,
+    "season_type_name": "番剧",
+    "title": "葬送的芙莉莲",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/f3ebb500b701a387f5abde67516c5c96bbd2faff.png",
+    "total_count": 28,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 5469058,
+      "view": 425154562,
+      "danmaku": 1334645,
+      "reply": 129313,
+      "coin": 2011068,
+      "series_follow": 5567477,
+      "series_view": 442645351,
+      "likes": 6671199,
+      "favorite": 616973
+    },
+    "new_ep": {
+      "id": 819062,
+      "index_show": "全28话",
+      "cover": "http://i0.hdslb.com/bfs/archive/16ea11f27f397bc06a27b6d6729e94ad443fe62b.jpg",
+      "title": "28",
+      "long_title": "因为再见面时会很难为情",
+      "pub_time": "2024-04-12 20:00:01",
+      "duration": 1463086
+    },
+    "rating": {
+      "score": 9.9,
+      "count": 67872
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/09998dde2e717c59a988e6b98a4e4351c680da7c.png",
+    "season_status": 13,
+    "season_title": "TV",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1536,
+    "evaluate": "寿命逾千年的魔法使芙莉莲，以曾经共同战胜魔王的勇者辛美尔之死为契机，踏上了了解人类的旅途。\n\n邂逅了同属勇者小队的僧侣海塔与战士艾泽分别培养出的菲伦与休塔尔克，芙莉莲与二人一同前往灵魂安眠之地。去往此...",
+    "areas": [
+      {
+        "id": 2,
+        "name": "日本"
+      }
+    ],
+    "subtitle": "花海盛开，故人归来",
+    "first_ep": 779775,
+    "can_watch": 1,
+    "series": {
+      "series_id": 6722,
+      "title": "葬送的芙莉莲",
+      "season_count": 2,
+      "new_season_id": 102261,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2023-10-24 20:00:00",
+      "pub_time_show": "2023年10月24日20:00",
+      "release_date": "2023-09-29",
+      "release_date_show": "2023年9月29日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 97921,
+        "season_id": 46089,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 98128,
+        "season_id": 46089,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "bilibili",
+        "title": "PV&其他",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 100001,
+        "season_id": 46089,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "bilibili",
+        "title": "预告",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 98854,
+        "season_id": 46089,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "bilibili",
+        "title": "主题曲",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 100293,
+        "season_id": 46089,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "type": 8,
+        "copyright": "bilibili",
+        "title": "精彩看点",
+        "ban_area_show": 1,
+        "attr": 4,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss46089",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "renewal_time": "每周五 20:00更新",
+    "first_ep_info": {
+      "id": 779775,
+      "cover": "http://i0.hdslb.com/bfs/archive/6f20908042a02bcbb4ab1e0e5f36c06cfb4eb781.png",
+      "title": "1",
+      "long_title": "冒险的结束",
+      "pub_time": "2023-10-24 20:00:01",
+      "duration": 1559933
+    },
+    "formal_ep_count": 28,
+    "short_url": "https://b23.tv/ss46089",
+    "season_version": "tv",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/20c7204d3517fed5e52c2a40c589c480ec3cd2f3.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/4ff39cafdb098aa3848a8dda72810b84e1fdd446.png",
+    "subtitle_14": "故事总在结束之后开始...",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 928123,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "寿命逾千年的魔法使芙莉莲，以曾经共同战胜魔王的勇者辛美尔之死为契机，踏上了了解人类的旅途。\n\n邂逅了同属勇者小队的僧侣海塔与战士艾泽分别培养出的菲伦与休塔尔克，芙莉莲与二人一同前往灵魂安眠之地。去往此地需要【一级魔法使】资格，因此芙莉莲与菲伦前往魔法都市维萨斯特，参加一级魔法使选拔测验。在那里有着形形色色的卓越魔法使…此刻，最顶尖的魔法将在维萨斯特展开激烈碰撞！\n",
+    "styles": [
+      "漫画改",
+      "奇幻",
+      "治愈",
+      "冒险",
+      "催泪"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  }
+]
