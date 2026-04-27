@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>影视足迹 | Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-950 text-slate-200 min-h-screen">
+    <div class="max-w-6xl mx-auto px-4 py-12">
+        <header class="mb-16">
+            <h1 class="text-3xl font-black bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-emerald-400">足迹.rar</h1>
+            <div id="ai-container" class="mt-8 p-6 rounded-2xl bg-white/5 border border-white/10 backdrop-blur-md hidden">
+                <p id="ai-report" class="text-lg italic text-emerald-50"></p>
+                <div id="ai-tag" class="mt-4 inline-block px-2 py-0.5 rounded border border-emerald-500/30 text-emerald-400 text-xs"></div>
+            </div>
+        </header>
+
+        <section class="mb-16">
+            <h2 class="text-xl font-bold mb-8 flex items-center gap-2"><span class="w-1 h-5 bg-blue-500"></span> 电影</h2>
+            <div id="movie-grid" class="grid grid-cols-2 md:grid-cols-5 gap-6"></div>
+        </section>
+
+        <section>
+            <h2 class="text-xl font-bold mb-8 flex items-center gap-2"><span class="w-1 h-5 bg-emerald-500"></span> 追番</h2>
+            <div id="bangumi-grid" class="grid grid-cols-2 md:grid-cols-5 gap-6"></div>
+        </section>
+    </div>
+
+    <script>
+        const getProxyImg = (url) => `https://images.weserv.nl/?url=${url.replace(/https?:\/\//, '')}`;
+
+        async function init() {
+            try {
+                // 全部从当前根目录读取
+                const [bData, mData, aiData] = await Promise.all([
+                    fetch('./bangumi.json').then(r => r.json()),
+                    fetch('./movies.json').then(r => r.json()),
+                    fetch('./ai_report.json').then(r => r.json())
+                ]);
+
+                document.getElementById('ai-container').classList.remove('hidden');
+                document.getElementById('ai-report').innerText = `"${aiData.weekly_report}"`;
+                document.getElementById('ai-tag').innerText = `# ${aiData.preference_summary}`;
+
+                const renderCard = (item, isMovie) => {
+                    const score = isMovie ? (typeof item.rating === 'object' ? item.rating.score : item.rating) : null;
+                    const info = isMovie ? `评分: ${score || 'N/A'}` : (item.new_ep?.index_show || '已完结');
+                    
+                    return `
+                        <div class="group bg-white/5 rounded-xl overflow-hidden border border-white/5 relative">
+                            <div class="aspect-[3/4] overflow-hidden">
+                                <img src="${getProxyImg(item.cover)}" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
+                                <div class="absolute inset-0 bg-slate-900/90 p-4 opacity-0 group-hover:opacity-100 transition-opacity flex items-center text-[10px] text-slate-300">
+                                    ${item.evaluate || '暂无评价'}
+                                </div>
+                            </div>
+                            <div class="p-4">
+                                <h3 class="text-xs font-bold truncate">${item.title}</h3>
+                                <p class="text-[10px] mt-2 ${isMovie ? 'text-blue-400' : 'text-emerald-400'}">${info}</p>
+                            </div>
+                        </div>
+                    `;
+                };
+
+                document.getElementById('movie-grid').innerHTML = mData.slice(0, 10).map(i => renderCard(i, true)).join('');
+                document.getElementById('bangumi-grid').innerHTML = bData.slice(0, 10).map(i => renderCard(i, false)).join('');
+
+            } catch (e) { console.error("加载失败:", e); }
+        }
+        init();
+    </script>
+</body>
+</html>
