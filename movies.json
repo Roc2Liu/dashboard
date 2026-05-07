@@ -10,8 +10,8 @@
     "is_finish": 1,
     "is_started": 1,
     "is_play": 1,
-    "badge": "限时免费",
-    "badge_type": 3,
+    "badge": "独家",
+    "badge_type": 1,
     "rights": {
       "allow_review": 1,
       "allow_preview": 1,
@@ -22,14 +22,14 @@
     },
     "stat": {
       "follow": 834724,
-      "view": 21956048,
+      "view": 21959889,
       "danmaku": 4891,
       "reply": 5692,
       "coin": 2783,
-      "series_follow": 992725,
-      "series_view": 289127835,
-      "likes": 97090,
-      "favorite": 15292
+      "series_follow": 992747,
+      "series_view": 289149255,
+      "likes": 97105,
+      "favorite": 15293
     },
     "new_ep": {
       "id": 1990984,
@@ -93,29 +93,17 @@
         "episode_ids": [
           0
         ]
-      },
-      {
-        "section_id": 488392,
-        "season_id": 102779,
-        "limit_group": 316,
-        "watch_platform": 31,
-        "type": 4,
-        "copyright": "ugc",
-        "ban_area_show": 1,
-        "episode_ids": [
-          0
-        ]
       }
     ],
     "url": "https://www.bilibili.com/bangumi/play/ss102779",
     "badge_info": {
-      "text": "限时免费",
-      "bg_color": "#FF7F24",
-      "bg_color_night": "#D66011",
-      "img": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
+      "text": "独家",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
       "multi_img": {
-        "color": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
-        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/609b1a1f23dce03fe5d0d54363dd2e4db7a4d8ca.png"
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
       }
     },
     "renewal_time": "每周四、五、六、日18:30更新",
@@ -128,6 +116,28 @@
     },
     "formal_ep_count": 33,
     "short_url": "https://b23.tv/ss102779",
+    "badge_infos": {
+      "content_attr": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      }
+    },
     "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/90061966a437954e58faa63e11bc3b611bd13a6c.png",
     "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/753133d252596a5f7a62c5bfcf7963ada4d989ad.png",
     "subtitle_14": "硬核实验，验证都市传言",
@@ -177,8 +187,8 @@
     "is_finish": 1,
     "is_started": 1,
     "is_play": 1,
-    "badge": "限时免费",
-    "badge_type": 3,
+    "badge": "大会员",
+    "badge_type": 0,
     "rights": {
       "allow_review": 1,
       "allow_preview": 1,
@@ -188,15 +198,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 308234,
-      "view": 11013979,
-      "danmaku": 12731,
+      "follow": 308249,
+      "view": 11016545,
+      "danmaku": 12734,
       "reply": 5561,
-      "coin": 19055,
-      "series_follow": 360925,
-      "series_view": 36017984,
-      "likes": 117264,
-      "favorite": 37798
+      "coin": 19056,
+      "series_follow": 360957,
+      "series_view": 36023489,
+      "likes": 117273,
+      "favorite": 37814
     },
     "new_ep": {
       "id": 1533622,
@@ -267,18 +277,6 @@
         ]
       },
       {
-        "section_id": 250760,
-        "season_id": 91961,
-        "limit_group": 316,
-        "watch_platform": 31,
-        "type": 4,
-        "copyright": "ugc",
-        "ban_area_show": 1,
-        "episode_ids": [
-          0
-        ]
-      },
-      {
         "section_id": 183198,
         "season_id": 91961,
         "limit_group": 317,
@@ -307,13 +305,13 @@
     ],
     "url": "https://www.bilibili.com/bangumi/play/ss91961",
     "badge_info": {
-      "text": "限时免费",
-      "bg_color": "#FF7F24",
-      "bg_color_night": "#D66011",
-      "img": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
       "multi_img": {
-        "color": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
-        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/609b1a1f23dce03fe5d0d54363dd2e4db7a4d8ca.png"
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
       }
     },
     "renewal_time": "每周三 19:00更新",
@@ -376,8 +374,8 @@
     "is_finish": 1,
     "is_started": 1,
     "is_play": 1,
-    "badge": "限时免费",
-    "badge_type": 3,
+    "badge": "大会员",
+    "badge_type": 0,
     "rights": {
       "allow_review": 1,
       "allow_preview": 1,
@@ -387,15 +385,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 277204,
-      "view": 2844150,
-      "danmaku": 5744,
-      "reply": 1194,
-      "coin": 4742,
-      "series_follow": 360925,
-      "series_view": 36017984,
-      "likes": 19587,
-      "favorite": 20663
+      "follow": 277218,
+      "view": 2845199,
+      "danmaku": 5749,
+      "reply": 1195,
+      "coin": 4747,
+      "series_follow": 360957,
+      "series_view": 36023489,
+      "likes": 19596,
+      "favorite": 20677
     },
     "new_ep": {
       "id": 1508546,
@@ -480,13 +478,13 @@
     ],
     "url": "https://www.bilibili.com/bangumi/play/ss90659",
     "badge_info": {
-      "text": "限时免费",
-      "bg_color": "#FF7F24",
-      "bg_color_night": "#D66011",
-      "img": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
       "multi_img": {
-        "color": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
-        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/609b1a1f23dce03fe5d0d54363dd2e4db7a4d8ca.png"
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
       }
     },
     "first_ep_info": {
@@ -548,15 +546,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1615877,
-      "view": 20844299,
-      "danmaku": 49337,
-      "reply": 13332,
-      "coin": 37632,
-      "series_follow": 1676578,
-      "series_view": 192470967,
-      "likes": 118754,
-      "favorite": 41161
+      "follow": 1615878,
+      "view": 20846301,
+      "danmaku": 49338,
+      "reply": 13334,
+      "coin": 37637,
+      "series_follow": 1676589,
+      "series_view": 192476753,
+      "likes": 118770,
+      "favorite": 41157
     },
     "new_ep": {
       "id": 3101015,
@@ -730,8 +728,8 @@
     "is_finish": 1,
     "is_started": 1,
     "is_play": 1,
-    "badge": "限时免费",
-    "badge_type": 3,
+    "badge": "独家",
+    "badge_type": 1,
     "rights": {
       "allow_review": 1,
       "allow_preview": 1,
@@ -741,15 +739,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 872261,
-      "view": 90862536,
-      "danmaku": 28893,
-      "reply": 27776,
-      "coin": 27911,
-      "series_follow": 992725,
-      "series_view": 289127835,
-      "likes": 1612442,
-      "favorite": 106477
+      "follow": 872272,
+      "view": 90875467,
+      "danmaku": 28896,
+      "reply": 27782,
+      "coin": 27918,
+      "series_follow": 992747,
+      "series_view": 289149255,
+      "likes": 1612694,
+      "favorite": 106485
     },
     "new_ep": {
       "id": 1674493,
@@ -820,18 +818,6 @@
         ]
       },
       {
-        "section_id": 488391,
-        "season_id": 95803,
-        "limit_group": 316,
-        "watch_platform": 31,
-        "type": 4,
-        "copyright": "ugc",
-        "ban_area_show": 1,
-        "episode_ids": [
-          0
-        ]
-      },
-      {
         "section_id": 190579,
         "season_id": 95803,
         "limit_group": 317,
@@ -873,13 +859,13 @@
     ],
     "url": "https://www.bilibili.com/bangumi/play/ss95803",
     "badge_info": {
-      "text": "限时免费",
-      "bg_color": "#FF7F24",
-      "bg_color_night": "#D66011",
-      "img": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
+      "text": "独家",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
       "multi_img": {
-        "color": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
-        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/609b1a1f23dce03fe5d0d54363dd2e4db7a4d8ca.png"
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
       }
     },
     "renewal_time": "每周四周六更新",
@@ -892,6 +878,28 @@
     },
     "formal_ep_count": 16,
     "short_url": "https://b23.tv/ss95803",
+    "badge_infos": {
+      "content_attr": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      }
+    },
     "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/55cf02420b1b582a8414736e5db8e07cf38bc3fd.png",
     "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/31f94379fdf24fd18d9ad78d476bb99d057b81f5.png",
     "subtitle_14": "经典科普，硬核实验爷青回",
@@ -952,15 +960,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 580268,
-      "view": 44464937,
-      "danmaku": 114677,
-      "reply": 19331,
-      "coin": 174968,
-      "series_follow": 6784025,
-      "series_view": 505776732,
-      "likes": 894241,
-      "favorite": 121920
+      "follow": 580283,
+      "view": 44470106,
+      "danmaku": 114714,
+      "reply": 19329,
+      "coin": 174978,
+      "series_follow": 6784047,
+      "series_view": 505797029,
+      "likes": 894373,
+      "favorite": 121926
     },
     "new_ep": {
       "id": 2060436,
@@ -972,7 +980,7 @@
     },
     "rating": {
       "score": 9.8,
-      "count": 11191
+      "count": 11192
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/1a06606bc39e24bd18a4c4f782c6a60f135fbc8d.png",
     "season_status": 13,
@@ -1115,8 +1123,8 @@
     "is_finish": 1,
     "is_started": 1,
     "is_play": 1,
-    "badge": "限时免费",
-    "badge_type": 3,
+    "badge": "独家",
+    "badge_type": 1,
     "rights": {
       "allow_review": 1,
       "allow_preview": 1,
@@ -1126,15 +1134,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 927910,
-      "view": 12704515,
-      "danmaku": 3250,
+      "follow": 927916,
+      "view": 12707003,
+      "danmaku": 3253,
       "reply": 4068,
       "coin": 2898,
-      "series_follow": 992725,
-      "series_view": 289127835,
-      "likes": 198075,
-      "favorite": 13681
+      "series_follow": 992747,
+      "series_view": 289149255,
+      "likes": 198109,
+      "favorite": 13685
     },
     "new_ep": {
       "id": 2183915,
@@ -1203,29 +1211,17 @@
         "episode_ids": [
           0
         ]
-      },
-      {
-        "section_id": 488393,
-        "season_id": 109661,
-        "limit_group": 316,
-        "watch_platform": 31,
-        "type": 4,
-        "copyright": "ugc",
-        "ban_area_show": 1,
-        "episode_ids": [
-          0
-        ]
       }
     ],
     "url": "https://www.bilibili.com/bangumi/play/ss109661",
     "badge_info": {
-      "text": "限时免费",
-      "bg_color": "#FF7F24",
-      "bg_color_night": "#D66011",
-      "img": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
+      "text": "独家",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
       "multi_img": {
-        "color": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
-        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/609b1a1f23dce03fe5d0d54363dd2e4db7a4d8ca.png"
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
       }
     },
     "renewal_time": "每周四、五、六18:30更新",
@@ -1238,6 +1234,28 @@
     },
     "formal_ep_count": 30,
     "short_url": "https://b23.tv/ss109661",
+    "badge_infos": {
+      "content_attr": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      }
+    },
     "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/e9959bde3d9192bd5c2678546f7bfde9756c9558.png",
     "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/8d62766af8d39a9c9d3b044b38e677cfe92e70c1.png",
     "subtitle_14": "硬核实验，验证经典传言",
@@ -1287,8 +1305,8 @@
     "is_finish": 1,
     "is_started": 1,
     "is_play": 1,
-    "badge": "限时免费",
-    "badge_type": 3,
+    "badge": "大会员",
+    "badge_type": 0,
     "rights": {
       "allow_review": 1,
       "allow_preview": 1,
@@ -1299,11 +1317,11 @@
     },
     "stat": {
       "follow": 64521,
-      "view": 1225559,
+      "view": 1225589,
       "danmaku": 3566,
       "reply": 487,
-      "coin": 4097,
-      "likes": 12237,
+      "coin": 4099,
+      "likes": 12238,
       "favorite": 15679
     },
     "new_ep": {
@@ -1366,29 +1384,17 @@
         "episode_ids": [
           0
         ]
-      },
-      {
-        "section_id": 487462,
-        "season_id": 33786,
-        "limit_group": 316,
-        "watch_platform": 31,
-        "type": 4,
-        "copyright": "ugc",
-        "ban_area_show": 1,
-        "episode_ids": [
-          0
-        ]
       }
     ],
     "url": "https://www.bilibili.com/bangumi/play/ss33786",
     "badge_info": {
-      "text": "限时免费",
-      "bg_color": "#FF7F24",
-      "bg_color_night": "#D66011",
-      "img": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
       "multi_img": {
-        "color": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
-        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/609b1a1f23dce03fe5d0d54363dd2e4db7a4d8ca.png"
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
       }
     },
     "first_ep_info": {
@@ -1430,8 +1436,8 @@
     "is_finish": 1,
     "is_started": 1,
     "is_play": 1,
-    "badge": "限时免费",
-    "badge_type": 3,
+    "badge": "出品",
+    "badge_type": 1,
     "rights": {
       "allow_review": 1,
       "allow_preview": 1,
@@ -1441,15 +1447,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 347546,
-      "view": 24729369,
+      "follow": 347543,
+      "view": 24729531,
       "danmaku": 66597,
       "reply": 12276,
       "coin": 65800,
-      "series_follow": 394694,
-      "series_view": 30122258,
+      "series_follow": 394693,
+      "series_view": 30122523,
       "likes": 336390,
-      "favorite": 55327
+      "favorite": 55324
     },
     "new_ep": {
       "id": 422267,
@@ -1520,18 +1526,6 @@
         ]
       },
       {
-        "section_id": 487498,
-        "season_id": 39078,
-        "limit_group": 316,
-        "watch_platform": 31,
-        "type": 4,
-        "copyright": "ugc",
-        "ban_area_show": 1,
-        "episode_ids": [
-          0
-        ]
-      },
-      {
         "section_id": 61388,
         "season_id": 39078,
         "limit_group": 317,
@@ -1586,13 +1580,13 @@
     ],
     "url": "https://www.bilibili.com/bangumi/play/ss39078",
     "badge_info": {
-      "text": "限时免费",
-      "bg_color": "#FF7F24",
-      "bg_color_night": "#D66011",
-      "img": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
+      "text": "出品",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
       "multi_img": {
-        "color": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
-        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/609b1a1f23dce03fe5d0d54363dd2e4db7a4d8ca.png"
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
       }
     },
     "renewal_time": "每周日 12:00更新",
@@ -1606,6 +1600,28 @@
     },
     "formal_ep_count": 7,
     "short_url": "https://b23.tv/ss39078",
+    "badge_infos": {
+      "content_attr": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      }
+    },
     "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/e82dcec31bd66dfc678089602af99f95c522148e.png",
     "horizontal_cover_16_10": "http://i0.hdslb.com/bfs/bangumi/image/2384e6f9d20028c6e722a2a53849860c60a37139.png",
     "subtitle_14": "前往地球上最后的隐秘角落",
@@ -1639,8 +1655,8 @@
     "is_finish": 1,
     "is_started": 1,
     "is_play": 1,
-    "badge": "限时免费",
-    "badge_type": 3,
+    "badge": "独家",
+    "badge_type": 1,
     "rights": {
       "allow_review": 1,
       "allow_preview": 1,
@@ -1650,13 +1666,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1480759,
-      "view": 50769836,
+      "follow": 1480764,
+      "view": 50770544,
       "danmaku": 98594,
       "reply": 25780,
       "coin": 136749,
-      "likes": 329218,
-      "favorite": 318165
+      "likes": 329223,
+      "favorite": 318178
     },
     "new_ep": {
       "id": 320687,
@@ -1721,18 +1737,6 @@
         ]
       },
       {
-        "section_id": 487436,
-        "season_id": 32793,
-        "limit_group": 316,
-        "watch_platform": 31,
-        "type": 4,
-        "copyright": "ugc",
-        "ban_area_show": 1,
-        "episode_ids": [
-          0
-        ]
-      },
-      {
         "section_id": 48045,
         "season_id": 32793,
         "limit_group": 316,
@@ -1761,13 +1765,13 @@
     ],
     "url": "https://www.bilibili.com/bangumi/play/ss32793",
     "badge_info": {
-      "text": "限时免费",
-      "bg_color": "#FF7F24",
-      "bg_color_night": "#D66011",
-      "img": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
+      "text": "独家",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
       "multi_img": {
-        "color": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
-        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/609b1a1f23dce03fe5d0d54363dd2e4db7a4d8ca.png"
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
       }
     },
     "renewal_time": "每周二 19:00更新",
@@ -1781,6 +1785,28 @@
     },
     "formal_ep_count": 12,
     "short_url": "https://b23.tv/ss32793",
+    "badge_infos": {
+      "content_attr": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      }
+    },
     "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/96c14a1ea862c4f2486a51fd7404d92dcab04aea.png",
     "horizontal_cover_16_10": "http://i0.hdslb.com/bfs/bangumi/image/1e9f8cd8bb8ff1be223027839561b0f513154c51.png",
     "subtitle_14": "在广阔无垠的时空探索未知世界",
@@ -1824,15 +1850,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 787308,
-      "view": 34328617,
-      "danmaku": 397405,
-      "reply": 53935,
-      "coin": 528909,
-      "series_follow": 9462420,
-      "series_view": 1063508365,
-      "likes": 829764,
-      "favorite": 169038
+      "follow": 787363,
+      "view": 34331200,
+      "danmaku": 397464,
+      "reply": 53934,
+      "coin": 528960,
+      "series_follow": 9462526,
+      "series_view": 1063534479,
+      "likes": 829829,
+      "favorite": 169044
     },
     "new_ep": {
       "id": 2243434,
@@ -1844,7 +1870,7 @@
     },
     "rating": {
       "score": 9.9,
-      "count": 22705
+      "count": 22709
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/8fa02b8c1647dd620129049ad2c02b7992b6fe15.png",
     "season_status": 13,
@@ -1986,8 +2012,8 @@
     "is_finish": 1,
     "is_started": 1,
     "is_play": 1,
-    "badge": "限时免费",
-    "badge_type": 3,
+    "badge": "大会员",
+    "badge_type": 0,
     "rights": {
       "allow_review": 1,
       "allow_preview": 1,
@@ -1997,15 +2023,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 325478,
-      "view": 3090914,
-      "danmaku": 2433,
-      "reply": 859,
-      "coin": 2118,
-      "series_follow": 360925,
-      "series_view": 36017984,
-      "likes": 12329,
-      "favorite": 13508
+      "follow": 325483,
+      "view": 3092249,
+      "danmaku": 2437,
+      "reply": 860,
+      "coin": 2122,
+      "series_follow": 360957,
+      "series_view": 36023489,
+      "likes": 12335,
+      "favorite": 13520
     },
     "new_ep": {
       "id": 2224723,
@@ -2061,13 +2087,13 @@
     ],
     "url": "https://www.bilibili.com/bangumi/play/ss111195",
     "badge_info": {
-      "text": "限时免费",
-      "bg_color": "#FF7F24",
-      "bg_color_night": "#D66011",
-      "img": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
       "multi_img": {
-        "color": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
-        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/609b1a1f23dce03fe5d0d54363dd2e4db7a4d8ca.png"
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
       }
     },
     "first_ep_info": {
@@ -2121,8 +2147,8 @@
     "is_finish": 1,
     "is_started": 1,
     "is_play": 1,
-    "badge": "限时免费",
-    "badge_type": 3,
+    "badge": "出品",
+    "badge_type": 1,
     "rights": {
       "allow_review": 1,
       "allow_preview": 1,
@@ -2132,13 +2158,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 118354,
-      "view": 49734197,
-      "danmaku": 36044,
-      "reply": 15057,
+      "follow": 118370,
+      "view": 49745679,
+      "danmaku": 36052,
+      "reply": 15060,
       "coin": 105855,
-      "likes": 944770,
-      "favorite": 39915
+      "likes": 944901,
+      "favorite": 39928
     },
     "new_ep": {
       "id": 1895402,
@@ -2204,18 +2230,6 @@
         ]
       },
       {
-        "section_id": 250757,
-        "season_id": 89982,
-        "limit_group": 316,
-        "watch_platform": 31,
-        "type": 4,
-        "copyright": "ugc",
-        "ban_area_show": 1,
-        "episode_ids": [
-          0
-        ]
-      },
-      {
         "section_id": 203462,
         "season_id": 89982,
         "limit_group": 316,
@@ -2259,13 +2273,13 @@
     ],
     "url": "https://www.bilibili.com/bangumi/play/ss89982",
     "badge_info": {
-      "text": "限时免费",
-      "bg_color": "#FF7F24",
-      "bg_color_night": "#D66011",
-      "img": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
+      "text": "出品",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
       "multi_img": {
-        "color": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
-        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/609b1a1f23dce03fe5d0d54363dd2e4db7a4d8ca.png"
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
       }
     },
     "renewal_time": "每周三 19:00更新",
@@ -2279,6 +2293,28 @@
     },
     "formal_ep_count": 5,
     "short_url": "https://b23.tv/ss89982",
+    "badge_infos": {
+      "content_attr": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      }
+    },
     "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/50aa1d83a6eeb3e3d9b8af6d7dc8b56fe59daddc.png",
     "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/8615de4ad6560a5690e82e4f69caa0c2c252548d.jpg",
     "subtitle_14": "B站出品首部聚焦钓鱼探险纪实",
@@ -2333,15 +2369,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 157004,
-      "view": 129400824,
+      "follow": 157009,
+      "view": 129402255,
       "danmaku": 2589852,
-      "reply": 261836,
+      "reply": 261837,
       "coin": 4329036,
-      "series_follow": 458944,
-      "series_view": 302431219,
-      "likes": 5152876,
-      "favorite": 48541
+      "series_follow": 458951,
+      "series_view": 302434169,
+      "likes": 5152888,
+      "favorite": 48543
     },
     "new_ep": {
       "id": 391301,
@@ -2458,8 +2494,8 @@
     "is_finish": 1,
     "is_started": 1,
     "is_play": 1,
-    "badge": "限时免费",
-    "badge_type": 3,
+    "badge": "大会员",
+    "badge_type": 0,
     "rights": {
       "allow_review": 1,
       "allow_preview": 1,
@@ -2469,14 +2505,14 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 31062,
-      "view": 2886313,
+      "follow": 31064,
+      "view": 2886556,
       "danmaku": 4297,
       "reply": 1072,
-      "coin": 1778,
-      "series_follow": 38302,
-      "series_view": 5786377,
-      "likes": 10149,
+      "coin": 1780,
+      "series_follow": 38309,
+      "series_view": 5786963,
+      "likes": 10150,
       "favorite": 5362
     },
     "new_ep": {
@@ -2546,13 +2582,13 @@
     ],
     "url": "https://www.bilibili.com/bangumi/play/ss93142",
     "badge_info": {
-      "text": "限时免费",
-      "bg_color": "#FF7F24",
-      "bg_color_night": "#D66011",
-      "img": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
       "multi_img": {
-        "color": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
-        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/609b1a1f23dce03fe5d0d54363dd2e4db7a4d8ca.png"
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
       }
     },
     "renewal_time": "每周二 18:00更新",
@@ -2624,15 +2660,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 723264,
-      "view": 293392242,
-      "danmaku": 77896,
+      "follow": 723276,
+      "view": 293406216,
+      "danmaku": 77897,
       "reply": 39869,
-      "coin": 530587,
-      "series_follow": 842721,
-      "series_view": 517732646,
-      "likes": 9597865,
-      "favorite": 752816
+      "coin": 530595,
+      "series_follow": 842733,
+      "series_view": 517754336,
+      "likes": 9598125,
+      "favorite": 752844
     },
     "new_ep": {
       "id": 775787,
@@ -2645,7 +2681,7 @@
     },
     "rating": {
       "score": 9.7,
-      "count": 2599
+      "count": 2600
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/dbd0acc2aa8e2d8a97077ac281fb9bdbb1f37004.png",
     "season_status": 13,
@@ -2824,13 +2860,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 98050,
-      "view": 22164342,
-      "danmaku": 13885,
+      "follow": 98052,
+      "view": 22167977,
+      "danmaku": 13886,
       "reply": 4179,
-      "coin": 9163,
-      "likes": 387736,
-      "favorite": 39482
+      "coin": 9167,
+      "likes": 387765,
+      "favorite": 39486
     },
     "new_ep": {
       "id": 478272,
@@ -2973,8 +3009,8 @@
     "is_finish": 1,
     "is_started": 1,
     "is_play": 1,
-    "badge": "限时免费",
-    "badge_type": 3,
+    "badge": "大会员",
+    "badge_type": 0,
     "rights": {
       "allow_review": 1,
       "allow_preview": 1,
@@ -2984,15 +3020,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 275571,
-      "view": 19068941,
-      "danmaku": 18045,
+      "follow": 275579,
+      "view": 19069496,
+      "danmaku": 18046,
       "reply": 2677,
       "coin": 13226,
-      "series_follow": 360925,
-      "series_view": 36017984,
-      "likes": 62860,
-      "favorite": 57480
+      "series_follow": 360957,
+      "series_view": 36023489,
+      "likes": 62864,
+      "favorite": 57476
     },
     "new_ep": {
       "id": 1439376,
@@ -3091,13 +3127,13 @@
     ],
     "url": "https://www.bilibili.com/bangumi/play/ss75753",
     "badge_info": {
-      "text": "限时免费",
-      "bg_color": "#FF7F24",
-      "bg_color_night": "#D66011",
-      "img": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
       "multi_img": {
-        "color": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
-        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/609b1a1f23dce03fe5d0d54363dd2e4db7a4d8ca.png"
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
       }
     },
     "renewal_time": "每周六 20:00更新",
@@ -3152,8 +3188,8 @@
     "is_finish": 1,
     "is_started": 1,
     "is_play": 1,
-    "badge": "限时免费",
-    "badge_type": 3,
+    "badge": "大会员",
+    "badge_type": 0,
     "rights": {
       "allow_review": 1,
       "allow_preview": 1,
@@ -3163,15 +3199,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 15644,
-      "view": 1572990,
-      "danmaku": 2518,
+      "follow": 15650,
+      "view": 1573210,
+      "danmaku": 2519,
       "reply": 355,
       "coin": 1768,
-      "series_follow": 38302,
-      "series_view": 5786377,
-      "likes": 8772,
-      "favorite": 3061
+      "series_follow": 38309,
+      "series_view": 5786963,
+      "likes": 8774,
+      "favorite": 3063
     },
     "new_ep": {
       "id": 1364833,
@@ -3252,13 +3288,13 @@
     ],
     "url": "https://www.bilibili.com/bangumi/play/ss80778",
     "badge_info": {
-      "text": "限时免费",
-      "bg_color": "#FF7F24",
-      "bg_color_night": "#D66011",
-      "img": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
       "multi_img": {
-        "color": "https://i0.hdslb.com/bfs/bangumi/image/c264551547b8d7bf55d047002c27635bc180821e.png",
-        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/609b1a1f23dce03fe5d0d54363dd2e4db7a4d8ca.png"
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
       }
     },
     "first_ep_info": {
@@ -3320,13 +3356,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 389442,
-      "view": 9216794,
+      "follow": 389462,
+      "view": 9217196,
       "danmaku": 62979,
       "reply": 9798,
-      "coin": 31170,
-      "likes": 102643,
-      "favorite": 31672
+      "coin": 31172,
+      "likes": 102651,
+      "favorite": 31677
     },
     "new_ep": {
       "id": 424738,
@@ -3459,13 +3495,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 343415,
-      "view": 7179654,
-      "danmaku": 38318,
+      "follow": 343420,
+      "view": 7179809,
+      "danmaku": 38319,
       "reply": 7063,
-      "coin": 33201,
-      "likes": 91823,
-      "favorite": 27495
+      "coin": 33203,
+      "likes": 91824,
+      "favorite": 27497
     },
     "new_ep": {
       "id": 385273,
@@ -3598,13 +3634,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1688344,
-      "view": 49624014,
-      "danmaku": 301656,
+      "follow": 1688394,
+      "view": 49625898,
+      "danmaku": 301663,
       "reply": 41597,
-      "coin": 478829,
-      "likes": 654152,
-      "favorite": 207496
+      "coin": 478858,
+      "likes": 654188,
+      "favorite": 207514
     },
     "new_ep": {
       "id": 285026,
@@ -3771,15 +3807,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1568529,
-      "view": 79902990,
-      "danmaku": 363279,
-      "reply": 67732,
-      "coin": 505823,
-      "series_follow": 1607258,
-      "series_view": 79902990,
-      "likes": 792330,
-      "favorite": 168440
+      "follow": 1568533,
+      "view": 79904340,
+      "danmaku": 363285,
+      "reply": 67734,
+      "coin": 505838,
+      "series_follow": 1607262,
+      "series_view": 79904340,
+      "likes": 792344,
+      "favorite": 168444
     },
     "new_ep": {
       "id": 744327,
@@ -3951,13 +3987,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1090641,
-      "view": 112640221,
-      "danmaku": 294313,
+      "follow": 1090657,
+      "view": 112641468,
+      "danmaku": 294317,
       "reply": 32190,
-      "coin": 392173,
-      "likes": 708025,
-      "favorite": 134643
+      "coin": 392175,
+      "likes": 708034,
+      "favorite": 134647
     },
     "new_ep": {
       "id": 469285,
@@ -4135,13 +4171,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 671901,
-      "view": 30603698,
-      "danmaku": 123111,
+      "follow": 671903,
+      "view": 30604688,
+      "danmaku": 123120,
       "reply": 14867,
       "coin": 55557,
-      "likes": 295026,
-      "favorite": 51441
+      "likes": 295036,
+      "favorite": 51446
     },
     "new_ep": {
       "id": 832061,
@@ -4283,13 +4319,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 370371,
-      "view": 12613437,
-      "danmaku": 43352,
-      "reply": 8148,
-      "coin": 71846,
-      "likes": 140968,
-      "favorite": 68906
+      "follow": 370405,
+      "view": 12615579,
+      "danmaku": 43356,
+      "reply": 8149,
+      "coin": 71851,
+      "likes": 140982,
+      "favorite": 68917
     },
     "new_ep": {
       "id": 835476,
@@ -4301,7 +4337,7 @@
     },
     "rating": {
       "score": 9.8,
-      "count": 3434
+      "count": 3435
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/e0d32ca66e655607a541352b4838b8051f3e75d3.png",
     "season_status": 13,
@@ -4432,13 +4468,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 302077,
-      "view": 39542875,
-      "danmaku": 140566,
+      "follow": 302091,
+      "view": 39544194,
+      "danmaku": 140595,
       "reply": 12175,
-      "coin": 87471,
-      "likes": 303187,
-      "favorite": 58269
+      "coin": 87473,
+      "likes": 303199,
+      "favorite": 58273
     },
     "new_ep": {
       "id": 836282,
@@ -4592,15 +4628,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 370701,
-      "view": 44396604,
+      "follow": 370705,
+      "view": 44397741,
       "danmaku": 89686,
       "reply": 13293,
-      "coin": 73929,
-      "series_follow": 419983,
-      "series_view": 48551544,
-      "likes": 1130472,
-      "favorite": 69886
+      "coin": 73931,
+      "series_follow": 419992,
+      "series_view": 48552857,
+      "likes": 1130493,
+      "favorite": 69890
     },
     "new_ep": {
       "id": 385362,
@@ -4759,15 +4795,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 4081443,
-      "view": 80596757,
-      "danmaku": 1216763,
-      "reply": 109819,
-      "coin": 836057,
-      "series_follow": 5141598,
-      "series_view": 80596757,
-      "likes": 974438,
-      "favorite": 244044
+      "follow": 4081489,
+      "view": 80598940,
+      "danmaku": 1216769,
+      "reply": 109822,
+      "coin": 836093,
+      "series_follow": 5141649,
+      "series_view": 80598940,
+      "likes": 974486,
+      "favorite": 244068
     },
     "new_ep": {
       "id": 332658,
@@ -4779,7 +4815,7 @@
     },
     "rating": {
       "score": 9.6,
-      "count": 107915
+      "count": 107919
     },
     "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/12cc0512a9c339794d7e8b4eaa43cebc19fd9b89.png",
     "season_status": 13,
@@ -4915,13 +4951,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 538449,
-      "view": 14634148,
-      "danmaku": 33436,
+      "follow": 538478,
+      "view": 14635089,
+      "danmaku": 33438,
       "reply": 10047,
-      "coin": 48206,
-      "likes": 127093,
-      "favorite": 80956
+      "coin": 48209,
+      "likes": 127107,
+      "favorite": 80967
     },
     "new_ep": {
       "id": 1114726,
