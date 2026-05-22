@@ -1,17 +1,17 @@
 [
   {
-    "season_id": 102779,
-    "media_id": 26702842,
+    "season_id": 90659,
+    "media_id": 25465120,
     "season_type": 3,
     "season_type_name": "纪录片",
-    "title": "流言终结者 第二季",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b21dcf40c99aeb821b6d965fc7bfebfbd51863b9.png",
-    "total_count": 33,
+    "title": "行星",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/1a7604a15b492d33ad05ed4c4b26f3050495eee0.png",
+    "total_count": 5,
     "is_finish": 1,
     "is_started": 1,
     "is_play": 1,
-    "badge": "独家",
-    "badge_type": 1,
+    "badge": "大会员",
+    "badge_type": 0,
     "rights": {
       "allow_review": 1,
       "allow_preview": 1,
@@ -21,82 +21,87 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 834750,
-      "view": 22611715,
-      "danmaku": 4995,
-      "reply": 5809,
-      "coin": 2859,
-      "series_follow": 994272,
-      "series_view": 291721904,
-      "likes": 99374,
-      "favorite": 15843
+      "follow": 277662,
+      "view": 2891259,
+      "danmaku": 5816,
+      "reply": 1217,
+      "coin": 4810,
+      "series_follow": 363038,
+      "series_view": 36435073,
+      "likes": 19817,
+      "favorite": 21015
     },
     "new_ep": {
-      "id": 1990984,
-      "index_show": "全33集",
-      "cover": "http://i0.hdslb.com/bfs/archive/3583bafcf639307905b0442b7d607b7bec934c5d.png",
-      "title": "33",
-      "pub_time": "2025-08-31 18:30:00",
-      "duration": 2971000
+      "id": 1508546,
+      "index_show": "全5集",
+      "cover": "http://i0.hdslb.com/bfs/archive/52b5d4b2b1ecc8fa4305c8f8e1de14099c66eb0b.jpg",
+      "title": "第5集中配版",
+      "long_title": "黑暗之地：太阳系外缘",
+      "pub_time": "2025-03-16 18:30:01",
+      "duration": 3514000
     },
-    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/f2d5f12d8135fe51a605f4e02836c928d6460cdd.png",
+    "rating": {
+      "score": 9.9,
+      "count": 127
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/effb388c513f30891077cd57f927d268f38c9b0e.png",
     "season_status": 13,
-    "season_title": "第二季",
+    "season_title": "行星",
     "badge_ep": "",
     "media_attr": 196608,
     "season_attr": 1536,
-    "evaluate": "《流言终结者》第二季延续了节目核心模式，由特效专家亚当·萨维奇和杰米·海纳曼领衔主持，并正式引入托瑞·贝勒奇、卡莉·拜伦等团队成员，通过高破坏性科学实验验证都市传奇与网络谣言，每集聚焦2至4个流言，采...",
+    "evaluate": "138亿年前宇宙的故事有了开端，仅银河系就有数千亿颗恒星，而我们生活的太阳系行星渺小如尘埃，不为人知的行星故事在过去40亿年中华丽上演。随着人类观测技术的不断进步，宇宙飞船带领我们探索各个行星，此部纪...",
     "areas": [
       {
-        "id": 3,
-        "name": "美国"
+        "id": 4,
+        "name": "英国"
       }
     ],
-    "subtitle": "验证都市传言",
-    "first_ep": 1863911,
+    "subtitle": "讲述八大行星的故事",
+    "first_ep": 1507404,
     "can_watch": 1,
     "series": {
-      "series_id": 4798,
-      "title": "流言终结者",
-      "season_count": 5,
-      "new_season_id": 109661,
-      "series_ord": 4
+      "series_id": 7533,
+      "title": "布莱恩·考克斯行星系列",
+      "season_count": 4,
+      "new_season_id": 111195,
+      "series_ord": 1
     },
     "publish": {
-      "pub_time": "2025-07-10 18:30:00",
-      "pub_time_show": "2025年07月10日18:30",
-      "release_date": "2004-01-11",
-      "release_date_show": "2004年1月11日"
+      "pub_time": "2025-03-12 17:00:00",
+      "pub_time_show": "2025年03月12日17:00",
+      "release_date": "2019-05-28",
+      "release_date_show": "2019年5月28日"
     },
     "mode": 2,
     "section": [
       {
-        "section_id": 203750,
-        "season_id": 102779,
-        "limit_group": 317,
+        "section_id": 179671,
+        "season_id": 90659,
+        "limit_group": 328,
         "watch_platform": 31,
-        "copyright": "dujia",
+        "copyright": "bilibili",
         "ban_area_show": 1,
         "episode_ids": [
           0
         ]
       },
       {
-        "section_id": 206795,
-        "season_id": 102779,
-        "limit_group": 317,
+        "section_id": 180324,
+        "season_id": 90659,
+        "limit_group": 316,
         "watch_platform": 31,
         "type": 1,
-        "copyright": "dujia",
-        "title": "预告片",
+        "copyright": "bilibili",
+        "title": "预告",
         "ban_area_show": 1,
         "episode_ids": [
           0
         ]
       },
       {
-        "section_id": 502117,
-        "season_id": 102779,
+        "section_id": 250758,
+        "season_id": 90659,
         "limit_group": 316,
         "watch_platform": 31,
         "type": 4,
@@ -107,70 +112,37 @@
         ]
       }
     ],
-    "url": "https://www.bilibili.com/bangumi/play/ss102779",
+    "url": "https://www.bilibili.com/bangumi/play/ss90659",
     "badge_info": {
-      "text": "独家",
-      "bg_color": "#00C0FF",
-      "bg_color_night": "#0B91BE",
-      "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
       "multi_img": {
-        "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
-        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
       }
     },
-    "renewal_time": "每周四、五、六、日18:30更新",
     "first_ep_info": {
-      "id": 1863911,
-      "cover": "http://i0.hdslb.com/bfs/archive/cb97cf1186441b2495d326ddc8a45b2cb81aaf5e.png",
+      "id": 1507404,
+      "cover": "http://i0.hdslb.com/bfs/archive/cdae93bd76066e4dcb2ab156f736d5cb3ed70da6.jpg",
       "title": "1",
-      "pub_time": "2025-07-10 18:30:00",
-      "duration": 2971000
+      "long_title": "沐浴阳光：类地行星",
+      "pub_time": "2025-03-12 17:00:18",
+      "duration": 3487000
     },
-    "formal_ep_count": 33,
-    "short_url": "https://b23.tv/ss102779",
-    "badge_infos": {
-      "content_attr": {
-        "text": "独家",
-        "bg_color": "#00C0FF",
-        "bg_color_night": "#0B91BE",
-        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
-        "multi_img": {
-          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
-          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-        }
-      },
-      "vip_or_pay": {
-        "text": "独家",
-        "bg_color": "#00C0FF",
-        "bg_color_night": "#0B91BE",
-        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
-        "multi_img": {
-          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
-          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-        }
-      }
-    },
-    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/90061966a437954e58faa63e11bc3b611bd13a6c.png",
-    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/753133d252596a5f7a62c5bfcf7963ada4d989ad.png",
-    "subtitle_14": "硬核实验，验证都市传言",
+    "formal_ep_count": 10,
+    "short_url": "https://b23.tv/ss90659",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/63351920918dc693558be567c94a712e40d2737b.jpg",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/756489e662bf49420e0860146332fdd6cdfa43cb.png",
+    "subtitle_14": "讲述太阳系八大行星的故事",
     "viewable_crowd_type": 18,
-    "producers": [
-      {
-        "mid": 7584632,
-        "type": 3,
-        "is_contribute": 1,
-        "title": "播出"
-      }
-    ],
-    "summary": "《流言终结者》第二季延续了节目核心模式，由特效专家亚当·萨维奇和杰米·海纳曼领衔主持，并正式引入托瑞·贝勒奇、卡莉·拜伦等团队成员，通过高破坏性科学实验验证都市传奇与网络谣言，每集聚焦2至4个流言，采用爆炸、撞击等极端手段还原场景，最终以“证实”（CONFIRMED）、“破解”（BUSTED）或“有此可能”（PLAUSIBLE）三类结论揭示真相。",
+    "summary": "138亿年前宇宙的故事有了开端，仅银河系就有数千亿颗恒星，而我们生活的太阳系行星渺小如尘埃，不为人知的行星故事在过去40亿年中华丽上演。随着人类观测技术的不断进步，宇宙飞船带领我们探索各个行星，此部纪录片用独特的拟人化手法解构八大行星的故事，并结合最先进的科技视觉化呈现。",
     "styles": [
-      "科技"
+      "宇宙"
     ],
     "config_attrs": {
       "cc_on_lock": {
-        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
-      },
-      "drm_supported": {
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       },
       "highlight_ineffective_hd": {
@@ -211,14 +183,14 @@
     },
     "stat": {
       "follow": 309557,
-      "view": 11294705,
-      "danmaku": 12915,
-      "reply": 5667,
+      "view": 11297171,
+      "danmaku": 12916,
+      "reply": 5668,
       "coin": 19285,
-      "series_follow": 363023,
-      "series_view": 36430798,
-      "likes": 118337,
-      "favorite": 38991
+      "series_follow": 363038,
+      "series_view": 36435073,
+      "likes": 118354,
+      "favorite": 39007
     },
     "new_ep": {
       "id": 1533622,
@@ -388,18 +360,18 @@
     "both_follow": false
   },
   {
-    "season_id": 90659,
-    "media_id": 25465120,
+    "season_id": 102779,
+    "media_id": 26702842,
     "season_type": 3,
     "season_type_name": "纪录片",
-    "title": "行星",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/image/1a7604a15b492d33ad05ed4c4b26f3050495eee0.png",
-    "total_count": 5,
+    "title": "流言终结者 第二季",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/b21dcf40c99aeb821b6d965fc7bfebfbd51863b9.png",
+    "total_count": 33,
     "is_finish": 1,
     "is_started": 1,
     "is_play": 1,
-    "badge": "大会员",
-    "badge_type": 0,
+    "badge": "独家",
+    "badge_type": 1,
     "rights": {
       "allow_review": 1,
       "allow_preview": 1,
@@ -409,87 +381,82 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 277665,
-      "view": 2890735,
-      "danmaku": 5816,
-      "reply": 1215,
-      "coin": 4810,
-      "series_follow": 363023,
-      "series_view": 36430798,
-      "likes": 19817,
-      "favorite": 21012
+      "follow": 834719,
+      "view": 22618819,
+      "danmaku": 4996,
+      "reply": 5813,
+      "coin": 2860,
+      "series_follow": 994276,
+      "series_view": 291756852,
+      "likes": 99404,
+      "favorite": 15849
     },
     "new_ep": {
-      "id": 1508546,
-      "index_show": "全5集",
-      "cover": "http://i0.hdslb.com/bfs/archive/52b5d4b2b1ecc8fa4305c8f8e1de14099c66eb0b.jpg",
-      "title": "第5集中配版",
-      "long_title": "黑暗之地：太阳系外缘",
-      "pub_time": "2025-03-16 18:30:01",
-      "duration": 3514000
+      "id": 1990984,
+      "index_show": "全33集",
+      "cover": "http://i0.hdslb.com/bfs/archive/3583bafcf639307905b0442b7d607b7bec934c5d.png",
+      "title": "33",
+      "pub_time": "2025-08-31 18:30:00",
+      "duration": 2971000
     },
-    "rating": {
-      "score": 9.9,
-      "count": 127
-    },
-    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/effb388c513f30891077cd57f927d268f38c9b0e.png",
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/f2d5f12d8135fe51a605f4e02836c928d6460cdd.png",
     "season_status": 13,
-    "season_title": "行星",
+    "season_title": "第二季",
     "badge_ep": "",
     "media_attr": 196608,
     "season_attr": 1536,
-    "evaluate": "138亿年前宇宙的故事有了开端，仅银河系就有数千亿颗恒星，而我们生活的太阳系行星渺小如尘埃，不为人知的行星故事在过去40亿年中华丽上演。随着人类观测技术的不断进步，宇宙飞船带领我们探索各个行星，此部纪...",
+    "evaluate": "《流言终结者》第二季延续了节目核心模式，由特效专家亚当·萨维奇和杰米·海纳曼领衔主持，并正式引入托瑞·贝勒奇、卡莉·拜伦等团队成员，通过高破坏性科学实验验证都市传奇与网络谣言，每集聚焦2至4个流言，采...",
     "areas": [
       {
-        "id": 4,
-        "name": "英国"
+        "id": 3,
+        "name": "美国"
       }
     ],
-    "subtitle": "讲述八大行星的故事",
-    "first_ep": 1507404,
+    "subtitle": "验证都市传言",
+    "first_ep": 1863911,
     "can_watch": 1,
     "series": {
-      "series_id": 7533,
-      "title": "布莱恩·考克斯行星系列",
-      "season_count": 4,
-      "new_season_id": 111195,
-      "series_ord": 1
+      "series_id": 4798,
+      "title": "流言终结者",
+      "season_count": 5,
+      "new_season_id": 109661,
+      "series_ord": 4
     },
     "publish": {
-      "pub_time": "2025-03-12 17:00:00",
-      "pub_time_show": "2025年03月12日17:00",
-      "release_date": "2019-05-28",
-      "release_date_show": "2019年5月28日"
+      "pub_time": "2025-07-10 18:30:00",
+      "pub_time_show": "2025年07月10日18:30",
+      "release_date": "2004-01-11",
+      "release_date_show": "2004年1月11日"
     },
     "mode": 2,
     "section": [
       {
-        "section_id": 179671,
-        "season_id": 90659,
-        "limit_group": 328,
+        "section_id": 203750,
+        "season_id": 102779,
+        "limit_group": 317,
         "watch_platform": 31,
-        "copyright": "bilibili",
+        "copyright": "dujia",
         "ban_area_show": 1,
         "episode_ids": [
           0
         ]
       },
       {
-        "section_id": 180324,
-        "season_id": 90659,
-        "limit_group": 316,
+        "section_id": 206795,
+        "season_id": 102779,
+        "limit_group": 317,
         "watch_platform": 31,
         "type": 1,
-        "copyright": "bilibili",
-        "title": "预告",
+        "copyright": "dujia",
+        "title": "预告片",
         "ban_area_show": 1,
         "episode_ids": [
           0
         ]
       },
       {
-        "section_id": 250758,
-        "season_id": 90659,
+        "section_id": 502117,
+        "season_id": 102779,
         "limit_group": 316,
         "watch_platform": 31,
         "type": 4,
@@ -500,37 +467,70 @@
         ]
       }
     ],
-    "url": "https://www.bilibili.com/bangumi/play/ss90659",
+    "url": "https://www.bilibili.com/bangumi/play/ss102779",
     "badge_info": {
-      "text": "大会员",
-      "bg_color": "#FB7299",
-      "bg_color_night": "#D44E7D",
-      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "text": "独家",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
       "multi_img": {
-        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
-        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
       }
     },
+    "renewal_time": "每周四、五、六、日18:30更新",
     "first_ep_info": {
-      "id": 1507404,
-      "cover": "http://i0.hdslb.com/bfs/archive/cdae93bd76066e4dcb2ab156f736d5cb3ed70da6.jpg",
+      "id": 1863911,
+      "cover": "http://i0.hdslb.com/bfs/archive/cb97cf1186441b2495d326ddc8a45b2cb81aaf5e.png",
       "title": "1",
-      "long_title": "沐浴阳光：类地行星",
-      "pub_time": "2025-03-12 17:00:18",
-      "duration": 3487000
+      "pub_time": "2025-07-10 18:30:00",
+      "duration": 2971000
     },
-    "formal_ep_count": 10,
-    "short_url": "https://b23.tv/ss90659",
-    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/63351920918dc693558be567c94a712e40d2737b.jpg",
-    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/756489e662bf49420e0860146332fdd6cdfa43cb.png",
-    "subtitle_14": "讲述太阳系八大行星的故事",
+    "formal_ep_count": 33,
+    "short_url": "https://b23.tv/ss102779",
+    "badge_infos": {
+      "content_attr": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "独家",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
+        }
+      }
+    },
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/90061966a437954e58faa63e11bc3b611bd13a6c.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/753133d252596a5f7a62c5bfcf7963ada4d989ad.png",
+    "subtitle_14": "硬核实验，验证都市传言",
     "viewable_crowd_type": 18,
-    "summary": "138亿年前宇宙的故事有了开端，仅银河系就有数千亿颗恒星，而我们生活的太阳系行星渺小如尘埃，不为人知的行星故事在过去40亿年中华丽上演。随着人类观测技术的不断进步，宇宙飞船带领我们探索各个行星，此部纪录片用独特的拟人化手法解构八大行星的故事，并结合最先进的科技视觉化呈现。",
+    "producers": [
+      {
+        "mid": 7584632,
+        "type": 3,
+        "is_contribute": 1,
+        "title": "播出"
+      }
+    ],
+    "summary": "《流言终结者》第二季延续了节目核心模式，由特效专家亚当·萨维奇和杰米·海纳曼领衔主持，并正式引入托瑞·贝勒奇、卡莉·拜伦等团队成员，通过高破坏性科学实验验证都市传奇与网络谣言，每集聚焦2至4个流言，采用爆炸、撞击等极端手段还原场景，最终以“证实”（CONFIRMED）、“破解”（BUSTED）或“有此可能”（PLAUSIBLE）三类结论揭示真相。",
     "styles": [
-      "宇宙"
+      "科技"
     ],
     "config_attrs": {
       "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_supported": {
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       },
       "highlight_ineffective_hd": {
@@ -570,15 +570,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1614706,
-      "view": 21136703,
-      "danmaku": 49498,
-      "reply": 13396,
-      "coin": 37831,
-      "series_follow": 1677457,
-      "series_view": 193134433,
-      "likes": 122039,
-      "favorite": 41631
+      "follow": 1614625,
+      "view": 21138416,
+      "danmaku": 49503,
+      "reply": 13395,
+      "coin": 37833,
+      "series_follow": 1677467,
+      "series_view": 193141725,
+      "likes": 122065,
+      "favorite": 41635
     },
     "new_ep": {
       "id": 3101015,
@@ -763,15 +763,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 872788,
-      "view": 92258852,
+      "follow": 872765,
+      "view": 92278132,
       "danmaku": 29147,
-      "reply": 28217,
-      "coin": 28359,
-      "series_follow": 994272,
-      "series_view": 291721904,
-      "likes": 1637410,
-      "favorite": 108541
+      "reply": 28225,
+      "coin": 28373,
+      "series_follow": 994276,
+      "series_view": 291756852,
+      "likes": 1637747,
+      "favorite": 108555
     },
     "new_ep": {
       "id": 1674493,
@@ -783,7 +783,7 @@
     },
     "rating": {
       "score": 8.8,
-      "count": 444
+      "count": 445
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/73639443c6604b2aabc2225a2a89ac2a8861d7a1.png",
     "season_status": 13,
@@ -996,15 +996,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 581813,
-      "view": 45048247,
-      "danmaku": 115340,
-      "reply": 19438,
-      "coin": 175953,
-      "series_follow": 6784871,
-      "series_view": 507938321,
-      "likes": 909404,
-      "favorite": 123295
+      "follow": 581841,
+      "view": 45055104,
+      "danmaku": 115347,
+      "reply": 19439,
+      "coin": 175967,
+      "series_follow": 6784891,
+      "series_view": 507961656,
+      "likes": 909584,
+      "favorite": 123307
     },
     "new_ep": {
       "id": 2060436,
@@ -1016,7 +1016,7 @@
     },
     "rating": {
       "score": 9.8,
-      "count": 11250
+      "count": 11251
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/1a06606bc39e24bd18a4c4f782c6a60f135fbc8d.png",
     "season_status": 13,
@@ -1170,15 +1170,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 927835,
-      "view": 13031342,
-      "danmaku": 3329,
-      "reply": 4210,
+      "follow": 927808,
+      "view": 13036607,
+      "danmaku": 3328,
+      "reply": 4213,
       "coin": 2968,
-      "series_follow": 994272,
-      "series_view": 291721904,
-      "likes": 202341,
-      "favorite": 14089
+      "series_follow": 994276,
+      "series_view": 291756852,
+      "likes": 202398,
+      "favorite": 14091
     },
     "new_ep": {
       "id": 2183915,
@@ -1365,7 +1365,7 @@
     },
     "stat": {
       "follow": 64571,
-      "view": 1227731,
+      "view": 1227760,
       "danmaku": 3567,
       "reply": 487,
       "coin": 4105,
@@ -1507,13 +1507,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 347516,
-      "view": 24741904,
+      "follow": 347514,
+      "view": 24742053,
       "danmaku": 66603,
       "reply": 12278,
       "coin": 65811,
-      "series_follow": 394708,
-      "series_view": 30146556,
+      "series_follow": 394707,
+      "series_view": 30146958,
       "likes": 336436,
       "favorite": 55354
     },
@@ -1738,13 +1738,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1481461,
-      "view": 50860994,
+      "follow": 1481464,
+      "view": 50861836,
       "danmaku": 98654,
       "reply": 25793,
-      "coin": 136863,
-      "likes": 329755,
-      "favorite": 319190
+      "coin": 136869,
+      "likes": 329762,
+      "favorite": 319199
     },
     "new_ep": {
       "id": 320687,
@@ -1934,15 +1934,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 790927,
-      "view": 34582343,
-      "danmaku": 399684,
-      "reply": 54004,
-      "coin": 531228,
-      "series_follow": 9471187,
-      "series_view": 1066417196,
-      "likes": 833462,
-      "favorite": 169911
+      "follow": 790959,
+      "view": 34585319,
+      "danmaku": 399697,
+      "reply": 54005,
+      "coin": 531245,
+      "series_follow": 9471285,
+      "series_view": 1066453635,
+      "likes": 833505,
+      "favorite": 169916
     },
     "new_ep": {
       "id": 2243434,
@@ -1954,7 +1954,7 @@
     },
     "rating": {
       "score": 9.9,
-      "count": 22824
+      "count": 22826
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/8fa02b8c1647dd620129049ad2c02b7992b6fe15.png",
     "season_status": 13,
@@ -2107,15 +2107,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 325578,
-      "view": 3141927,
-      "danmaku": 2490,
+      "follow": 325568,
+      "view": 3142874,
+      "danmaku": 2491,
       "reply": 878,
       "coin": 2171,
-      "series_follow": 363023,
-      "series_view": 36430798,
-      "likes": 12532,
-      "favorite": 13821
+      "series_follow": 363038,
+      "series_view": 36435073,
+      "likes": 12534,
+      "favorite": 13829
     },
     "new_ep": {
       "id": 2224723,
@@ -2242,13 +2242,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 119008,
-      "view": 50451799,
-      "danmaku": 36193,
-      "reply": 15166,
-      "coin": 106257,
-      "likes": 956461,
-      "favorite": 40782
+      "follow": 119015,
+      "view": 50460777,
+      "danmaku": 36197,
+      "reply": 15168,
+      "coin": 106263,
+      "likes": 956608,
+      "favorite": 40789
     },
     "new_ep": {
       "id": 1895402,
@@ -2465,14 +2465,14 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 157127,
-      "view": 129506491,
+      "follow": 157129,
+      "view": 129508061,
       "danmaku": 2589896,
       "reply": 261833,
-      "coin": 4329089,
-      "series_follow": 459172,
-      "series_view": 302683883,
-      "likes": 5153988,
+      "coin": 4329091,
+      "series_follow": 459179,
+      "series_view": 302688487,
+      "likes": 5154007,
       "favorite": 48635
     },
     "new_ep": {
@@ -2602,14 +2602,14 @@
     },
     "stat": {
       "follow": 31136,
-      "view": 2904505,
+      "view": 2904749,
       "danmaku": 4320,
       "reply": 1087,
-      "coin": 1788,
-      "series_follow": 38579,
-      "series_view": 5830208,
-      "likes": 10206,
-      "favorite": 5422
+      "coin": 1790,
+      "series_follow": 38580,
+      "series_view": 5830701,
+      "likes": 10207,
+      "favorite": 5423
     },
     "new_ep": {
       "id": 1598302,
@@ -2756,15 +2756,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 723851,
-      "view": 294865847,
+      "follow": 723841,
+      "view": 294882358,
       "danmaku": 78132,
-      "reply": 40069,
-      "coin": 531735,
-      "series_follow": 843639,
-      "series_view": 519691768,
-      "likes": 9625278,
-      "favorite": 755819
+      "reply": 40070,
+      "coin": 531741,
+      "series_follow": 843647,
+      "series_view": 519714741,
+      "likes": 9625518,
+      "favorite": 755820
     },
     "new_ep": {
       "id": 775787,
@@ -2956,13 +2956,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 98276,
-      "view": 22308422,
+      "follow": 98280,
+      "view": 22310544,
       "danmaku": 13913,
       "reply": 4187,
       "coin": 9259,
-      "likes": 388875,
-      "favorite": 39657
+      "likes": 388885,
+      "favorite": 39661
     },
     "new_ep": {
       "id": 478272,
@@ -3116,15 +3116,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 275850,
-      "view": 19103408,
+      "follow": 275854,
+      "view": 19103769,
       "danmaku": 18099,
       "reply": 2681,
       "coin": 13286,
-      "series_follow": 363023,
-      "series_view": 36430798,
+      "series_follow": 363038,
+      "series_view": 36435073,
       "likes": 63002,
-      "favorite": 57693
+      "favorite": 57697
     },
     "new_ep": {
       "id": 1439376,
@@ -3295,13 +3295,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 15840,
-      "view": 1587975,
+      "follow": 15839,
+      "view": 1588096,
       "danmaku": 2539,
       "reply": 358,
       "coin": 1776,
-      "series_follow": 38579,
-      "series_view": 5830208,
+      "series_follow": 38580,
+      "series_view": 5830701,
       "likes": 8847,
       "favorite": 3109
     },
@@ -3452,13 +3452,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 390458,
-      "view": 9244679,
-      "danmaku": 63140,
-      "reply": 9841,
-      "coin": 31319,
-      "likes": 102956,
-      "favorite": 31892
+      "follow": 390467,
+      "view": 9244989,
+      "danmaku": 63143,
+      "reply": 9842,
+      "coin": 31321,
+      "likes": 102960,
+      "favorite": 31897
     },
     "new_ep": {
       "id": 424738,
@@ -3591,13 +3591,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 343863,
-      "view": 7192312,
+      "follow": 343877,
+      "view": 7192447,
       "danmaku": 38350,
       "reply": 7073,
       "coin": 33252,
-      "likes": 91957,
-      "favorite": 27624
+      "likes": 91959,
+      "favorite": 27629
     },
     "new_ep": {
       "id": 385273,
@@ -3730,13 +3730,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1691447,
-      "view": 49767969,
-      "danmaku": 302145,
+      "follow": 1691485,
+      "view": 49769645,
+      "danmaku": 302156,
       "reply": 41344,
-      "coin": 480131,
-      "likes": 655942,
-      "favorite": 208602
+      "coin": 480140,
+      "likes": 655960,
+      "favorite": 208615
     },
     "new_ep": {
       "id": 285026,
@@ -3748,7 +3748,7 @@
     },
     "rating": {
       "score": 9.9,
-      "count": 61674
+      "count": 61675
     },
     "square_cover": "http://i0.hdslb.com/bfs/bangumi/f88f83acaed5acac4215d9c4c86e246891e32f8c.jpg",
     "season_status": 13,
@@ -3903,15 +3903,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1569174,
-      "view": 80022673,
-      "danmaku": 363956,
+      "follow": 1569160,
+      "view": 80024219,
+      "danmaku": 363959,
       "reply": 67848,
-      "coin": 506372,
-      "series_follow": 1608139,
-      "series_view": 80022673,
-      "likes": 793352,
-      "favorite": 168776
+      "coin": 506377,
+      "series_follow": 1608143,
+      "series_view": 80024219,
+      "likes": 793358,
+      "favorite": 168772
     },
     "new_ep": {
       "id": 744327,
@@ -4083,13 +4083,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1091259,
-      "view": 112757849,
+      "follow": 1091263,
+      "view": 112759049,
       "danmaku": 294450,
-      "reply": 32223,
-      "coin": 392491,
-      "likes": 708616,
-      "favorite": 134830
+      "reply": 32222,
+      "coin": 392493,
+      "likes": 708621,
+      "favorite": 134834
     },
     "new_ep": {
       "id": 469285,
@@ -4101,7 +4101,7 @@
     },
     "rating": {
       "score": 9.6,
-      "count": 44417
+      "count": 44418
     },
     "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/a5450da9d46e804fe0f25ad72da592d9679c0243.png",
     "season_status": 13,
@@ -4267,13 +4267,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 672031,
-      "view": 30769363,
-      "danmaku": 123492,
+      "follow": 672033,
+      "view": 30770345,
+      "danmaku": 123494,
       "reply": 14942,
       "coin": 55706,
-      "likes": 297426,
-      "favorite": 51668
+      "likes": 297439,
+      "favorite": 51673
     },
     "new_ep": {
       "id": 832061,
@@ -4415,13 +4415,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 373271,
-      "view": 12815881,
-      "danmaku": 43915,
-      "reply": 8197,
-      "coin": 72486,
-      "likes": 142291,
-      "favorite": 69918
+      "follow": 373292,
+      "view": 12817041,
+      "danmaku": 43916,
+      "reply": 8198,
+      "coin": 72488,
+      "likes": 142300,
+      "favorite": 69928
     },
     "new_ep": {
       "id": 835476,
@@ -4564,13 +4564,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 303125,
-      "view": 39675872,
-      "danmaku": 141107,
-      "reply": 12216,
-      "coin": 87725,
-      "likes": 304489,
-      "favorite": 58553
+      "follow": 303136,
+      "view": 39677190,
+      "danmaku": 141113,
+      "reply": 12217,
+      "coin": 87729,
+      "likes": 304502,
+      "favorite": 58557
     },
     "new_ep": {
       "id": 836282,
@@ -4582,7 +4582,7 @@
     },
     "rating": {
       "score": 9.2,
-      "count": 5390
+      "count": 5391
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/fc3c2ea2961cc67edbec474426321a7c2933f95e.png",
     "season_status": 13,
@@ -4724,15 +4724,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 371028,
-      "view": 44550257,
+      "follow": 371035,
+      "view": 44552306,
       "danmaku": 89794,
       "reply": 13316,
       "coin": 74012,
-      "series_follow": 420575,
-      "series_view": 48727965,
-      "likes": 1133277,
-      "favorite": 70132
+      "series_follow": 420586,
+      "series_view": 48730348,
+      "likes": 1133311,
+      "favorite": 70140
     },
     "new_ep": {
       "id": 385362,
@@ -4891,15 +4891,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 4083781,
-      "view": 80746289,
-      "danmaku": 1217515,
-      "reply": 109974,
-      "coin": 837430,
-      "series_follow": 5144356,
-      "series_view": 80746289,
-      "likes": 976626,
-      "favorite": 245311
+      "follow": 4083812,
+      "view": 80747900,
+      "danmaku": 1217516,
+      "reply": 109975,
+      "coin": 837432,
+      "series_follow": 5144392,
+      "series_view": 80747900,
+      "likes": 976638,
+      "favorite": 245318
     },
     "new_ep": {
       "id": 332658,
@@ -4911,7 +4911,7 @@
     },
     "rating": {
       "score": 9.6,
-      "count": 108030
+      "count": 108031
     },
     "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/12cc0512a9c339794d7e8b4eaa43cebc19fd9b89.png",
     "season_status": 13,
@@ -5047,13 +5047,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 540397,
-      "view": 14712690,
+      "follow": 540414,
+      "view": 14713514,
       "danmaku": 33586,
       "reply": 10153,
-      "coin": 48497,
-      "likes": 127896,
-      "favorite": 81678
+      "coin": 48499,
+      "likes": 127902,
+      "favorite": 81683
     },
     "new_ep": {
       "id": 1114726,
