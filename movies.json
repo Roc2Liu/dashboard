@@ -21,15 +21,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 277784,
-      "view": 2905159,
+      "follow": 277790,
+      "view": 2905658,
       "danmaku": 5827,
       "reply": 1227,
-      "coin": 4822,
-      "series_follow": 363459,
-      "series_view": 36513113,
-      "likes": 19879,
-      "favorite": 21109
+      "coin": 4823,
+      "series_follow": 363486,
+      "series_view": 36516745,
+      "likes": 19883,
+      "favorite": 21115
     },
     "new_ep": {
       "id": 1508546,
@@ -182,15 +182,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 309732,
-      "view": 11338158,
-      "danmaku": 12942,
-      "reply": 5668,
+      "follow": 309746,
+      "view": 11339951,
+      "danmaku": 12944,
+      "reply": 5669,
       "coin": 19315,
-      "series_follow": 363459,
-      "series_view": 36513113,
-      "likes": 118489,
-      "favorite": 39155
+      "series_follow": 363486,
+      "series_view": 36516745,
+      "likes": 118493,
+      "favorite": 39165
     },
     "new_ep": {
       "id": 1533622,
@@ -381,15 +381,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 834789,
-      "view": 22837777,
-      "danmaku": 5033,
-      "reply": 5867,
-      "coin": 2878,
-      "series_follow": 994795,
-      "series_view": 292592248,
-      "likes": 99985,
-      "favorite": 16032
+      "follow": 834795,
+      "view": 22850739,
+      "danmaku": 5037,
+      "reply": 5870,
+      "coin": 2880,
+      "series_follow": 994822,
+      "series_view": 292635901,
+      "likes": 100010,
+      "favorite": 16040
     },
     "new_ep": {
       "id": 1990984,
@@ -570,15 +570,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1614345,
-      "view": 21178697,
-      "danmaku": 49965,
+      "follow": 1614351,
+      "view": 21181682,
+      "danmaku": 49967,
       "reply": 13401,
-      "coin": 37865,
-      "series_follow": 1677712,
-      "series_view": 193277037,
-      "likes": 122789,
-      "favorite": 41757
+      "coin": 37871,
+      "series_follow": 1677734,
+      "series_view": 193285811,
+      "likes": 122829,
+      "favorite": 41765
     },
     "new_ep": {
       "id": 3101015,
@@ -763,15 +763,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 872934,
-      "view": 92735646,
-      "danmaku": 29225,
-      "reply": 28363,
-      "coin": 28527,
-      "series_follow": 994795,
-      "series_view": 292592248,
-      "likes": 1645997,
-      "favorite": 109215
+      "follow": 872950,
+      "view": 92757267,
+      "danmaku": 29228,
+      "reply": 28370,
+      "coin": 28529,
+      "series_follow": 994822,
+      "series_view": 292635901,
+      "likes": 1646389,
+      "favorite": 109241
     },
     "new_ep": {
       "id": 1674493,
@@ -996,15 +996,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 582347,
-      "view": 45312187,
-      "danmaku": 115588,
-      "reply": 19515,
-      "coin": 176320,
-      "series_follow": 6785367,
-      "series_view": 508666002,
-      "likes": 916926,
-      "favorite": 123961
+      "follow": 582376,
+      "view": 45328442,
+      "danmaku": 115603,
+      "reply": 19517,
+      "coin": 176330,
+      "series_follow": 6785397,
+      "series_view": 508701260,
+      "likes": 917262,
+      "favorite": 123984
     },
     "new_ep": {
       "id": 2060436,
@@ -1016,7 +1016,7 @@
     },
     "rating": {
       "score": 9.8,
-      "count": 11276
+      "count": 11278
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/1a06606bc39e24bd18a4c4f782c6a60f135fbc8d.png",
     "season_status": 13,
@@ -1170,15 +1170,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 927738,
-      "view": 13127802,
+      "follow": 927745,
+      "view": 13133001,
       "danmaku": 3342,
       "reply": 4252,
       "coin": 2989,
-      "series_follow": 994795,
-      "series_view": 292592248,
-      "likes": 203771,
-      "favorite": 14205
+      "series_follow": 994822,
+      "series_view": 292635901,
+      "likes": 203853,
+      "favorite": 14214
     },
     "new_ep": {
       "id": 2183915,
@@ -1365,7 +1365,7 @@
     },
     "stat": {
       "follow": 64584,
-      "view": 1228309,
+      "view": 1228334,
       "danmaku": 3567,
       "reply": 488,
       "coin": 4113,
@@ -1508,12 +1508,12 @@
     },
     "stat": {
       "follow": 347526,
-      "view": 24744713,
+      "view": 24744916,
       "danmaku": 66603,
       "reply": 12278,
       "coin": 65811,
-      "series_follow": 394743,
-      "series_view": 30155163,
+      "series_follow": 394745,
+      "series_view": 30156139,
       "likes": 336446,
       "favorite": 55357
     },
@@ -1738,13 +1738,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1481640,
-      "view": 50881855,
-      "danmaku": 98656,
+      "follow": 1481653,
+      "view": 50883025,
+      "danmaku": 98657,
       "reply": 25802,
-      "coin": 136902,
-      "likes": 329902,
-      "favorite": 319434
+      "coin": 136904,
+      "likes": 329908,
+      "favorite": 319456
     },
     "new_ep": {
       "id": 320687,
@@ -1934,15 +1934,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 792165,
-      "view": 34665047,
-      "danmaku": 400400,
-      "reply": 54029,
-      "coin": 531877,
-      "series_follow": 9474369,
-      "series_view": 1067345529,
-      "likes": 834671,
-      "favorite": 170213
+      "follow": 792232,
+      "view": 34669942,
+      "danmaku": 400441,
+      "reply": 54036,
+      "coin": 531927,
+      "series_follow": 9474564,
+      "series_view": 1067395189,
+      "likes": 834747,
+      "favorite": 170231
     },
     "new_ep": {
       "id": 2243434,
@@ -1954,7 +1954,7 @@
     },
     "rating": {
       "score": 9.9,
-      "count": 22854
+      "count": 22856
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/8fa02b8c1647dd620129049ad2c02b7992b6fe15.png",
     "season_status": 13,
@@ -2107,15 +2107,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 325602,
-      "view": 3156738,
-      "danmaku": 2515,
+      "follow": 325609,
+      "view": 3157590,
+      "danmaku": 2516,
       "reply": 879,
       "coin": 2179,
-      "series_follow": 363459,
-      "series_view": 36513113,
-      "likes": 12591,
-      "favorite": 13929
+      "series_follow": 363486,
+      "series_view": 36516745,
+      "likes": 12596,
+      "favorite": 13936
     },
     "new_ep": {
       "id": 2224723,
@@ -2242,13 +2242,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 119186,
-      "view": 50667226,
-      "danmaku": 36243,
-      "reply": 15196,
-      "coin": 106385,
-      "likes": 959877,
-      "favorite": 41051
+      "follow": 119194,
+      "view": 50682207,
+      "danmaku": 36244,
+      "reply": 15200,
+      "coin": 106393,
+      "likes": 960108,
+      "favorite": 41071
     },
     "new_ep": {
       "id": 1895402,
@@ -2466,14 +2466,14 @@
     },
     "stat": {
       "follow": 157154,
-      "view": 129534482,
+      "view": 129535382,
       "danmaku": 2589905,
-      "reply": 261835,
-      "coin": 4329103,
-      "series_follow": 459244,
-      "series_view": 302757215,
-      "likes": 5154275,
-      "favorite": 48653
+      "reply": 261834,
+      "coin": 4329105,
+      "series_follow": 459248,
+      "series_view": 302759231,
+      "likes": 5154282,
+      "favorite": 48657
     },
     "new_ep": {
       "id": 391301,
@@ -2601,13 +2601,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 31163,
-      "view": 2912407,
-      "danmaku": 4344,
-      "reply": 1097,
+      "follow": 31167,
+      "view": 2913131,
+      "danmaku": 4347,
+      "reply": 1100,
       "coin": 1796,
-      "series_follow": 38631,
-      "series_view": 5844157,
+      "series_follow": 38642,
+      "series_view": 5845377,
       "likes": 10223,
       "favorite": 5445
     },
@@ -2756,15 +2756,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 723948,
-      "view": 295272635,
-      "danmaku": 78176,
-      "reply": 40124,
-      "coin": 531966,
-      "series_follow": 843860,
-      "series_view": 520227857,
-      "likes": 9632921,
-      "favorite": 756465
+      "follow": 723960,
+      "view": 295297346,
+      "danmaku": 78181,
+      "reply": 40130,
+      "coin": 531980,
+      "series_follow": 843876,
+      "series_view": 520262565,
+      "likes": 9633458,
+      "favorite": 756515
     },
     "new_ep": {
       "id": 775787,
@@ -2956,13 +2956,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 98344,
-      "view": 22348721,
-      "danmaku": 13926,
+      "follow": 98351,
+      "view": 22350737,
+      "danmaku": 13927,
       "reply": 4190,
-      "coin": 9270,
-      "likes": 389160,
-      "favorite": 39708
+      "coin": 9272,
+      "likes": 389165,
+      "favorite": 39714
     },
     "new_ep": {
       "id": 478272,
@@ -3116,15 +3116,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 275927,
-      "view": 19113061,
+      "follow": 275932,
+      "view": 19113546,
       "danmaku": 18105,
       "reply": 2682,
       "coin": 13296,
-      "series_follow": 363459,
-      "series_view": 36513113,
-      "likes": 63030,
-      "favorite": 57719
+      "series_follow": 363486,
+      "series_view": 36516745,
+      "likes": 63033,
+      "favorite": 57723
     },
     "new_ep": {
       "id": 1439376,
@@ -3295,15 +3295,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 15863,
-      "view": 1590905,
+      "follow": 15869,
+      "view": 1591075,
       "danmaku": 2541,
       "reply": 358,
-      "coin": 1778,
-      "series_follow": 38631,
-      "series_view": 5844157,
-      "likes": 8860,
-      "favorite": 3117
+      "coin": 1780,
+      "series_follow": 38642,
+      "series_view": 5845377,
+      "likes": 8862,
+      "favorite": 3119
     },
     "new_ep": {
       "id": 1364833,
@@ -3452,13 +3452,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 390633,
-      "view": 9251523,
+      "follow": 390645,
+      "view": 9251921,
       "danmaku": 63160,
       "reply": 9842,
-      "coin": 31347,
-      "likes": 103023,
-      "favorite": 31948
+      "coin": 31350,
+      "likes": 103031,
+      "favorite": 31950
     },
     "new_ep": {
       "id": 424738,
@@ -3591,13 +3591,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 343974,
-      "view": 7195850,
+      "follow": 343976,
+      "view": 7196047,
       "danmaku": 38377,
       "reply": 7074,
       "coin": 33266,
-      "likes": 91996,
-      "favorite": 27655
+      "likes": 91999,
+      "favorite": 27658
     },
     "new_ep": {
       "id": 385273,
@@ -3730,13 +3730,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1692215,
-      "view": 49810238,
-      "danmaku": 302310,
-      "reply": 41370,
-      "coin": 480458,
-      "likes": 656428,
-      "favorite": 208849
+      "follow": 1692265,
+      "view": 49812550,
+      "danmaku": 302318,
+      "reply": 41371,
+      "coin": 480477,
+      "likes": 656446,
+      "favorite": 208863
     },
     "new_ep": {
       "id": 285026,
@@ -3748,7 +3748,7 @@
     },
     "rating": {
       "score": 9.9,
-      "count": 61694
+      "count": 61697
     },
     "square_cover": "http://i0.hdslb.com/bfs/bangumi/f88f83acaed5acac4215d9c4c86e246891e32f8c.jpg",
     "season_status": 13,
@@ -3903,15 +3903,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1569383,
-      "view": 80059343,
-      "danmaku": 364127,
-      "reply": 67877,
-      "coin": 506541,
-      "series_follow": 1608414,
-      "series_view": 80059343,
-      "likes": 793650,
-      "favorite": 168874
+      "follow": 1569394,
+      "view": 80061286,
+      "danmaku": 364131,
+      "reply": 67879,
+      "coin": 506548,
+      "series_follow": 1608424,
+      "series_view": 80061286,
+      "likes": 793666,
+      "favorite": 168877
     },
     "new_ep": {
       "id": 744327,
@@ -4083,13 +4083,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1091433,
-      "view": 112787050,
-      "danmaku": 294502,
+      "follow": 1091444,
+      "view": 112788803,
+      "danmaku": 294504,
       "reply": 32226,
-      "coin": 392573,
-      "likes": 708793,
-      "favorite": 134892
+      "coin": 392579,
+      "likes": 708804,
+      "favorite": 134901
     },
     "new_ep": {
       "id": 469285,
@@ -4101,7 +4101,7 @@
     },
     "rating": {
       "score": 9.6,
-      "count": 44418
+      "count": 44419
     },
     "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/a5450da9d46e804fe0f25ad72da592d9679c0243.png",
     "season_status": 13,
@@ -4267,13 +4267,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 672037,
-      "view": 30796399,
-      "danmaku": 123525,
-      "reply": 14960,
+      "follow": 672034,
+      "view": 30798311,
+      "danmaku": 123554,
+      "reply": 14963,
       "coin": 55733,
-      "likes": 297813,
-      "favorite": 51702
+      "likes": 297847,
+      "favorite": 51704
     },
     "new_ep": {
       "id": 832061,
@@ -4415,13 +4415,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 374014,
-      "view": 12844282,
-      "danmaku": 43995,
-      "reply": 8212,
-      "coin": 72635,
-      "likes": 142580,
-      "favorite": 70148
+      "follow": 374055,
+      "view": 12845762,
+      "danmaku": 43997,
+      "reply": 8211,
+      "coin": 72642,
+      "likes": 142600,
+      "favorite": 70166
     },
     "new_ep": {
       "id": 835476,
@@ -4564,13 +4564,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 303366,
-      "view": 39707297,
-      "danmaku": 141220,
+      "follow": 303382,
+      "view": 39709277,
+      "danmaku": 141228,
       "reply": 12224,
-      "coin": 87803,
-      "likes": 304742,
-      "favorite": 58602
+      "coin": 87805,
+      "likes": 304757,
+      "favorite": 58604
     },
     "new_ep": {
       "id": 836282,
@@ -4582,7 +4582,7 @@
     },
     "rating": {
       "score": 9.2,
-      "count": 5393
+      "count": 5394
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/fc3c2ea2961cc67edbec474426321a7c2933f95e.png",
     "season_status": 13,
@@ -4724,15 +4724,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 371114,
-      "view": 44589754,
+      "follow": 371122,
+      "view": 44591775,
       "danmaku": 89802,
       "reply": 13320,
       "coin": 74035,
-      "series_follow": 420739,
-      "series_view": 48774249,
-      "likes": 1134099,
-      "favorite": 70186
+      "series_follow": 420748,
+      "series_view": 48776637,
+      "likes": 1134136,
+      "favorite": 70192
     },
     "new_ep": {
       "id": 385362,
@@ -4891,15 +4891,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 4084610,
-      "view": 80792056,
-      "danmaku": 1217785,
-      "reply": 110020,
-      "coin": 837755,
-      "series_follow": 5145288,
-      "series_view": 80792056,
-      "likes": 977247,
-      "favorite": 245643
+      "follow": 4084643,
+      "view": 80794432,
+      "danmaku": 1217799,
+      "reply": 110022,
+      "coin": 837771,
+      "series_follow": 5145327,
+      "series_view": 80794432,
+      "likes": 977276,
+      "favorite": 245657
     },
     "new_ep": {
       "id": 332658,
@@ -4911,7 +4911,7 @@
     },
     "rating": {
       "score": 9.6,
-      "count": 108060
+      "count": 108063
     },
     "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/12cc0512a9c339794d7e8b4eaa43cebc19fd9b89.png",
     "season_status": 13,
@@ -5047,13 +5047,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 540819,
-      "view": 14729129,
-      "danmaku": 33618,
+      "follow": 540843,
+      "view": 14730049,
+      "danmaku": 33620,
       "reply": 10162,
       "coin": 48556,
-      "likes": 128056,
-      "favorite": 81826
+      "likes": 128062,
+      "favorite": 81831
     },
     "new_ep": {
       "id": 1114726,
