@@ -1,5 +1,165 @@
 [
   {
+    "season_id": 229649,
+    "media_id": 393778114,
+    "season_type": 4,
+    "season_type_name": "国创",
+    "title": "放开那个女巫",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/41689cb93bd59088672adf8eb58f4cf699a44b40.jpg",
+    "total_count": 8,
+    "is_finish": 1,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "大会员",
+    "badge_type": 0,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 309195,
+      "view": 9759324,
+      "danmaku": 48621,
+      "reply": 22462,
+      "coin": 393256,
+      "series_follow": 309192,
+      "series_view": 9759324,
+      "likes": 332452,
+      "favorite": 79101
+    },
+    "new_ep": {
+      "id": 3706694,
+      "index_show": "全8话",
+      "cover": "http://i0.hdslb.com/bfs/archive/a040ce7a9f9461f70f57f56dcccc19b43a1e9992.jpg",
+      "title": "8",
+      "long_title": "妙手回春，众人齐心共迎邪魔之月",
+      "pub_time": "2026-06-05 10:00:02",
+      "duration": 1626000
+    },
+    "rating": {
+      "score": 9.9,
+      "count": 11293
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/d29d1c3fdd5300cc0399ecc0e3e9ee103f1c8e61.png",
+    "season_status": 13,
+    "season_title": "第一季",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 1536,
+    "evaluate": "现代人程岩意外猝死，魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊得发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "真实存在的女巫？",
+    "first_ep": 3706687,
+    "can_watch": 1,
+    "series": {
+      "series_id": 8073,
+      "title": "放开那个女巫",
+      "season_count": 4307,
+      "new_season_id": 39004,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2026-05-01 10:00:00",
+      "pub_time_show": "05月01日10:00",
+      "release_date": "2026-04-17",
+      "release_date_show": "2026年4月17日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 478081,
+        "season_id": 229649,
+        "limit_group": 328,
+        "watch_platform": 31,
+        "copyright": "bilibili",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 482349,
+        "season_id": 229649,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "ugc",
+        "title": "PV花絮",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss229649",
+    "badge_info": {
+      "text": "大会员",
+      "bg_color": "#FB7299",
+      "bg_color_night": "#D44E7D",
+      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
+      }
+    },
+    "renewal_time": "每周五 10:00更新",
+    "first_ep_info": {
+      "id": 3706687,
+      "cover": "http://i0.hdslb.com/bfs/archive/f634bacab311d1bbc46b7932cc7c31a63e9ac784.jpg",
+      "title": "1",
+      "long_title": "魂穿中土，异界称王解救蒙冤女巫",
+      "pub_time": "2026-05-01 10:00:03",
+      "duration": 1358000
+    },
+    "formal_ep_count": 8,
+    "short_url": "https://b23.tv/ss229649",
+    "season_version": "tv",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/bcbc3ef9f5a9f3035b96b18316d4400fc96bddea.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/ab5cf6c136d9b1858553ca631235f0213c0cf7a0.jpg",
+    "viewable_crowd_type": 18,
+    "summary": "现代人程岩意外猝死，魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊得发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安娜施展出的魔法技能后，意识到魔法可以代替现代部分科技的罗兰，随即制定出“魔法工业大发展”的计划。于是，在这个人人都厌恶女巫的时代，特立独行的罗兰开始征兆女巫们，利用女巫们的魔法改造边陲镇、改善自己以及当地人的生活。罗兰除了利用魔法发展工业外，还将现代的商贸思路引入边陲镇，罗兰的带领下，人们制造出火枪，罗兰也获得了民意。随着罗兰阵营女巫人数的增加，魔法工业不断提升；同时，罗兰接下来又将面对与大家族、其他王子王女的博弈战。随着踏足版图的扩展，罗兰成功创造了女巫与普通人和谐共存的环境，逐步将灰堡西境、乃至整个王国纳入治下，也慢慢揭开了魔鬼族、女巫帝国的秘密。",
+    "styles": [
+      "小说改",
+      "热血",
+      "奇幻",
+      "战斗"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "drm_supported": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "inline_episode_id": {
+        "type_url": "type.googleapis.com/google.protobuf.Int64Value",
+        "value": "CNGe4gE="
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
     "season_id": 45969,
     "media_id": 21082961,
     "season_type": 4,
@@ -21,15 +181,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 6575582,
-      "view": 1826605437,
-      "danmaku": 3525718,
-      "reply": 340139,
-      "coin": 6573247,
-      "series_follow": 6575530,
-      "series_view": 1826605437,
-      "likes": 11995720,
-      "favorite": 1473570
+      "follow": 6575994,
+      "view": 1826841179,
+      "danmaku": 3525991,
+      "reply": 340238,
+      "coin": 6573842,
+      "series_follow": 6575942,
+      "series_view": 1826841179,
+      "likes": 11997523,
+      "favorite": 1473727
     },
     "new_ep": {
       "id": 3537931,
@@ -42,7 +202,7 @@
     },
     "rating": {
       "score": 9.6,
-      "count": 19940
+      "count": 19945
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/eb6054ae7d37283a484019152197c69b2950da2e.png",
     "season_status": 13,
@@ -251,15 +411,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 4901180,
-      "view": 836599105,
-      "danmaku": 2252879,
-      "reply": 197274,
-      "coin": 1594947,
-      "series_follow": 5022050,
-      "series_view": 836599105,
-      "likes": 3086219,
-      "favorite": 478397
+      "follow": 4901292,
+      "view": 836663857,
+      "danmaku": 2253035,
+      "reply": 197277,
+      "coin": 1595099,
+      "series_follow": 5022174,
+      "series_view": 836663857,
+      "likes": 3086415,
+      "favorite": 478423
     },
     "new_ep": {
       "id": 2508254,
@@ -272,7 +432,7 @@
     },
     "rating": {
       "score": 8.6,
-      "count": 37845
+      "count": 37848
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/e8b5c06f6f11c5cd982823bd6d1c7be61ac194f3.png",
     "season_status": 13,
@@ -467,166 +627,6 @@
     "both_follow": false
   },
   {
-    "season_id": 229649,
-    "media_id": 393778114,
-    "season_type": 4,
-    "season_type_name": "国创",
-    "title": "放开那个女巫",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/image/41689cb93bd59088672adf8eb58f4cf699a44b40.jpg",
-    "total_count": 8,
-    "is_finish": 0,
-    "is_started": 1,
-    "is_play": 1,
-    "badge": "大会员",
-    "badge_type": 0,
-    "rights": {
-      "allow_review": 1,
-      "allow_preview": 1,
-      "is_selection": 1,
-      "selection_style": 1,
-      "demand_end_time": {},
-      "is_rcmd": 1
-    },
-    "stat": {
-      "follow": 307497,
-      "view": 9644477,
-      "danmaku": 47839,
-      "reply": 21875,
-      "coin": 387681,
-      "series_follow": 307497,
-      "series_view": 9644477,
-      "likes": 327613,
-      "favorite": 78037
-    },
-    "new_ep": {
-      "id": 3706693,
-      "index_show": "更新至第7话",
-      "cover": "http://i0.hdslb.com/bfs/archive/3e11f95c7e7a3d244947551fcf18b6202096a40f.jpg",
-      "title": "7",
-      "long_title": "人终一死，轻于鸿毛亦或重于泰山",
-      "pub_time": "2026-05-29 10:00:02",
-      "duration": 1504000
-    },
-    "rating": {
-      "score": 9.9,
-      "count": 11040
-    },
-    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/d29d1c3fdd5300cc0399ecc0e3e9ee103f1c8e61.png",
-    "season_status": 13,
-    "season_title": "第一季",
-    "badge_ep": "",
-    "media_attr": 196608,
-    "season_attr": 1536,
-    "evaluate": "现代人程岩意外猝死，魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊得发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安...",
-    "areas": [
-      {
-        "id": 1,
-        "name": "中国大陆"
-      }
-    ],
-    "subtitle": "真实存在的女巫？",
-    "first_ep": 3706687,
-    "can_watch": 1,
-    "series": {
-      "series_id": 8073,
-      "title": "放开那个女巫",
-      "season_count": 4307,
-      "new_season_id": 39004,
-      "series_ord": 1
-    },
-    "publish": {
-      "pub_time": "2026-05-01 10:00:00",
-      "pub_time_show": "05月01日10:00",
-      "release_date": "2026-04-17",
-      "release_date_show": "2026年4月17日"
-    },
-    "mode": 2,
-    "section": [
-      {
-        "section_id": 478081,
-        "season_id": 229649,
-        "limit_group": 328,
-        "watch_platform": 31,
-        "copyright": "bilibili",
-        "ban_area_show": 1,
-        "episode_ids": [
-          0
-        ]
-      },
-      {
-        "section_id": 482349,
-        "season_id": 229649,
-        "limit_group": 316,
-        "watch_platform": 31,
-        "type": 1,
-        "copyright": "ugc",
-        "title": "PV花絮",
-        "ban_area_show": 1,
-        "episode_ids": [
-          0
-        ]
-      }
-    ],
-    "url": "https://www.bilibili.com/bangumi/play/ss229649",
-    "badge_info": {
-      "text": "大会员",
-      "bg_color": "#FB7299",
-      "bg_color_night": "#D44E7D",
-      "img": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
-      "multi_img": {
-        "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
-        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
-    },
-    "renewal_time": "每周五 10:00更新",
-    "first_ep_info": {
-      "id": 3706687,
-      "cover": "http://i0.hdslb.com/bfs/archive/f634bacab311d1bbc46b7932cc7c31a63e9ac784.jpg",
-      "title": "1",
-      "long_title": "魂穿中土，异界称王解救蒙冤女巫",
-      "pub_time": "2026-05-01 10:00:03",
-      "duration": 1358000
-    },
-    "formal_ep_count": 7,
-    "short_url": "https://b23.tv/ss229649",
-    "season_version": "tv",
-    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/bcbc3ef9f5a9f3035b96b18316d4400fc96bddea.png",
-    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/ab5cf6c136d9b1858553ca631235f0213c0cf7a0.jpg",
-    "viewable_crowd_type": 18,
-    "summary": "现代人程岩意外猝死，魂穿越到了欧洲中世纪风格的异世界大陆，成为灰堡王国的四王子罗兰。这位纨绔王子，在一场处死女巫的刑场上救下了女巫安娜，并震惊得发现这个中世纪风格的异世界，魔法真的存在！当身为女巫的安娜施展出的魔法技能后，意识到魔法可以代替现代部分科技的罗兰，随即制定出“魔法工业大发展”的计划。于是，在这个人人都厌恶女巫的时代，特立独行的罗兰开始征兆女巫们，利用女巫们的魔法改造边陲镇、改善自己以及当地人的生活。罗兰除了利用魔法发展工业外，还将现代的商贸思路引入边陲镇，罗兰的带领下，人们制造出火枪，罗兰也获得了民意。随着罗兰阵营女巫人数的增加，魔法工业不断提升；同时，罗兰接下来又将面对与大家族、其他王子王女的博弈战。随着踏足版图的扩展，罗兰成功创造了女巫与普通人和谐共存的环境，逐步将灰堡西境、乃至整个王国纳入治下，也慢慢揭开了魔鬼族、女巫帝国的秘密。",
-    "styles": [
-      "小说改",
-      "热血",
-      "奇幻",
-      "战斗"
-    ],
-    "config_attrs": {
-      "cc_on_lock": {
-        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
-      },
-      "drm_supported": {
-        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
-      },
-      "highlight_ineffective_hd": {
-        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
-      },
-      "highlight_ineffective_ott": {
-        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
-      },
-      "highlight_ineffective_pink": {
-        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
-      },
-      "inline_episode_id": {
-        "type_url": "type.googleapis.com/google.protobuf.Int64Value",
-        "value": "CNGe4gE="
-      }
-    },
-    "follow_status": 2,
-    "is_new": 0,
-    "progress": "",
-    "both_follow": false
-  },
-  {
     "season_id": 91894,
     "media_id": 25589743,
     "season_type": 1,
@@ -648,15 +648,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 201443,
-      "view": 12706976,
+      "follow": 201464,
+      "view": 12708120,
       "danmaku": 20774,
       "reply": 3051,
       "coin": 9693,
-      "series_follow": 201446,
-      "series_view": 12706976,
-      "likes": 56898,
-      "favorite": 20196
+      "series_follow": 201467,
+      "series_view": 12708120,
+      "likes": 56899,
+      "favorite": 20205
     },
     "new_ep": {
       "id": 1829838,
@@ -669,7 +669,7 @@
     },
     "rating": {
       "score": 5.9,
-      "count": 885
+      "count": 886
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/30309601d9d63499df5c7302e213685f280a5bd1.png",
     "season_status": 13,
@@ -848,15 +848,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1254967,
-      "view": 453983797,
-      "danmaku": 261217,
-      "reply": 51016,
-      "coin": 425975,
-      "series_follow": 1254955,
-      "series_view": 453983797,
-      "likes": 2801100,
-      "favorite": 368280
+      "follow": 1255004,
+      "view": 454018647,
+      "danmaku": 261224,
+      "reply": 51019,
+      "coin": 426006,
+      "series_follow": 1254992,
+      "series_view": 454018647,
+      "likes": 2801252,
+      "favorite": 368291
     },
     "new_ep": {
       "id": 3626710,
@@ -1045,15 +1045,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 954459,
-      "view": 85658123,
-      "danmaku": 163555,
-      "reply": 32901,
-      "coin": 267140,
-      "series_follow": 954459,
-      "series_view": 85658123,
-      "likes": 476446,
-      "favorite": 110057
+      "follow": 954482,
+      "view": 85666598,
+      "danmaku": 163563,
+      "reply": 32903,
+      "coin": 267172,
+      "series_follow": 954482,
+      "series_view": 85666598,
+      "likes": 476489,
+      "favorite": 110056
     },
     "new_ep": {
       "id": 2401924,
@@ -1066,7 +1066,7 @@
     },
     "rating": {
       "score": 8.6,
-      "count": 6820
+      "count": 6821
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/a690a40931ef73364a6bb4ea78e063c34795c750.png",
     "season_status": 13,
@@ -1245,15 +1245,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 16679778,
-      "view": 6481574712,
-      "danmaku": 36225080,
-      "reply": 2839646,
-      "coin": 58793937,
-      "series_follow": 16679581,
-      "series_view": 6481574712,
-      "likes": 57441015,
-      "favorite": 7378822
+      "follow": 16681001,
+      "view": 6482191434,
+      "danmaku": 36227825,
+      "reply": 2839735,
+      "coin": 58797667,
+      "series_follow": 16680804,
+      "series_view": 6482191434,
+      "likes": 57444823,
+      "favorite": 7379274
     },
     "new_ep": {
       "id": 1231584,
@@ -1266,7 +1266,7 @@
     },
     "rating": {
       "score": 9.7,
-      "count": 385955
+      "count": 385992
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/e498647cae38ac05efb4f1119b36e8e911b22b34.png",
     "season_status": 13,
@@ -1506,15 +1506,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 797709,
-      "view": 38585638,
-      "danmaku": 97569,
-      "reply": 23213,
-      "coin": 95207,
-      "series_follow": 797709,
-      "series_view": 38585638,
-      "likes": 314688,
-      "favorite": 113281
+      "follow": 797763,
+      "view": 38589794,
+      "danmaku": 97579,
+      "reply": 23214,
+      "coin": 95211,
+      "series_follow": 797763,
+      "series_view": 38589794,
+      "likes": 314708,
+      "favorite": 113289
     },
     "new_ep": {
       "id": 3473678,
@@ -1720,15 +1720,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 4974666,
-      "view": 772927510,
-      "danmaku": 3293573,
-      "reply": 203414,
-      "coin": 2207139,
-      "series_follow": 5438821,
-      "series_view": 1200812570,
-      "likes": 10214479,
-      "favorite": 801651
+      "follow": 4974825,
+      "view": 772980911,
+      "danmaku": 3293695,
+      "reply": 203419,
+      "coin": 2207237,
+      "series_follow": 5438963,
+      "series_view": 1200890681,
+      "likes": 10215221,
+      "favorite": 801719
     },
     "new_ep": {
       "id": 394945,
@@ -1741,7 +1741,7 @@
     },
     "rating": {
       "score": 9.9,
-      "count": 75807
+      "count": 75808
     },
     "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/3b71bac8a6179e3bdbcad7171e7a57a58a3d490c.png",
     "season_status": 13,
@@ -1918,15 +1918,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 4472791,
-      "view": 17899705,
-      "danmaku": 49615,
-      "reply": 8204,
-      "coin": 25523,
-      "series_follow": 5593179,
-      "series_view": 446114089,
-      "likes": 231626,
-      "favorite": 28719
+      "follow": 4472794,
+      "view": 17902211,
+      "danmaku": 49618,
+      "reply": 8205,
+      "coin": 25526,
+      "series_follow": 5593272,
+      "series_view": 446135014,
+      "likes": 231687,
+      "favorite": 28718
     },
     "new_ep": {
       "id": 1809215,
@@ -2083,14 +2083,14 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 2368641,
-      "view": 3445570,
+      "follow": 2368662,
+      "view": 3446987,
       "danmaku": 2405,
-      "reply": 4000,
-      "coin": 8978,
-      "series_follow": 2463545,
-      "series_view": 204481174,
-      "likes": 23773,
+      "reply": 4002,
+      "coin": 8980,
+      "series_follow": 2463583,
+      "series_view": 204487149,
+      "likes": 23774,
       "favorite": 7306
     },
     "new_ep": {
@@ -2247,15 +2247,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 2406303,
-      "view": 143478706,
-      "danmaku": 328628,
-      "reply": 39292,
-      "coin": 454242,
-      "series_follow": 2406289,
-      "series_view": 143478706,
-      "likes": 3220928,
-      "favorite": 202287
+      "follow": 2406352,
+      "view": 143494234,
+      "danmaku": 328632,
+      "reply": 39293,
+      "coin": 454294,
+      "series_follow": 2406338,
+      "series_view": 143494234,
+      "likes": 3221372,
+      "favorite": 202328
     },
     "new_ep": {
       "id": 736323,
@@ -2443,15 +2443,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 4975330,
-      "view": 512596784,
-      "danmaku": 6139707,
+      "follow": 4975347,
+      "view": 512606312,
+      "danmaku": 6139721,
       "reply": 336620,
-      "coin": 1130681,
-      "series_follow": 7261035,
-      "series_view": 824439239,
-      "likes": 2291784,
-      "favorite": 91545
+      "coin": 1130688,
+      "series_follow": 7261066,
+      "series_view": 824455645,
+      "likes": 2291916,
+      "favorite": 91557
     },
     "new_ep": {
       "id": 267946,
@@ -2590,14 +2590,14 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 4714774,
-      "view": 271393898,
-      "danmaku": 2300868,
-      "reply": 129003,
-      "coin": 553904,
-      "series_follow": 7261035,
-      "series_view": 824439239,
-      "likes": 1528844,
+      "follow": 4714794,
+      "view": 271399067,
+      "danmaku": 2300908,
+      "reply": 129005,
+      "coin": 553906,
+      "series_follow": 7261066,
+      "series_view": 824455645,
+      "likes": 1528910,
       "favorite": 111964
     },
     "new_ep": {
@@ -2724,15 +2724,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 2398818,
-      "view": 201035604,
-      "danmaku": 415297,
-      "reply": 53890,
-      "coin": 547310,
-      "series_follow": 2463545,
-      "series_view": 204481174,
-      "likes": 1196756,
-      "favorite": 184516
+      "follow": 2398837,
+      "view": 201040162,
+      "danmaku": 415303,
+      "reply": 53886,
+      "coin": 547318,
+      "series_follow": 2463583,
+      "series_view": 204487149,
+      "likes": 1196775,
+      "favorite": 184525
     },
     "new_ep": {
       "id": 756204,
@@ -2915,15 +2915,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 2046545,
-      "view": 63880376,
-      "danmaku": 356780,
-      "reply": 26138,
-      "coin": 416796,
-      "series_follow": 2046529,
-      "series_view": 63880376,
-      "likes": 804413,
-      "favorite": 258055
+      "follow": 2046899,
+      "view": 63892925,
+      "danmaku": 356817,
+      "reply": 26140,
+      "coin": 416882,
+      "series_follow": 2046883,
+      "series_view": 63892925,
+      "likes": 804546,
+      "favorite": 258100
     },
     "new_ep": {
       "id": 2218657,
@@ -3116,15 +3116,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 9205236,
-      "view": 491545763,
-      "danmaku": 2946805,
+      "follow": 9205185,
+      "view": 491557167,
+      "danmaku": 2946818,
       "reply": 414427,
-      "coin": 2450815,
-      "series_follow": 10941807,
-      "series_view": 1228732992,
-      "likes": 5933166,
-      "favorite": 173943
+      "coin": 2450831,
+      "series_follow": 10941813,
+      "series_view": 1228775014,
+      "likes": 5933333,
+      "favorite": 173952
     },
     "new_ep": {
       "id": 409826,
@@ -3292,15 +3292,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 7980308,
-      "view": 524109354,
-      "danmaku": 5177350,
-      "reply": 471133,
-      "coin": 2173143,
-      "series_follow": 10941807,
-      "series_view": 1228732992,
-      "likes": 2746128,
-      "favorite": 114497
+      "follow": 7980331,
+      "view": 524120613,
+      "danmaku": 5177357,
+      "reply": 471137,
+      "coin": 2173201,
+      "series_follow": 10941813,
+      "series_view": 1228775014,
+      "likes": 2746318,
+      "favorite": 114501
     },
     "new_ep": {
       "id": 366494,
@@ -3447,15 +3447,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 113718,
-      "view": 4805972,
+      "follow": 113720,
+      "view": 4806064,
       "danmaku": 46057,
       "reply": 2518,
       "coin": 8446,
-      "series_follow": 2471386,
-      "series_view": 376253193,
+      "series_follow": 2471412,
+      "series_view": 376272506,
       "likes": 25645,
-      "favorite": 10555
+      "favorite": 10556
     },
     "new_ep": {
       "id": 63679,
@@ -3585,15 +3585,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 2933271,
-      "view": 132380268,
-      "danmaku": 545287,
-      "reply": 77693,
-      "coin": 728924,
-      "series_follow": 5484299,
-      "series_view": 1000771343,
-      "likes": 2293124,
-      "favorite": 194047
+      "follow": 2933263,
+      "view": 132382480,
+      "danmaku": 545291,
+      "reply": 77697,
+      "coin": 728929,
+      "series_follow": 5484330,
+      "series_view": 1000791434,
+      "likes": 2293166,
+      "favorite": 194059
     },
     "new_ep": {
       "id": 312273,
@@ -3730,14 +3730,14 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1343766,
-      "view": 110591628,
-      "danmaku": 458519,
-      "reply": 83306,
-      "coin": 385732,
-      "series_follow": 5484299,
-      "series_view": 1000771343,
-      "likes": 1177703,
+      "follow": 1343769,
+      "view": 110593628,
+      "danmaku": 458520,
+      "reply": 83307,
+      "coin": 385733,
+      "series_follow": 5484330,
+      "series_view": 1000791434,
+      "likes": 1177735,
       "favorite": 98673
     },
     "new_ep": {
@@ -3860,15 +3860,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1469467,
-      "view": 194250741,
-      "danmaku": 477809,
-      "reply": 69330,
-      "coin": 517439,
-      "series_follow": 5484299,
-      "series_view": 1000771343,
-      "likes": 2386270,
-      "favorite": 177552
+      "follow": 1469472,
+      "view": 194255030,
+      "danmaku": 477810,
+      "reply": 69331,
+      "coin": 517440,
+      "series_follow": 5484330,
+      "series_view": 1000791434,
+      "likes": 2386349,
+      "favorite": 177557
     },
     "new_ep": {
       "id": 102200,
@@ -3989,15 +3989,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 869353,
-      "view": 54580890,
-      "danmaku": 239623,
+      "follow": 869355,
+      "view": 54581680,
+      "danmaku": 239625,
       "reply": 21648,
       "coin": 350152,
-      "series_follow": 5484299,
-      "series_view": 1000771343,
-      "likes": 742025,
-      "favorite": 68977
+      "series_follow": 5484330,
+      "series_view": 1000791434,
+      "likes": 742040,
+      "favorite": 68978
     },
     "new_ep": {
       "id": 95913,
@@ -4117,15 +4117,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1662947,
-      "view": 211536619,
-      "danmaku": 1764832,
-      "reply": 54659,
+      "follow": 1662946,
+      "view": 211539826,
+      "danmaku": 1764839,
+      "reply": 54660,
       "coin": 701623,
-      "series_follow": 5484299,
-      "series_view": 1000771343,
-      "likes": 2393000,
-      "favorite": 191687
+      "series_follow": 5484330,
+      "series_view": 1000791434,
+      "likes": 2393056,
+      "favorite": 191702
     },
     "new_ep": {
       "id": 86193,
@@ -4247,15 +4247,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 3392303,
-      "view": 276855280,
-      "danmaku": 3461049,
+      "follow": 3392310,
+      "view": 276860524,
+      "danmaku": 3461069,
       "reply": 138742,
-      "coin": 1837612,
-      "series_follow": 5484299,
-      "series_view": 1000771343,
-      "likes": 3318537,
-      "favorite": 377645
+      "coin": 1837634,
+      "series_follow": 5484330,
+      "series_view": 1000791434,
+      "likes": 3318605,
+      "favorite": 377658
     },
     "new_ep": {
       "id": 64435,
@@ -4378,15 +4378,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 8858828,
-      "view": 512278525,
+      "follow": 8858797,
+      "view": 512279087,
       "danmaku": 2582742,
-      "reply": 219881,
+      "reply": 219882,
       "coin": 2646101,
-      "series_follow": 8999672,
-      "series_view": 548992895,
-      "likes": 5793070,
-      "favorite": 463405
+      "series_follow": 8999657,
+      "series_view": 548994032,
+      "likes": 5793080,
+      "favorite": 463400
     },
     "new_ep": {
       "id": 473805,
@@ -4575,15 +4575,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 3249506,
-      "view": 281501999,
-      "danmaku": 916068,
-      "reply": 96378,
-      "coin": 648648,
-      "series_follow": 3249451,
-      "series_view": 281501999,
-      "likes": 4155455,
-      "favorite": 327926
+      "follow": 3249560,
+      "view": 281519895,
+      "danmaku": 916087,
+      "reply": 96382,
+      "coin": 648655,
+      "series_follow": 3249505,
+      "series_view": 281519895,
+      "likes": 4155826,
+      "favorite": 327948
     },
     "new_ep": {
       "id": 823842,
@@ -4799,15 +4799,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 5492635,
-      "view": 428214384,
-      "danmaku": 1341437,
-      "reply": 129796,
-      "coin": 2020584,
-      "series_follow": 5593179,
-      "series_view": 446114089,
-      "likes": 6719689,
-      "favorite": 621733
+      "follow": 5492726,
+      "view": 428232923,
+      "danmaku": 1341451,
+      "reply": 129802,
+      "coin": 2020617,
+      "series_follow": 5593272,
+      "series_view": 446135014,
+      "likes": 6720062,
+      "favorite": 621751
     },
     "new_ep": {
       "id": 819062,
@@ -4820,7 +4820,7 @@
     },
     "rating": {
       "score": 9.9,
-      "count": 68217
+      "count": 68219
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/09998dde2e717c59a988e6b98a4e4351c680da7c.png",
     "season_status": 13,
