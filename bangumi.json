@@ -1,5 +1,235 @@
 [
   {
+    "season_id": 45969,
+    "media_id": 21082961,
+    "season_type": 4,
+    "season_type_name": "国创",
+    "title": "牧神记",
+    "cover": "https://i0.hdslb.com/bfs/bangumi/image/32a2172ad93a82ebc9ac175c7b53b4d35c5826b6.png",
+    "total_count": 0,
+    "is_finish": 0,
+    "is_started": 1,
+    "is_play": 1,
+    "badge": "出品",
+    "badge_type": 1,
+    "rights": {
+      "allow_review": 1,
+      "allow_preview": 1,
+      "is_selection": 1,
+      "selection_style": 1,
+      "demand_end_time": {},
+      "is_rcmd": 1
+    },
+    "stat": {
+      "follow": 6833539,
+      "view": 1978275998,
+      "danmaku": 3767115,
+      "reply": 372119,
+      "coin": 7167801,
+      "series_follow": 6833479,
+      "series_view": 1978275998,
+      "likes": 13309276,
+      "favorite": 1600616
+    },
+    "new_ep": {
+      "id": 3537939,
+      "index_show": "更新至第93话",
+      "cover": "http://i0.hdslb.com/bfs/archive/9cc7663ff324cabbb997277dbeebad101300ec27.png",
+      "title": "93",
+      "long_title": "弑帝",
+      "pub_time": "2026-07-26 11:00:01",
+      "duration": 1317000
+    },
+    "rating": {
+      "score": 9.6,
+      "count": 22641
+    },
+    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/eb6054ae7d37283a484019152197c69b2950da2e.png",
+    "season_status": 13,
+    "season_title": "动画",
+    "badge_ep": "",
+    "media_attr": 196608,
+    "season_attr": 11776,
+    "evaluate": "主角秦牧，幼时被一女尸托举至涌江边并被司婆婆捡到，村长根据玉佩上的字为其取名为“秦牧”。被一只母牛哺乳长大，是天生凡体，但被村长骗为霸体，修炼霸体三丹功。后走出大墟闯荡，进入京城，拜入太学院。历经考验...",
+    "areas": [
+      {
+        "id": 1,
+        "name": "中国大陆"
+      }
+    ],
+    "subtitle": "放牛少年，放牧诸神",
+    "first_ep": 836727,
+    "can_watch": 1,
+    "series": {
+      "series_id": 6707,
+      "title": "牧神记",
+      "season_count": 1,
+      "new_season_id": 45969,
+      "series_ord": 1
+    },
+    "publish": {
+      "pub_time": "2024-10-27 11:00:00",
+      "pub_time_show": "2024年10月27日11:00",
+      "release_date": "2024-10-27",
+      "release_date_show": "2024年10月27日"
+    },
+    "mode": 2,
+    "section": [
+      {
+        "section_id": 97682,
+        "season_id": 45969,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "copyright": "dujia",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 98025,
+        "season_id": 45969,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "type": 1,
+        "copyright": "dujia",
+        "title": "PV花絮",
+        "ban_area_show": 1,
+        "attr": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 261116,
+        "season_id": 45969,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "歌单",
+        "ban_area_show": 1,
+        "attr": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 103771,
+        "season_id": 45969,
+        "limit_group": 316,
+        "watch_platform": 31,
+        "type": 5,
+        "copyright": "ugc",
+        "title": "UP聊牧神",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      },
+      {
+        "section_id": 103763,
+        "season_id": 45969,
+        "limit_group": 1846,
+        "watch_platform": 31,
+        "type": 2,
+        "copyright": "dujia",
+        "title": "大墟秘闻",
+        "ban_area_show": 1,
+        "episode_ids": [
+          0
+        ]
+      }
+    ],
+    "url": "https://www.bilibili.com/bangumi/play/ss45969",
+    "badge_info": {
+      "text": "出品",
+      "bg_color": "#00C0FF",
+      "bg_color_night": "#0B91BE",
+      "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+      "multi_img": {
+        "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+      }
+    },
+    "renewal_time": "每周日 11:00更新",
+    "first_ep_info": {
+      "id": 836727,
+      "cover": "https://i0.hdslb.com/bfs/bangumi/image/0d074ff70b4ead90556ad9e08686238f835f1bea.png",
+      "title": "1",
+      "long_title": "天黑别出门",
+      "pub_time": "2024-10-27 11:00:00",
+      "duration": 1147833
+    },
+    "formal_ep_count": 93,
+    "short_url": "https://b23.tv/ss45969",
+    "badge_infos": {
+      "content_attr": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      },
+      "vip_or_pay": {
+        "text": "出品",
+        "bg_color": "#00C0FF",
+        "bg_color_night": "#0B91BE",
+        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+        "multi_img": {
+          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
+          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
+        }
+      }
+    },
+    "season_version": "tv",
+    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/ab42c7cf7bc8efebc8de889653d1424a4eb8ebe6.png",
+    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/29056393455fc622a82dde6891a5a5eabbe05471.png",
+    "subtitle_14": "且看秦牧为芸芸众生而战",
+    "viewable_crowd_type": 18,
+    "producers": [
+      {
+        "mid": 98627270,
+        "type": 1,
+        "is_contribute": 1,
+        "title": "出品"
+      },
+      {
+        "mid": 1538121878,
+        "type": 11,
+        "title": "策划"
+      }
+    ],
+    "summary": "主角秦牧，幼时被一女尸托举至涌江边并被司婆婆捡到，村长根据玉佩上的字为其取名为“秦牧”。被一只母牛哺乳长大，是天生凡体，但被村长骗为霸体，修炼霸体三丹功。后走出大墟闯荡，进入京城，拜入太学院。历经考验成为天魔教教主，并被延康国封为第一任太学博士。秦牧随武可汗入楼兰黄金宫，一个人打遍圣宫无敌手，麻翻无数大巫，盗走无数珍宝。后返回延康，助国师平叛、入京城斩杀太子、造射日神炮。秦牧得人皇传承成为新一代人皇。机缘巧合下遇到了亲生父亲，揭开了自己的身世，借助道门小玉京等人的帮助，开启了道法神通改革的大世。一步步逐渐成长，作为延康变法三杰之一，为芸芸众生而战。",
+    "styles": [
+      "小说改",
+      "热血",
+      "玄幻",
+      "战斗"
+    ],
+    "config_attrs": {
+      "cc_on_lock": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_hd": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_ott": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      },
+      "highlight_ineffective_pink": {
+        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
+      }
+    },
+    "follow_status": 2,
+    "is_new": 0,
+    "progress": "",
+    "both_follow": false
+  },
+  {
     "season_id": 28747,
     "media_id": 28223043,
     "season_type": 4,
@@ -21,15 +251,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 17489772,
-      "view": 6962843500,
-      "danmaku": 40871970,
-      "reply": 3184545,
-      "coin": 64675507,
-      "series_follow": 17489567,
-      "series_view": 6962843500,
-      "likes": 63116664,
-      "favorite": 8332662
+      "follow": 17491037,
+      "view": 6964271055,
+      "danmaku": 40880247,
+      "reply": 3184953,
+      "coin": 64686029,
+      "series_follow": 17490832,
+      "series_view": 6964271055,
+      "likes": 63128231,
+      "favorite": 8334304
     },
     "new_ep": {
       "id": 3854808,
@@ -42,7 +272,7 @@
     },
     "rating": {
       "score": 9.7,
-      "count": 447379
+      "count": 447425
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/e498647cae38ac05efb4f1119b36e8e911b22b34.png",
     "season_status": 13,
@@ -261,236 +491,6 @@
     "both_follow": false
   },
   {
-    "season_id": 45969,
-    "media_id": 21082961,
-    "season_type": 4,
-    "season_type_name": "国创",
-    "title": "牧神记",
-    "cover": "https://i0.hdslb.com/bfs/bangumi/image/32a2172ad93a82ebc9ac175c7b53b4d35c5826b6.png",
-    "total_count": 0,
-    "is_finish": 0,
-    "is_started": 1,
-    "is_play": 1,
-    "badge": "出品",
-    "badge_type": 1,
-    "rights": {
-      "allow_review": 1,
-      "allow_preview": 1,
-      "is_selection": 1,
-      "selection_style": 1,
-      "demand_end_time": {},
-      "is_rcmd": 1
-    },
-    "stat": {
-      "follow": 6832603,
-      "view": 1977655355,
-      "danmaku": 3765304,
-      "reply": 371888,
-      "coin": 7164300,
-      "series_follow": 6832544,
-      "series_view": 1977655355,
-      "likes": 13303208,
-      "favorite": 1599945
-    },
-    "new_ep": {
-      "id": 3537938,
-      "index_show": "更新至第92话",
-      "cover": "http://i0.hdslb.com/bfs/archive/1446759f2abc194a00cf579a174ef42a295a6de4.png",
-      "title": "92",
-      "long_title": "牛车",
-      "pub_time": "2026-07-19 11:00:06",
-      "duration": 1244198
-    },
-    "rating": {
-      "score": 9.6,
-      "count": 22616
-    },
-    "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/eb6054ae7d37283a484019152197c69b2950da2e.png",
-    "season_status": 13,
-    "season_title": "动画",
-    "badge_ep": "",
-    "media_attr": 196608,
-    "season_attr": 11776,
-    "evaluate": "主角秦牧，幼时被一女尸托举至涌江边并被司婆婆捡到，村长根据玉佩上的字为其取名为“秦牧”。被一只母牛哺乳长大，是天生凡体，但被村长骗为霸体，修炼霸体三丹功。后走出大墟闯荡，进入京城，拜入太学院。历经考验...",
-    "areas": [
-      {
-        "id": 1,
-        "name": "中国大陆"
-      }
-    ],
-    "subtitle": "放牛少年，放牧诸神",
-    "first_ep": 836727,
-    "can_watch": 1,
-    "series": {
-      "series_id": 6707,
-      "title": "牧神记",
-      "season_count": 1,
-      "new_season_id": 45969,
-      "series_ord": 1
-    },
-    "publish": {
-      "pub_time": "2024-10-27 11:00:00",
-      "pub_time_show": "2024年10月27日11:00",
-      "release_date": "2024-10-27",
-      "release_date_show": "2024年10月27日"
-    },
-    "mode": 2,
-    "section": [
-      {
-        "section_id": 97682,
-        "season_id": 45969,
-        "limit_group": 1846,
-        "watch_platform": 31,
-        "copyright": "dujia",
-        "ban_area_show": 1,
-        "episode_ids": [
-          0
-        ]
-      },
-      {
-        "section_id": 98025,
-        "season_id": 45969,
-        "limit_group": 1846,
-        "watch_platform": 31,
-        "type": 1,
-        "copyright": "dujia",
-        "title": "PV花絮",
-        "ban_area_show": 1,
-        "attr": 1,
-        "episode_ids": [
-          0
-        ]
-      },
-      {
-        "section_id": 261116,
-        "season_id": 45969,
-        "limit_group": 1846,
-        "watch_platform": 31,
-        "type": 2,
-        "copyright": "dujia",
-        "title": "歌单",
-        "ban_area_show": 1,
-        "attr": 1,
-        "episode_ids": [
-          0
-        ]
-      },
-      {
-        "section_id": 103771,
-        "season_id": 45969,
-        "limit_group": 316,
-        "watch_platform": 31,
-        "type": 5,
-        "copyright": "ugc",
-        "title": "UP聊牧神",
-        "ban_area_show": 1,
-        "episode_ids": [
-          0
-        ]
-      },
-      {
-        "section_id": 103763,
-        "season_id": 45969,
-        "limit_group": 1846,
-        "watch_platform": 31,
-        "type": 2,
-        "copyright": "dujia",
-        "title": "大墟秘闻",
-        "ban_area_show": 1,
-        "episode_ids": [
-          0
-        ]
-      }
-    ],
-    "url": "https://www.bilibili.com/bangumi/play/ss45969",
-    "badge_info": {
-      "text": "出品",
-      "bg_color": "#00C0FF",
-      "bg_color_night": "#0B91BE",
-      "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
-      "multi_img": {
-        "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
-        "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
-      }
-    },
-    "renewal_time": "每周日 11:00更新",
-    "first_ep_info": {
-      "id": 836727,
-      "cover": "https://i0.hdslb.com/bfs/bangumi/image/0d074ff70b4ead90556ad9e08686238f835f1bea.png",
-      "title": "1",
-      "long_title": "天黑别出门",
-      "pub_time": "2024-10-27 11:00:00",
-      "duration": 1147833
-    },
-    "formal_ep_count": 92,
-    "short_url": "https://b23.tv/ss45969",
-    "badge_infos": {
-      "content_attr": {
-        "text": "出品",
-        "bg_color": "#00C0FF",
-        "bg_color_night": "#0B91BE",
-        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
-        "multi_img": {
-          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
-          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
-        }
-      },
-      "vip_or_pay": {
-        "text": "出品",
-        "bg_color": "#00C0FF",
-        "bg_color_night": "#0B91BE",
-        "img": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
-        "multi_img": {
-          "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
-          "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
-        }
-      }
-    },
-    "season_version": "tv",
-    "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/ab42c7cf7bc8efebc8de889653d1424a4eb8ebe6.png",
-    "horizontal_cover_16_10": "https://i0.hdslb.com/bfs/bangumi/image/29056393455fc622a82dde6891a5a5eabbe05471.png",
-    "subtitle_14": "且看秦牧为芸芸众生而战",
-    "viewable_crowd_type": 18,
-    "producers": [
-      {
-        "mid": 98627270,
-        "type": 1,
-        "is_contribute": 1,
-        "title": "出品"
-      },
-      {
-        "mid": 1538121878,
-        "type": 11,
-        "title": "策划"
-      }
-    ],
-    "summary": "主角秦牧，幼时被一女尸托举至涌江边并被司婆婆捡到，村长根据玉佩上的字为其取名为“秦牧”。被一只母牛哺乳长大，是天生凡体，但被村长骗为霸体，修炼霸体三丹功。后走出大墟闯荡，进入京城，拜入太学院。历经考验成为天魔教教主，并被延康国封为第一任太学博士。秦牧随武可汗入楼兰黄金宫，一个人打遍圣宫无敌手，麻翻无数大巫，盗走无数珍宝。后返回延康，助国师平叛、入京城斩杀太子、造射日神炮。秦牧得人皇传承成为新一代人皇。机缘巧合下遇到了亲生父亲，揭开了自己的身世，借助道门小玉京等人的帮助，开启了道法神通改革的大世。一步步逐渐成长，作为延康变法三杰之一，为芸芸众生而战。",
-    "styles": [
-      "小说改",
-      "热血",
-      "玄幻",
-      "战斗"
-    ],
-    "config_attrs": {
-      "cc_on_lock": {
-        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
-      },
-      "highlight_ineffective_hd": {
-        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
-      },
-      "highlight_ineffective_ott": {
-        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
-      },
-      "highlight_ineffective_pink": {
-        "type_url": "type.googleapis.com/google.protobuf.BoolValue"
-      }
-    },
-    "follow_status": 2,
-    "is_new": 0,
-    "progress": "",
-    "both_follow": false
-  },
-  {
     "season_id": 100274,
     "media_id": 26430690,
     "season_type": 1,
@@ -512,15 +512,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 197545,
-      "view": 9472419,
-      "danmaku": 37522,
-      "reply": 9872,
+      "follow": 197571,
+      "view": 9473608,
+      "danmaku": 37524,
+      "reply": 9873,
       "coin": 14720,
-      "series_follow": 197545,
-      "series_view": 9472419,
-      "likes": 115051,
-      "favorite": 15801
+      "series_follow": 197571,
+      "series_view": 9473608,
+      "likes": 115062,
+      "favorite": 15812
     },
     "new_ep": {
       "id": 2012051,
@@ -726,15 +726,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 385530,
-      "view": 14058664,
-      "danmaku": 69055,
-      "reply": 29067,
-      "coin": 562340,
-      "series_follow": 385529,
-      "series_view": 14058664,
-      "likes": 457503,
-      "favorite": 104744
+      "follow": 385611,
+      "view": 14062680,
+      "danmaku": 69067,
+      "reply": 29071,
+      "coin": 562471,
+      "series_follow": 385610,
+      "series_view": 14062680,
+      "likes": 457600,
+      "favorite": 104768
     },
     "new_ep": {
       "id": 3706694,
@@ -747,7 +747,7 @@
     },
     "rating": {
       "score": 9.9,
-      "count": 15983
+      "count": 15986
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/d29d1c3fdd5300cc0399ecc0e3e9ee103f1c8e61.png",
     "season_status": 13,
@@ -886,15 +886,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 4930122,
-      "view": 852333299,
-      "danmaku": 2295958,
-      "reply": 198649,
-      "coin": 1626376,
-      "series_follow": 5054080,
-      "series_view": 852333299,
-      "likes": 3157941,
-      "favorite": 484630
+      "follow": 4930144,
+      "view": 852356071,
+      "danmaku": 2295984,
+      "reply": 198652,
+      "coin": 1626447,
+      "series_follow": 5054109,
+      "series_view": 852356071,
+      "likes": 3158015,
+      "favorite": 484644
     },
     "new_ep": {
       "id": 2508254,
@@ -1123,15 +1123,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 207840,
-      "view": 13165208,
-      "danmaku": 21460,
-      "reply": 3104,
+      "follow": 207864,
+      "view": 13166900,
+      "danmaku": 21464,
+      "reply": 3107,
       "coin": 10063,
-      "series_follow": 207843,
-      "series_view": 13165208,
-      "likes": 58484,
-      "favorite": 21854
+      "series_follow": 207867,
+      "series_view": 13166900,
+      "likes": 58486,
+      "favorite": 21857
     },
     "new_ep": {
       "id": 1829838,
@@ -1144,7 +1144,7 @@
     },
     "rating": {
       "score": 5.8,
-      "count": 926
+      "count": 927
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/30309601d9d63499df5c7302e213685f280a5bd1.png",
     "season_status": 13,
@@ -1323,15 +1323,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1264773,
-      "view": 462656590,
-      "danmaku": 264663,
+      "follow": 1264807,
+      "view": 462683959,
+      "danmaku": 264672,
       "reply": 51541,
-      "coin": 434106,
-      "series_follow": 1264762,
-      "series_view": 462656590,
-      "likes": 2851661,
-      "favorite": 376606
+      "coin": 434125,
+      "series_follow": 1264796,
+      "series_view": 462683959,
+      "likes": 2851786,
+      "favorite": 376645
     },
     "new_ep": {
       "id": 3626710,
@@ -1520,15 +1520,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 964112,
-      "view": 88603339,
-      "danmaku": 171065,
+      "follow": 964115,
+      "view": 88608079,
+      "danmaku": 171076,
       "reply": 33368,
-      "coin": 275803,
-      "series_follow": 964112,
-      "series_view": 88603339,
-      "likes": 489905,
-      "favorite": 113241
+      "coin": 275812,
+      "series_follow": 964115,
+      "series_view": 88608079,
+      "likes": 489920,
+      "favorite": 113247
     },
     "new_ep": {
       "id": 2401924,
@@ -1720,15 +1720,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 819823,
-      "view": 40193281,
-      "danmaku": 101558,
-      "reply": 23612,
-      "coin": 100768,
-      "series_follow": 819823,
-      "series_view": 40193281,
-      "likes": 329663,
-      "favorite": 118408
+      "follow": 819925,
+      "view": 40199985,
+      "danmaku": 101566,
+      "reply": 23613,
+      "coin": 100787,
+      "series_follow": 819925,
+      "series_view": 40199985,
+      "likes": 329728,
+      "favorite": 118432
     },
     "new_ep": {
       "id": 3473678,
@@ -1741,7 +1741,7 @@
     },
     "rating": {
       "score": 9.6,
-      "count": 6142
+      "count": 6144
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/b0b55be5adf66b1343b8d8cd69c8702b9a036f29.png",
     "season_status": 13,
@@ -1934,15 +1934,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 5054484,
-      "view": 793988610,
-      "danmaku": 3351340,
-      "reply": 205876,
-      "coin": 2248749,
-      "series_follow": 5527316,
-      "series_view": 1231459435,
-      "likes": 10535010,
-      "favorite": 839358
+      "follow": 5054631,
+      "view": 794053185,
+      "danmaku": 3351458,
+      "reply": 205884,
+      "coin": 2248843,
+      "series_follow": 5527460,
+      "series_view": 1231553630,
+      "likes": 10535897,
+      "favorite": 839463
     },
     "new_ep": {
       "id": 394945,
@@ -2132,15 +2132,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 4462655,
-      "view": 19012365,
-      "danmaku": 52056,
-      "reply": 8412,
-      "coin": 26554,
-      "series_follow": 5645204,
-      "series_view": 453174088,
-      "likes": 263067,
-      "favorite": 31573
+      "follow": 4462676,
+      "view": 19015970,
+      "danmaku": 52062,
+      "reply": 8413,
+      "coin": 26558,
+      "series_follow": 5645317,
+      "series_view": 453194066,
+      "likes": 263153,
+      "favorite": 31587
     },
     "new_ep": {
       "id": 1809215,
@@ -2297,15 +2297,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 2374032,
-      "view": 4123332,
-      "danmaku": 2654,
-      "reply": 4718,
-      "coin": 10033,
-      "series_follow": 2484137,
-      "series_view": 207255089,
-      "likes": 25797,
-      "favorite": 8337
+      "follow": 2374058,
+      "view": 4125298,
+      "danmaku": 2655,
+      "reply": 4720,
+      "coin": 10035,
+      "series_follow": 2484204,
+      "series_view": 207262477,
+      "likes": 25804,
+      "favorite": 8340
     },
     "new_ep": {
       "index_show": "即将开播"
@@ -2461,15 +2461,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 2430402,
-      "view": 146927347,
-      "danmaku": 332327,
-      "reply": 40003,
-      "coin": 461639,
-      "series_follow": 2430388,
-      "series_view": 146927347,
-      "likes": 3316845,
-      "favorite": 209650
+      "follow": 2430437,
+      "view": 146935772,
+      "danmaku": 332336,
+      "reply": 40005,
+      "coin": 461659,
+      "series_follow": 2430423,
+      "series_view": 146935772,
+      "likes": 3317102,
+      "favorite": 209660
     },
     "new_ep": {
       "id": 736323,
@@ -2482,7 +2482,7 @@
     },
     "rating": {
       "score": 9.8,
-      "count": 25340
+      "count": 25342
     },
     "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/da1bbabc6368e059318f9b01024e79e130dc3fec.png",
     "season_status": 13,
@@ -2657,15 +2657,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 4982013,
-      "view": 515118211,
-      "danmaku": 6150266,
+      "follow": 4982021,
+      "view": 515124360,
+      "danmaku": 6150282,
       "reply": 336922,
-      "coin": 1133575,
-      "series_follow": 7273972,
-      "series_view": 828790867,
-      "likes": 2322703,
-      "favorite": 93233
+      "coin": 1133581,
+      "series_follow": 7273986,
+      "series_view": 828800968,
+      "likes": 2322748,
+      "favorite": 93235
     },
     "new_ep": {
       "id": 267946,
@@ -2804,15 +2804,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 4725026,
-      "view": 272858197,
-      "danmaku": 2314213,
+      "follow": 4725039,
+      "view": 272861077,
+      "danmaku": 2314236,
       "reply": 129374,
-      "coin": 555513,
-      "series_follow": 7273972,
-      "series_view": 828790867,
-      "likes": 1546537,
-      "favorite": 113699
+      "coin": 555518,
+      "series_follow": 7273986,
+      "series_view": 828800968,
+      "likes": 1546568,
+      "favorite": 113701
     },
     "new_ep": {
       "id": 96006,
@@ -2938,15 +2938,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 2412220,
-      "view": 203131757,
-      "danmaku": 419545,
-      "reply": 54098,
-      "coin": 552075,
-      "series_follow": 2484137,
-      "series_view": 207255089,
-      "likes": 1205822,
-      "favorite": 187710
+      "follow": 2412259,
+      "view": 203137179,
+      "danmaku": 419564,
+      "reply": 54099,
+      "coin": 552084,
+      "series_follow": 2484204,
+      "series_view": 207262477,
+      "likes": 1205854,
+      "favorite": 187718
     },
     "new_ep": {
       "id": 756204,
@@ -2959,7 +2959,7 @@
     },
     "rating": {
       "score": 9.6,
-      "count": 6224
+      "count": 6226
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/c716401ce187be4eacf04e951e0b6105aca344c6.png",
     "season_status": 13,
@@ -3129,15 +3129,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 2189360,
-      "view": 69647111,
-      "danmaku": 403087,
-      "reply": 26838,
-      "coin": 459335,
-      "series_follow": 2189342,
-      "series_view": 69647111,
-      "likes": 875013,
-      "favorite": 288156
+      "follow": 2189635,
+      "view": 69660497,
+      "danmaku": 403293,
+      "reply": 26839,
+      "coin": 459404,
+      "series_follow": 2189617,
+      "series_view": 69660497,
+      "likes": 875160,
+      "favorite": 288214
     },
     "new_ep": {
       "id": 2218657,
@@ -3150,7 +3150,7 @@
     },
     "rating": {
       "score": 9.6,
-      "count": 9442
+      "count": 9444
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/4228481d53f5b44275b4e12a94661cf2bac3476b.png",
     "season_status": 13,
@@ -3330,15 +3330,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 9212816,
-      "view": 494778002,
-      "danmaku": 2953790,
+      "follow": 9212850,
+      "view": 494787270,
+      "danmaku": 2953803,
       "reply": 414450,
-      "coin": 2455393,
-      "series_follow": 10969632,
-      "series_view": 1240761169,
-      "likes": 5964992,
-      "favorite": 176114
+      "coin": 2455404,
+      "series_follow": 10969641,
+      "series_view": 1240794526,
+      "likes": 5965063,
+      "favorite": 176121
     },
     "new_ep": {
       "id": 409826,
@@ -3506,15 +3506,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 7999902,
-      "view": 527536499,
-      "danmaku": 5183311,
+      "follow": 7999961,
+      "view": 527546234,
+      "danmaku": 5183325,
       "reply": 471526,
-      "coin": 2178158,
-      "series_follow": 10969632,
-      "series_view": 1240761169,
-      "likes": 2777374,
-      "favorite": 118356
+      "coin": 2178173,
+      "series_follow": 10969641,
+      "series_view": 1240794526,
+      "likes": 2777463,
+      "favorite": 118378
     },
     "new_ep": {
       "id": 366494,
@@ -3661,15 +3661,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 113992,
-      "view": 4840321,
+      "follow": 113991,
+      "view": 4840452,
       "danmaku": 46151,
       "reply": 2537,
       "coin": 8473,
-      "series_follow": 2483997,
-      "series_view": 384654083,
+      "series_follow": 2484041,
+      "series_view": 384685207,
       "likes": 25823,
-      "favorite": 10664
+      "favorite": 10663
     },
     "new_ep": {
       "id": 63679,
@@ -3799,15 +3799,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 2932799,
-      "view": 133109784,
-      "danmaku": 548750,
+      "follow": 2932787,
+      "view": 133112481,
+      "danmaku": 548758,
       "reply": 77920,
-      "coin": 730434,
-      "series_follow": 5493727,
-      "series_view": 1008156953,
-      "likes": 2309413,
-      "favorite": 195735
+      "coin": 730442,
+      "series_follow": 5493768,
+      "series_view": 1008184995,
+      "likes": 2309494,
+      "favorite": 195741
     },
     "new_ep": {
       "id": 312273,
@@ -3944,15 +3944,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1345403,
-      "view": 111413032,
-      "danmaku": 462603,
-      "reply": 83306,
-      "coin": 387084,
-      "series_follow": 5493727,
-      "series_view": 1008156953,
-      "likes": 1197287,
-      "favorite": 100809
+      "follow": 1345405,
+      "view": 111416260,
+      "danmaku": 462616,
+      "reply": 83310,
+      "coin": 387087,
+      "series_follow": 5493768,
+      "series_view": 1008184995,
+      "likes": 1197363,
+      "favorite": 100820
     },
     "new_ep": {
       "id": 122863,
@@ -4074,15 +4074,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1472410,
-      "view": 195865146,
-      "danmaku": 482703,
-      "reply": 69621,
-      "coin": 519362,
-      "series_follow": 5493727,
-      "series_view": 1008156953,
-      "likes": 2421732,
-      "favorite": 181589
+      "follow": 1472420,
+      "view": 195871574,
+      "danmaku": 482722,
+      "reply": 69623,
+      "coin": 519367,
+      "series_follow": 5493768,
+      "series_view": 1008184995,
+      "likes": 2421953,
+      "favorite": 181609
     },
     "new_ep": {
       "id": 102200,
@@ -4203,15 +4203,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 870199,
-      "view": 54898863,
-      "danmaku": 241507,
+      "follow": 870195,
+      "view": 54900011,
+      "danmaku": 241524,
       "reply": 21662,
-      "coin": 351011,
-      "series_follow": 5493727,
-      "series_view": 1008156953,
-      "likes": 748729,
-      "favorite": 69620
+      "coin": 351019,
+      "series_follow": 5493768,
+      "series_view": 1008184995,
+      "likes": 748772,
+      "favorite": 69625
     },
     "new_ep": {
       "id": 95913,
@@ -4331,15 +4331,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1665327,
-      "view": 212895807,
-      "danmaku": 1772798,
-      "reply": 55042,
-      "coin": 703439,
-      "series_follow": 5493727,
-      "series_view": 1008156953,
-      "likes": 2419263,
-      "favorite": 194496
+      "follow": 1665333,
+      "view": 212900471,
+      "danmaku": 1772819,
+      "reply": 55037,
+      "coin": 703445,
+      "series_follow": 5493768,
+      "series_view": 1008184995,
+      "likes": 2419359,
+      "favorite": 194501
     },
     "new_ep": {
       "id": 86193,
@@ -4461,15 +4461,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 3396895,
-      "view": 278657433,
-      "danmaku": 3475693,
-      "reply": 138992,
-      "coin": 1842131,
-      "series_follow": 5493727,
-      "series_view": 1008156953,
-      "likes": 3347502,
-      "favorite": 382398
+      "follow": 3396908,
+      "view": 278664921,
+      "danmaku": 3475733,
+      "reply": 138993,
+      "coin": 1842147,
+      "series_follow": 5493768,
+      "series_view": 1008184995,
+      "likes": 3347655,
+      "favorite": 382412
     },
     "new_ep": {
       "id": 64435,
@@ -4592,15 +4592,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 8850038,
-      "view": 512483291,
+      "follow": 8850018,
+      "view": 512483850,
       "danmaku": 2583240,
       "reply": 219679,
       "coin": 2646412,
-      "series_follow": 8991862,
-      "series_view": 549329637,
-      "likes": 5794732,
-      "favorite": 462718
+      "series_follow": 8991849,
+      "series_view": 549330795,
+      "likes": 5794735,
+      "favorite": 462714
     },
     "new_ep": {
       "id": 473805,
@@ -4613,7 +4613,7 @@
     },
     "rating": {
       "score": 7,
-      "count": 242938
+      "count": 242937
     },
     "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/940314a9af07bde22cb4d767a894ebbddf2714c2.png",
     "season_status": 13,
@@ -4789,15 +4789,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 3283167,
-      "view": 287324342,
-      "danmaku": 925444,
-      "reply": 97226,
-      "coin": 655947,
-      "series_follow": 3283112,
-      "series_view": 287324342,
-      "likes": 4261807,
-      "favorite": 336459
+      "follow": 3283229,
+      "view": 287345434,
+      "danmaku": 925456,
+      "reply": 97230,
+      "coin": 655956,
+      "series_follow": 3283174,
+      "series_view": 287345434,
+      "likes": 4262148,
+      "favorite": 336476
     },
     "new_ep": {
       "id": 823842,
@@ -5013,15 +5013,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 5540485,
-      "view": 434161723,
-      "danmaku": 1354481,
-      "reply": 131033,
-      "coin": 2038471,
-      "series_follow": 5645204,
-      "series_view": 453174088,
-      "likes": 6832734,
-      "favorite": 631973
+      "follow": 5540567,
+      "view": 434178096,
+      "danmaku": 1354499,
+      "reply": 131035,
+      "coin": 2038508,
+      "series_follow": 5645317,
+      "series_view": 453194066,
+      "likes": 6833067,
+      "favorite": 631986
     },
     "new_ep": {
       "id": 819062,
@@ -5034,7 +5034,7 @@
     },
     "rating": {
       "score": 9.9,
-      "count": 68862
+      "count": 68863
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/09998dde2e717c59a988e6b98a4e4351c680da7c.png",
     "season_status": 13,
