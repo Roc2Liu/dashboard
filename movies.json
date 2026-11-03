@@ -21,15 +21,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 797542,
-      "view": 43972303,
-      "danmaku": 1163496,
-      "reply": 21431,
-      "coin": 120120,
-      "series_follow": 1537071,
-      "series_view": 67596660,
-      "likes": 169200,
-      "favorite": 106931
+      "follow": 797696,
+      "view": 43988710,
+      "danmaku": 1163566,
+      "reply": 21435,
+      "coin": 120165,
+      "series_follow": 1537305,
+      "series_view": 67625491,
+      "likes": 169317,
+      "favorite": 107072
     },
     "new_ep": {
       "id": 299869,
@@ -135,7 +135,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
+      },
+      "biz_type": "VIP_PREVIEW"
     },
     "renewal_time": "10月1日回归！",
     "first_ep_info": {
@@ -187,6 +188,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -214,13 +216,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 406275,
-      "view": 10023739,
-      "danmaku": 65772,
-      "reply": 10382,
-      "coin": 33685,
-      "likes": 109605,
-      "favorite": 35336
+      "follow": 406284,
+      "view": 10024413,
+      "danmaku": 65775,
+      "reply": 10375,
+      "coin": 33694,
+      "likes": 109610,
+      "favorite": 35335
     },
     "new_ep": {
       "id": 424738,
@@ -297,7 +299,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
+      },
+      "biz_type": "VIP"
     },
     "first_ep_info": {
       "id": 424738,
@@ -343,6 +346,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 3,
     "is_new": 0,
     "progress": "",
@@ -370,15 +374,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 282947,
-      "view": 3455244,
+      "follow": 282948,
+      "view": 3455767,
       "danmaku": 7162,
-      "reply": 1443,
-      "coin": 5596,
-      "series_follow": 386713,
-      "series_view": 40735220,
-      "likes": 22644,
-      "favorite": 26078
+      "reply": 1444,
+      "coin": 5600,
+      "series_follow": 386739,
+      "series_view": 40740791,
+      "likes": 22650,
+      "favorite": 26086
     },
     "new_ep": {
       "id": 1508546,
@@ -470,7 +474,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
+      },
+      "biz_type": "VIP"
     },
     "first_ep_info": {
       "id": 1507404,
@@ -504,6 +509,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -531,15 +537,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 321811,
-      "view": 13801197,
-      "danmaku": 14922,
-      "reply": 6421,
-      "coin": 21502,
-      "series_follow": 386713,
-      "series_view": 40735220,
-      "likes": 129313,
-      "favorite": 50365
+      "follow": 321825,
+      "view": 13805375,
+      "danmaku": 14926,
+      "reply": 6422,
+      "coin": 21504,
+      "series_follow": 386739,
+      "series_view": 40740791,
+      "likes": 129346,
+      "favorite": 50390
     },
     "new_ep": {
       "id": 1533622,
@@ -645,7 +651,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
+      },
+      "biz_type": "VIP"
     },
     "renewal_time": "每周三 19:00更新",
     "first_ep_info": {
@@ -691,6 +698,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -718,14 +726,14 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 835917,
-      "view": 29935295,
-      "danmaku": 6288,
-      "reply": 7828,
+      "follow": 835901,
+      "view": 29942792,
+      "danmaku": 6289,
+      "reply": 7833,
       "coin": 3618,
-      "series_follow": 1018318,
-      "series_view": 324604088,
-      "likes": 115627,
+      "series_follow": 1018351,
+      "series_view": 324651698,
+      "likes": 115645,
       "favorite": 22682
     },
     "new_ep": {
@@ -805,7 +813,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-      }
+      },
+      "biz_type": "EXCLUSIVE"
     },
     "renewal_time": "每周四、五、六、日18:30更新",
     "first_ep_info": {
@@ -826,7 +835,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-        }
+        },
+        "biz_type": "EXCLUSIVE"
       },
       "vip_or_pay": {
         "text": "独家",
@@ -836,7 +846,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-        }
+        },
+        "biz_type": "EXCLUSIVE"
       }
     },
     "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/90061966a437954e58faa63e11bc3b611bd13a6c.png",
@@ -872,6 +883,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -899,15 +911,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1602591,
-      "view": 24086655,
-      "danmaku": 51492,
+      "follow": 1602525,
+      "view": 24089679,
+      "danmaku": 51496,
       "reply": 14001,
       "coin": 39705,
-      "series_follow": 1689759,
-      "series_view": 201096117,
-      "likes": 149856,
-      "favorite": 46126
+      "series_follow": 1689782,
+      "series_view": 201107694,
+      "likes": 149884,
+      "favorite": 46131
     },
     "new_ep": {
       "id": 3101015,
@@ -1009,7 +1021,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
-      }
+      },
+      "biz_type": "PRODUCE"
     },
     "first_ep_info": {
       "id": 3062345,
@@ -1030,7 +1043,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
-        }
+        },
+        "biz_type": "PRODUCE"
       },
       "vip_or_pay": {
         "text": "出品",
@@ -1040,7 +1054,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
-        }
+        },
+        "biz_type": "PRODUCE"
       }
     },
     "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/976c808030451f11e5d8fd6fe4a8227ee7b88a38.png",
@@ -1065,6 +1080,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -1092,15 +1108,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 611202,
-      "view": 56896586,
-      "danmaku": 128771,
-      "reply": 21758,
-      "coin": 193600,
-      "series_follow": 6805820,
-      "series_view": 533363512,
-      "likes": 1190278,
-      "favorite": 146393
+      "follow": 611237,
+      "view": 56916998,
+      "danmaku": 128790,
+      "reply": 21763,
+      "coin": 193619,
+      "series_follow": 6805808,
+      "series_view": 533404521,
+      "likes": 1190755,
+      "favorite": 146431
     },
     "new_ep": {
       "id": 2060436,
@@ -1112,7 +1128,7 @@
     },
     "rating": {
       "score": 9.8,
-      "count": 12582
+      "count": 12585
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/1a06606bc39e24bd18a4c4f782c6a60f135fbc8d.png",
     "season_status": 13,
@@ -1192,7 +1208,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
+      },
+      "biz_type": "VIP"
     },
     "first_ep_info": {
       "id": 2060436,
@@ -1239,6 +1256,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -1266,15 +1284,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 925689,
-      "view": 17517035,
+      "follow": 925658,
+      "view": 17523679,
       "danmaku": 4586,
-      "reply": 5754,
+      "reply": 5755,
       "coin": 3813,
-      "series_follow": 1018318,
-      "series_view": 324604088,
-      "likes": 289614,
-      "favorite": 19538
+      "series_follow": 1018351,
+      "series_view": 324651698,
+      "likes": 289698,
+      "favorite": 19548
     },
     "new_ep": {
       "id": 2183915,
@@ -1354,7 +1372,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-      }
+      },
+      "biz_type": "EXCLUSIVE"
     },
     "renewal_time": "每周四、五、六18:30更新",
     "first_ep_info": {
@@ -1375,7 +1394,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-        }
+        },
+        "biz_type": "EXCLUSIVE"
       },
       "vip_or_pay": {
         "text": "独家",
@@ -1385,7 +1405,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-        }
+        },
+        "biz_type": "EXCLUSIVE"
       }
     },
     "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/e9959bde3d9192bd5c2678546f7bfde9756c9558.png",
@@ -1421,6 +1442,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -1448,13 +1470,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 65538,
-      "view": 1256270,
+      "follow": 65540,
+      "view": 1256312,
       "danmaku": 3582,
       "reply": 493,
       "coin": 4197,
       "likes": 12629,
-      "favorite": 16507
+      "favorite": 16509
     },
     "new_ep": {
       "id": 328489,
@@ -1527,7 +1549,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
+      },
+      "biz_type": "VIP"
     },
     "first_ep_info": {
       "id": 328489,
@@ -1552,6 +1575,7 @@
       "科技",
       "宇宙"
     ],
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -1579,15 +1603,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 347536,
-      "view": 24895276,
+      "follow": 347535,
+      "view": 24895699,
       "danmaku": 66696,
       "reply": 12237,
       "coin": 65961,
-      "series_follow": 395327,
-      "series_view": 30526158,
+      "series_follow": 395329,
+      "series_view": 30527909,
       "likes": 336992,
-      "favorite": 55795
+      "favorite": 55796
     },
     "new_ep": {
       "id": 422267,
@@ -1719,7 +1743,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
-      }
+      },
+      "biz_type": "PRODUCE"
     },
     "renewal_time": "每周日 12:00更新",
     "first_ep_info": {
@@ -1741,7 +1766,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
-        }
+        },
+        "biz_type": "PRODUCE"
       },
       "vip_or_pay": {
         "text": "出品",
@@ -1751,7 +1777,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
-        }
+        },
+        "biz_type": "PRODUCE"
       }
     },
     "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/e82dcec31bd66dfc678089602af99f95c522148e.png",
@@ -1771,6 +1798,7 @@
       "自然",
       "动物"
     ],
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -1798,13 +1826,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1492995,
-      "view": 51846545,
-      "danmaku": 100027,
+      "follow": 1493021,
+      "view": 51848784,
+      "danmaku": 100028,
       "reply": 25383,
-      "coin": 138622,
-      "likes": 336721,
-      "favorite": 335935
+      "coin": 138631,
+      "likes": 336750,
+      "favorite": 335978
     },
     "new_ep": {
       "id": 320687,
@@ -1904,7 +1932,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-      }
+      },
+      "biz_type": "EXCLUSIVE"
     },
     "renewal_time": "每周二 19:00更新",
     "first_ep_info": {
@@ -1926,7 +1955,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-        }
+        },
+        "biz_type": "EXCLUSIVE"
       },
       "vip_or_pay": {
         "text": "独家",
@@ -1936,7 +1966,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-        }
+        },
+        "biz_type": "EXCLUSIVE"
       }
     },
     "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/96c14a1ea862c4f2486a51fd7404d92dcab04aea.png",
@@ -1955,6 +1986,7 @@
     "styles": [
       "宇宙"
     ],
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -1982,15 +2014,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 864214,
-      "view": 40221195,
-      "danmaku": 442292,
-      "reply": 55478,
-      "coin": 570441,
-      "series_follow": 9760645,
-      "series_view": 1138111509,
-      "likes": 902736,
-      "favorite": 187857
+      "follow": 864458,
+      "view": 40238674,
+      "danmaku": 442455,
+      "reply": 55481,
+      "coin": 570615,
+      "series_follow": 9764992,
+      "series_view": 1138690509,
+      "likes": 903010,
+      "favorite": 187915
     },
     "new_ep": {
       "id": 2243434,
@@ -2002,7 +2034,7 @@
     },
     "rating": {
       "score": 9.9,
-      "count": 25019
+      "count": 25025
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/8fa02b8c1647dd620129049ad2c02b7992b6fe15.png",
     "season_status": 13,
@@ -2082,7 +2114,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
+      },
+      "biz_type": "VIP"
     },
     "first_ep_info": {
       "id": 2243434,
@@ -2132,6 +2165,8 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "update_schedule": {},
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -2159,15 +2194,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 327757,
-      "view": 3856033,
-      "danmaku": 3311,
+      "follow": 327751,
+      "view": 3856372,
+      "danmaku": 3312,
       "reply": 1041,
       "coin": 2741,
-      "series_follow": 386713,
-      "series_view": 40735220,
-      "likes": 14981,
-      "favorite": 18071
+      "series_follow": 386739,
+      "series_view": 40740791,
+      "likes": 14982,
+      "favorite": 18077
     },
     "new_ep": {
       "id": 2224723,
@@ -2230,7 +2265,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
+      },
+      "biz_type": "VIP_PREVIEW"
     },
     "first_ep_info": {
       "id": 2215686,
@@ -2267,6 +2303,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -2294,13 +2331,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 125357,
-      "view": 60947037,
+      "follow": 125368,
+      "view": 60964321,
       "danmaku": 37838,
-      "reply": 16737,
-      "coin": 110757,
-      "likes": 1144195,
-      "favorite": 52861
+      "reply": 16739,
+      "coin": 110764,
+      "likes": 1144503,
+      "favorite": 52895
     },
     "new_ep": {
       "id": 1895402,
@@ -2313,7 +2350,7 @@
     },
     "rating": {
       "score": 7.5,
-      "count": 263
+      "count": 264
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/4ca5ba6a31e231d83bf369eee85d6e90d5b430c0.jpg",
     "season_status": 13,
@@ -2416,7 +2453,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
-      }
+      },
+      "biz_type": "PRODUCE"
     },
     "renewal_time": "每周三 19:00更新",
     "first_ep_info": {
@@ -2438,7 +2476,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
-        }
+        },
+        "biz_type": "PRODUCE"
       },
       "vip_or_pay": {
         "text": "出品",
@@ -2448,7 +2487,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
-        }
+        },
+        "biz_type": "PRODUCE"
       }
     },
     "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/50aa1d83a6eeb3e3d9b8af6d7dc8b56fe59daddc.png",
@@ -2479,6 +2519,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -2507,14 +2548,14 @@
     },
     "stat": {
       "follow": 881608,
-      "view": 110230255,
-      "danmaku": 33882,
-      "reply": 33644,
-      "coin": 33682,
-      "series_follow": 1018318,
-      "series_view": 324604088,
-      "likes": 2004584,
-      "favorite": 137847
+      "view": 110255359,
+      "danmaku": 33889,
+      "reply": 33658,
+      "coin": 33694,
+      "series_follow": 1018351,
+      "series_view": 324651698,
+      "likes": 2005020,
+      "favorite": 137889
     },
     "new_ep": {
       "id": 1674493,
@@ -2633,7 +2674,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-      }
+      },
+      "biz_type": "EXCLUSIVE"
     },
     "renewal_time": "每周四周六更新",
     "first_ep_info": {
@@ -2654,7 +2696,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-        }
+        },
+        "biz_type": "EXCLUSIVE"
       },
       "vip_or_pay": {
         "text": "独家",
@@ -2664,7 +2707,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-        }
+        },
+        "biz_type": "EXCLUSIVE"
       }
     },
     "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/55cf02420b1b582a8414736e5db8e07cf38bc3fd.png",
@@ -2700,6 +2744,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -2726,15 +2771,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 159484,
-      "view": 130681925,
-      "danmaku": 2590538,
-      "reply": 262516,
-      "coin": 4330504,
-      "series_follow": 462551,
-      "series_view": 305591666,
-      "likes": 5162294,
-      "favorite": 50408
+      "follow": 159511,
+      "view": 130688752,
+      "danmaku": 2590544,
+      "reply": 262525,
+      "coin": 4330512,
+      "series_follow": 462581,
+      "series_view": 305604629,
+      "likes": 5162335,
+      "favorite": 50417
     },
     "new_ep": {
       "id": 391301,
@@ -2747,7 +2792,7 @@
     },
     "rating": {
       "score": 9.7,
-      "count": 1525
+      "count": 1528
     },
     "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/cb66fc176732ba7907ae53cf5f2725fdc2ce4027.png",
     "season_status": 2,
@@ -2835,6 +2880,7 @@
     "styles": [
       "脱口秀"
     ],
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -2862,15 +2908,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 32842,
-      "view": 3248325,
+      "follow": 32844,
+      "view": 3248724,
       "danmaku": 5028,
       "reply": 1343,
       "coin": 2063,
-      "series_follow": 42357,
-      "series_view": 6478255,
-      "likes": 11463,
-      "favorite": 6625
+      "series_follow": 42360,
+      "series_view": 6479050,
+      "likes": 11465,
+      "favorite": 6629
     },
     "new_ep": {
       "id": 1598302,
@@ -2946,7 +2992,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
+      },
+      "biz_type": "VIP"
     },
     "renewal_time": "每周二 18:00更新",
     "first_ep_info": {
@@ -2990,6 +3037,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -3017,15 +3065,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 725680,
-      "view": 308138764,
-      "danmaku": 80929,
-      "reply": 42575,
-      "coin": 540571,
-      "series_follow": 848376,
-      "series_view": 537508416,
-      "likes": 9901955,
-      "favorite": 773088
+      "follow": 725674,
+      "view": 308173784,
+      "danmaku": 80936,
+      "reply": 42584,
+      "coin": 540581,
+      "series_follow": 848381,
+      "series_view": 537556624,
+      "likes": 9902584,
+      "favorite": 773160
     },
     "new_ep": {
       "id": 775787,
@@ -3038,7 +3086,7 @@
     },
     "rating": {
       "score": 9.7,
-      "count": 3112
+      "count": 3115
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/dbd0acc2aa8e2d8a97077ac281fb9bdbb1f37004.png",
     "season_status": 13,
@@ -3131,7 +3179,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
-      }
+      },
+      "biz_type": "PRODUCE"
     },
     "renewal_time": "首更6集，次周四、五各更新3集",
     "first_ep_info": {
@@ -3153,7 +3202,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
-        }
+        },
+        "biz_type": "PRODUCE"
       },
       "vip_or_pay": {
         "text": "出品",
@@ -3163,7 +3213,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/403e4e8492f9c275490bf11fcf0f0ca68bbe0bbf.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/ba4ec32a4b128372121a7a47ed17b028c27e9280.png"
-        }
+        },
+        "biz_type": "PRODUCE"
       }
     },
     "horizontal_cover_16_9": "https://i0.hdslb.com/bfs/bangumi/image/4905d87385a05116713c9956cc6ae8c55d42875c.png",
@@ -3190,6 +3241,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -3217,12 +3269,12 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 100202,
-      "view": 23947647,
-      "danmaku": 14273,
-      "reply": 4360,
-      "coin": 9918,
-      "likes": 402219,
+      "follow": 100201,
+      "view": 23949819,
+      "danmaku": 14274,
+      "reply": 4362,
+      "coin": 9920,
+      "likes": 402234,
       "favorite": 40824
     },
     "new_ep": {
@@ -3300,7 +3352,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-      }
+      },
+      "biz_type": "EXCLUSIVE"
     },
     "first_ep_info": {
       "id": 478272,
@@ -3320,7 +3373,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-        }
+        },
+        "biz_type": "EXCLUSIVE"
       },
       "vip_or_pay": {
         "text": "独家",
@@ -3330,7 +3384,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-        }
+        },
+        "biz_type": "EXCLUSIVE"
       }
     },
     "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/d229f5ca53368cda96392d8899f97a0df01f7847.png",
@@ -3350,6 +3405,7 @@
       "犯罪",
       "悬疑"
     ],
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -3377,15 +3433,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 280926,
-      "view": 19622746,
+      "follow": 280930,
+      "view": 19623277,
       "danmaku": 18997,
       "reply": 2768,
       "coin": 13778,
-      "series_follow": 386713,
-      "series_view": 40735220,
-      "likes": 64972,
-      "favorite": 60753
+      "series_follow": 386739,
+      "series_view": 40740791,
+      "likes": 64974,
+      "favorite": 60758
     },
     "new_ep": {
       "id": 1439376,
@@ -3491,7 +3547,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
+      },
+      "biz_type": "VIP"
     },
     "renewal_time": "每周六 20:00更新",
     "first_ep_info": {
@@ -3529,6 +3586,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -3556,13 +3614,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 17594,
-      "view": 1757596,
+      "follow": 17596,
+      "view": 1757742,
       "danmaku": 2791,
       "reply": 383,
       "coin": 1913,
-      "series_follow": 42357,
-      "series_view": 6478255,
+      "series_follow": 42360,
+      "series_view": 6479050,
       "likes": 9630,
       "favorite": 3667
     },
@@ -3652,7 +3710,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
+      },
+      "biz_type": "VIP"
     },
     "first_ep_info": {
       "id": 1360742,
@@ -3686,6 +3745,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -3713,13 +3773,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 349901,
-      "view": 7370355,
+      "follow": 349912,
+      "view": 7370573,
       "danmaku": 38905,
       "reply": 7156,
       "coin": 34024,
-      "likes": 93832,
-      "favorite": 29620
+      "likes": 93835,
+      "favorite": 29623
     },
     "new_ep": {
       "id": 385273,
@@ -3796,7 +3856,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
+      },
+      "biz_type": "VIP"
     },
     "first_ep_info": {
       "id": 385273,
@@ -3825,6 +3886,7 @@
       "惊悚",
       "悬疑"
     ],
+    "area_owner": 1,
     "follow_status": 3,
     "is_new": 0,
     "progress": "",
@@ -3852,13 +3914,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1733202,
-      "view": 51916719,
-      "danmaku": 310819,
-      "reply": 43321,
-      "coin": 497552,
-      "likes": 680692,
-      "favorite": 223677
+      "follow": 1733283,
+      "view": 51922117,
+      "danmaku": 310833,
+      "reply": 43325,
+      "coin": 497580,
+      "likes": 680750,
+      "favorite": 223710
     },
     "new_ep": {
       "id": 285026,
@@ -3969,7 +4031,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
+      },
+      "biz_type": "VIP"
     },
     "first_ep_info": {
       "id": 285026,
@@ -3998,6 +4061,7 @@
       "冒险",
       "剧情"
     ],
+    "area_owner": 1,
     "follow_status": 3,
     "is_new": 0,
     "progress": "",
@@ -4025,15 +4089,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1584245,
-      "view": 82260481,
-      "danmaku": 374631,
+      "follow": 1584264,
+      "view": 82264465,
+      "danmaku": 374644,
       "reply": 69409,
-      "coin": 515511,
-      "series_follow": 1626164,
-      "series_view": 82260481,
-      "likes": 810413,
-      "favorite": 174592
+      "coin": 515522,
+      "series_follow": 1626197,
+      "series_view": 82264465,
+      "likes": 810437,
+      "favorite": 174596
     },
     "new_ep": {
       "id": 744327,
@@ -4138,7 +4202,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
+      },
+      "biz_type": "VIP"
     },
     "first_ep_info": {
       "id": 744327,
@@ -4178,6 +4243,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 3,
     "is_new": 0,
     "progress": "",
@@ -4205,13 +4271,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 1096744,
-      "view": 114284002,
-      "danmaku": 296614,
+      "follow": 1096754,
+      "view": 114286665,
+      "danmaku": 296621,
       "reply": 32521,
-      "coin": 395934,
-      "likes": 715867,
-      "favorite": 137489
+      "coin": 395942,
+      "likes": 715886,
+      "favorite": 137495
     },
     "new_ep": {
       "id": 469285,
@@ -4223,7 +4289,7 @@
     },
     "rating": {
       "score": 9.6,
-      "count": 44598
+      "count": 44601
     },
     "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/a5450da9d46e804fe0f25ad72da592d9679c0243.png",
     "season_status": 13,
@@ -4311,7 +4377,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-      }
+      },
+      "biz_type": "EXCLUSIVE"
     },
     "first_ep_info": {
       "id": 469285,
@@ -4331,7 +4398,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-        }
+        },
+        "biz_type": "EXCLUSIVE"
       },
       "vip_or_pay": {
         "text": "独家",
@@ -4341,7 +4409,8 @@
         "multi_img": {
           "color": "http://i0.hdslb.com/bfs/bangumi/image/e31027bd41fb1cec4cbd1477f09799d0749bdf88.png",
           "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/f8812eb31c22db41fb4608353b83a3fc49d2da3c.png"
-        }
+        },
+        "biz_type": "EXCLUSIVE"
       }
     },
     "horizontal_cover_16_9": "http://i0.hdslb.com/bfs/bangumi/image/7dc4c9952ee09a7039d14cd0b0e0b9ce821ef6d4.png",
@@ -4362,6 +4431,7 @@
       "喜剧",
       "悬疑"
     ],
+    "area_owner": 1,
     "follow_status": 3,
     "is_new": 0,
     "progress": "",
@@ -4389,13 +4459,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 676584,
-      "view": 33466922,
-      "danmaku": 129285,
-      "reply": 15632,
-      "coin": 57952,
-      "likes": 322056,
-      "favorite": 54835
+      "follow": 676593,
+      "view": 33470586,
+      "danmaku": 129331,
+      "reply": 15640,
+      "coin": 57958,
+      "likes": 322111,
+      "favorite": 54845
     },
     "new_ep": {
       "id": 832061,
@@ -4468,7 +4538,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
+      },
+      "biz_type": "VIP"
     },
     "first_ep_info": {
       "id": 832061,
@@ -4510,6 +4581,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 3,
     "is_new": 0,
     "progress": "",
@@ -4537,13 +4609,13 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 403135,
-      "view": 14690790,
-      "danmaku": 48236,
-      "reply": 8665,
-      "coin": 78074,
-      "likes": 154275,
-      "favorite": 79130
+      "follow": 403171,
+      "view": 14692980,
+      "danmaku": 48241,
+      "reply": 8666,
+      "coin": 78076,
+      "likes": 154280,
+      "favorite": 79146
     },
     "new_ep": {
       "id": 835476,
@@ -4555,7 +4627,7 @@
     },
     "rating": {
       "score": 9.8,
-      "count": 3715
+      "count": 3716
     },
     "square_cover": "https://i0.hdslb.com/bfs/bangumi/image/e0d32ca66e655607a541352b4838b8051f3e75d3.png",
     "season_status": 13,
@@ -4616,7 +4688,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
+      },
+      "biz_type": "VIP"
     },
     "first_ep_info": {
       "id": 835475,
@@ -4659,6 +4732,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 3,
     "is_new": 0,
     "progress": "",
@@ -4686,12 +4760,12 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 315429,
-      "view": 41796064,
-      "danmaku": 146642,
+      "follow": 315434,
+      "view": 41801917,
+      "danmaku": 146646,
       "reply": 12723,
-      "coin": 90756,
-      "likes": 318706,
+      "coin": 90762,
+      "likes": 318738,
       "favorite": 61403
     },
     "new_ep": {
@@ -4778,7 +4852,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
+      },
+      "biz_type": "VIP"
     },
     "first_ep_info": {
       "id": 836282,
@@ -4819,6 +4894,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 3,
     "is_new": 0,
     "progress": "",
@@ -4846,15 +4922,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 375351,
-      "view": 46398825,
-      "danmaku": 91189,
+      "follow": 375357,
+      "view": 46401130,
+      "danmaku": 91190,
       "reply": 13478,
-      "coin": 75133,
-      "series_follow": 428425,
-      "series_view": 50915954,
-      "likes": 1162527,
-      "favorite": 73003
+      "coin": 75137,
+      "series_follow": 428442,
+      "series_view": 50919069,
+      "likes": 1162570,
+      "favorite": 73006
     },
     "new_ep": {
       "id": 385362,
@@ -4946,7 +5022,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
+      },
+      "biz_type": "VIP"
     },
     "first_ep_info": {
       "id": 385361,
@@ -4986,6 +5063,7 @@
         "type_url": "type.googleapis.com/google.protobuf.BoolValue"
       }
     },
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
@@ -5013,15 +5091,15 @@
       "is_rcmd": 1
     },
     "stat": {
-      "follow": 4119494,
-      "view": 83000327,
-      "danmaku": 1228887,
-      "reply": 112314,
-      "coin": 854662,
-      "series_follow": 5186064,
-      "series_view": 83000327,
-      "likes": 1007616,
-      "favorite": 262994
+      "follow": 4119515,
+      "view": 83003841,
+      "danmaku": 1228900,
+      "reply": 112315,
+      "coin": 854679,
+      "series_follow": 5186107,
+      "series_view": 83003841,
+      "likes": 1007654,
+      "favorite": 263028
     },
     "new_ep": {
       "id": 332658,
@@ -5033,7 +5111,7 @@
     },
     "rating": {
       "score": 9.6,
-      "count": 109684
+      "count": 109685
     },
     "square_cover": "http://i0.hdslb.com/bfs/bangumi/image/12cc0512a9c339794d7e8b4eaa43cebc19fd9b89.png",
     "season_status": 13,
@@ -5113,7 +5191,8 @@
       "multi_img": {
         "color": "http://i0.hdslb.com/bfs/vip/7a099c1d698eeb9036a4f1c4716c25d3cc1fb3ec.png",
         "medium_remind": "https://i0.hdslb.com/bfs/bangumi/image/620a40f8e7004eb881916846e760981b7509d22f.png"
-      }
+      },
+      "biz_type": "VIP"
     },
     "first_ep_info": {
       "id": 332611,
@@ -5142,6 +5221,7 @@
       "奇幻",
       "动画"
     ],
+    "area_owner": 1,
     "follow_status": 2,
     "is_new": 0,
     "progress": "",
